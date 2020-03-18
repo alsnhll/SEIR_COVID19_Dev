@@ -1,1 +1,1 @@
-This directory should have subdirectories containing the different data types the model will eventually read in
+This directory should have subdirectories containing the different data types the model will eventually read in. Please include descriptive directory and file names without spaces or special characters
