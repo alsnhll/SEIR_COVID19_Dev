@@ -2,7 +2,7 @@
 
 (Developer's version) SEIR model for COVID-19 infection, including different clinical trajectories of infection, interventions to reduce transmission, and comparisons to healthcare capacity.
 
-The code the produces the interface and functionality of the Shiny App is in files
+The code that produces the interface and functionality of the Shiny App is in files
 * **server.R**
 * **ui.R**
 
