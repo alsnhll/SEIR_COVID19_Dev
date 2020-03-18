@@ -17,5 +17,5 @@ If you want to run the code to produce the same outputs as Shiny but without dea
 * **runInterventions.R**
 * **runCapacity.R**
 
-When trying out new model structures or plots, it is much easier to work with scripts instead of directly with the app. Once troubleshooting is done, it can be integrated with the app
+When trying out new model structures or plots, it is much easier to work with scripts instead of directly with the app. If you're adding a new feature, please add it via the functions.R file and a new script, so other can test it easily. Once troubleshooting is done, we can figure out how to integrated with the app
 
