@@ -6,10 +6,7 @@ library(RCurl)
 #===================================================================================
 # Script to obtain growth rate of number of confirmed cases per day
 #
-# - A file that obtains the growth rate, for a given number of days, and for a vector of countries.
-#   We may also subdivide into the region / state level if available.
-# - Data is obtained from the github repository, https://github.com/benflips/nCovForecast, who gives
-#   a description of the sources used to create the .csv's of the time series of confirmed cases.
+# - Data is on cases, deaths, and recoveries is obtained from the Johns Hopkins University Center for Systems Science and Engineering COVID-19 repository, which is updated daily and matches what is shown on their popular mapping site
 # - User gives vector of countries they want the growth rate for (e.g. c("US", "Cyprus")). To get a
 #   list of the available countries, use the command, unique(cc$Country.Region)
 # - User gives the dates that they want in c(begin_date, end_date) vector format using date format:
@@ -34,6 +31,7 @@ count_by <- "active"
 # - Get rid of entries that are ill-defined (i.e. we divide by 0 or divide 0/0 when calculating growth rate)
 # - Output dataframe of the growth rate by Country.Region, or by Province.State
 #===================================================================================
+
 deaths <- getURL("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Deaths.csv")
 d <- read.csv(text = deaths)
 d <- data.frame(lapply(d, as.character), stringsAsFactors=FALSE)
@@ -51,6 +49,8 @@ cc <- read.csv(text = infections)
 cc <- data.frame(lapply(cc, as.character), stringsAsFactors=FALSE)
 colnames(cc) <- sapply(colnames(cc), function(x) gsub("X", "", x))
 cc <- cc[which(cc$Country.Region %in% countries),]
+
+# ALH: I'm confused about what's going on here? Is this overriding the real case counts with calculations? This is not a good idea. New dataframes should be created for the active or daily cases and for the growth rates. And can we add some comments here about what is being done in each code chunk?
 
 # Assumes format of data does not change
 if (count_by == "active" | count_by == "daily") {
@@ -96,10 +96,23 @@ cc[is.na(cc)] <- NA
 cc <- do.call(data.frame,lapply(cc, function(x) replace(x, is.infinite(x), NA)))
 
 #===================================================================================
-# Testing: use cc to get the same tab as in Ben Phillips' shiny app
-# NOTE: this visualization has not been rigorously tested, this was just done as a cross check of
-#       Ben Phillips' method
+# Visualize data with the following graphs
 #===================================================================================
+
+#===================================================================================
+# Plot cases over time for countries of choice
+#===================================================================================
+
+# Like main page of Ben Philips app, but using Plotly instead for graphs, and only having a single plot. We can make an option to change the y axis scale from linear ot log, don't need two separate lots for this
+# Use chooses which type of case count to view (cumulative, daily, active cases or deaths or recovered)
+# Multiple countries can be plotted ... same list that user chose at begining of file
+
+#===================================================================================
+# Calculate daily growth rates for countries of choice
+#===================================================================================
+
+# Same output as Growth Rate tab of Ben Phillips’ app, but done with Plotly
+
 cc[is.na(cc)] <- 0
 if (by_country) {
   clrs <- hcl.colors(length(unique(cc$Country.Region)))
@@ -110,3 +123,21 @@ if (by_country) {
   barplot(as.matrix(cc[,5:ncol(cc)]), main="Growth rate",
           xlab="Date", col=clrs, beside=TRUE)
 }
+
+#===================================================================================
+# Calculate curve flattening index for countries of choice
+#===================================================================================
+
+# Same output as Growth Rate tab of Ben Phillips’ app, but done with Plotly
+
+#===================================================================================
+# Estimate growth rate for country of choice
+#===================================================================================
+
+# This is related to what is done in the forecasting from Ben Philip's all (shown on his main page, overlayed on the data, but with slightly better methods)
+
+# Now user must choose only a single country
+# User chooses which time range to use to calculate growth rate r (start and end times) (right now default is for 10 days but user can choose a different range)
+# r is calculated using Poisson regression on daily case counts  (incidence) over the time period chosen
+# Plot cases over time overlayed with curve fit (note that although it’s statistically better to fit to incidence, the cumulative and active case counts will also growth with the same exponential rate, as should deaths and recovered, so the user could choose which of these to display, though for now we can stick with plotting all cases or incidence)
+
