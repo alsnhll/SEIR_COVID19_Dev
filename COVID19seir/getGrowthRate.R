@@ -20,7 +20,7 @@ library(RCurl)
 countries <- c("Iran", "Italy", "Spain") 
 dates <- c(begin="3.8.20", end="3.18.20") # Note: current code gets data from begin + 1 to end
 by_country <- TRUE
-count_by <- "daily"
+count_by <- "active"
 
 #===================================================================================
 # - First, we load in the data directly from:
@@ -52,25 +52,25 @@ cc <- data.frame(lapply(cc, as.character), stringsAsFactors=FALSE)
 colnames(cc) <- sapply(colnames(cc), function(x) gsub("X", "", x))
 cc <- cc[which(cc$Country.Region %in% countries),]
 
-keep_info <- c("Province.State", "Country.Region", "Lat", "Long")
-
+# Assumes format of data does not change
 if (count_by == "active" | count_by == "daily") {
   # Create "active inspections" by subtracting cc - d - r
-  for (date in colnames(cc)[(length(keep_info) + 1):length(colnames(cc))]) {
+  for (date in colnames(cc)[5:length(colnames(cc))]) {
     cc[,date] <- as.numeric(cc[,date]) - as.numeric(r[,date]) - as.numeric(d[,date])
   }
   if (count_by == "daily") {
-    for (col_dex in (length(keep_info) + 1):ncol(cc)) {
+    for (col_dex in 6:ncol(cc)) {
       diff <- cc[,col_dex] - cc[,(col_dex - 1)]
       cc[,(col_dex - 1)] <- ifelse(diff < 0, 0, diff)
     }
-    colnames(cc)[(length(keep_info) + 1):ncol(cc)] <- c(colnames(cc)[(length(keep_info) + 2):ncol(cc)], "delete")
+    colnames(cc)[5:ncol(cc)] <- c(colnames(cc)[6:ncol(cc)], "delete")
     cc$delete <- NULL
   }
 }
 
 b_col <- which(colnames(cc) == dates["begin"])
 e_col <- which(colnames(cc) == dates["end"])
+keep_info <- c("Province.State", "Country.Region", "Lat", "Long")
 cc <- cc[,c(which(colnames(cc) %in% keep_info), b_col:e_col)]
 b_col <- length(keep_info) + 1
 e_col <- ncol(cc)
