@@ -1,0 +1,60 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
+\title{SEIR model with age-classes}
+\begin{document}
+\maketitle
+We want to take a SEIR model with 3 classes of infection and modify it to account for different population ages. In the following, unless specified otherwise, bold quantities are $n$-dimensional vectors, $n$ being the number of classes of age. \textit{E.g.} $\mathbf{S}$ is composed by elements $S_i$, with $i \in \{1,\dots, n\}$. To maintain lower indeces as vectorial indeces, I also defined $\mathbf{I}^{(k)}$, with $k\in\{1, 2, 3\}$ the three infection classes. Hence, \textit{e.g.} $I_1^{(2)}$ is the number of individuals of classe of age 1 in the second infection class (severe infections).
+The first assumption that could simplify the problem by a lot is that individuals who progress to further infection stages (as well as individuals recovering and dying) do not change class of age. With respect to the original model with 3 classes of age, we will have terms that represent transmission between age classes. The equation for $\dot{\mathbf{S}}$ is then
+\begin{equation}
+\dot{\mathbf{S}} = -\sum_{k = 1}^{3} \mathbf{B}^{(k)} \mathbf{I}^{(k)}\;,
+\end{equation}
+where $\mathbf{B}^{(k)}$ are the 3 matrices of transmission from infected to susceptible individuals, with elements $\beta^{(k)}_{ij}$ indicating the probability of an individual of age $j$ in the severity class $k$ to infect a susceptible individual of age $i$. At this point we can of course define 
+\begin{displaymath}
+\mathbf{B}^{(k)} = \beta^{(k)}\mathbf{C}\;,
+\end{displaymath}
+with $\mathbf{C}$ the contact matrix between different classes of age with elements $c_{ji}$, and $\beta^{(k)}$ the probability of any individual in the severity class $k$ to infect a susceptible individual. Notice that this is a specific case in which the infection rate is not dependent on age; we will continue with this assumption. \textit{E.g.}, for an individual of class of age $1$ in a model with only two classes of age, this would look as
+\begin{displaymath}
+\dot{S}_1 = -c_{11}\beta^{(1)}I^{(1)}_1 - c_{12}\beta^{(1)}I^{(1)}_2 - c_{11}\beta^{(2)}I^{(2)}_1 - c_{12}\beta^{(2)}I^{(2)}_2 - c_{11}\beta^{(3)}I^{(3)}_1 - c_{12}\beta^{(3)}I^{(3)}_2 \;.
+\end{displaymath}
+With the same logic, let's define $E$:
+\begin{equation}
+\dot{\mathbf{E}} = -\mathbf{aE} + \sum_{k = 1}^{3} \beta^{(k)}\mathbf{C} \mathbf{I}^{(k)}\;,
+\end{equation}
+where $\mathbf{a}$ is the diagonal matrix with the rates of progression per class of age, with diagonal elements $a_i$. For the same example showed before, an element of class of age 1 would look as
+\begin{displaymath}
+\dot{E}_1 = - E_1 a_{1} + c_{11}\beta^{(1)}I^{(1)}_1 + c_{12}\beta^{(1)}I^{(1)}_2 + c_{11}\beta^{(2)}I^{(2)}_1 + c_{12}\beta^{(2)}I^{(2)}_2 + c_{11}\beta^{(3)}I^{(3)}_1 + c_{12}\beta^{(3)}I^{(3)}_2 \;.
+\end{displaymath}
+The three infectious classes look, you guessed it, as
+\begin{equation}
+\dot{\mathbf{I}}^{(1)} = \mathbf{aE} - (\mathbf{\Gamma}^{(1)} + \mathbf{p}^{(1)})\mathbf{I}^{(1)}\;,
+\end{equation}
+\begin{equation}
+\dot{\mathbf{I}}^{(2)} = \mathbf{p}^{(1)}\mathbf{I}^{(1)} - (\mathbf{\Gamma}^{(2)} + \mathbf{p}^{(2)})\mathbf{I}^{(2)}\;,
+\end{equation}
+\begin{equation}
+\dot{\mathbf{I}}^{(3)} = \mathbf{p}^{(2)}\mathbf{I}^{(2)} - (\mathbf{\Gamma}^{(3)} + \mathbf{M})\mathbf{I}^{(3)}\;,
+\end{equation}
+with $\mathbf{\Gamma}^{(k)}$ the diagonal matrices (diagonal elements $\gamma_{i}^{(k)}$, $i\in\{1,\dots n\}$) of rates at which infected individuals of infection class $k$ recover, and $\mathbf{p}^{(k)}$ are the diagonal matrices of the rates at which infected individuals in class $k$ progress to class $k+1$. $\mathbf{M}$, is the matrix of mortality rates of individuals in the most severe stage of infection, with elements $\mu_{i}$. \textit{E.g.}, an element of $\dot{\mathbf{I}}^{(1)}$ would look as
+\begin{displaymath}
+\dot{I}^{(1)}_1 = E_1 a_{1} - (\gamma_{1}^{(1)} + p_{1})I^{(1)}_1\;.
+\end{displaymath}
+Finally, let's take a look at $\mathbf{R}$ and $\mathbf{M}$: 
+\begin{equation}
+\dot{\textbf{R}} = \sum_{k=1}^{3}\mathbf{\Gamma}^{(k)}\mathbf{I}^{(k)}\;,
+\end{equation}
+\begin{equation}
+\dot{\textbf{D}} = \mathbf{M}\mathbf{I}^{(3)}\;,
+\end{equation}
+with respective example elements
+\begin{displaymath}
+R_1 = \gamma^{(1)}_1 I_1^{(1)} + \gamma^{(2)}_1 I_1^{(2)} + \gamma^{(3)}_1 I_1^{(3)}\;,
+\end{displaymath}
+\begin{displaymath}
+D_1 = \mu_1 I_1^{(3)}\;.
+\end{displaymath}
+The only equations that couple among classes of age are those for $\mathbf{S}$ and $\mathbf{E}$, while the others behave as $n$ uncoupled equations. Computational problems can be addressed by reducing $n$, of course, or by assuming many elements of the cross-age matrices $\mathbf{B}^{(k)}$ to be null, in order to reduce coupling. I'm not sure about the feasability of the whole model though, hence any idea of how to approximate the model would be welcome.\\
+\end{document}
