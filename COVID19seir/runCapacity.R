@@ -51,8 +51,6 @@ CFR=(input$ProbDeath/100)*(input$FracCritical) #Case fatality rate
 
 # Run simulations
 
-
-
 sim=SimSEIR(input)
 
 out.df=sim$out.df
