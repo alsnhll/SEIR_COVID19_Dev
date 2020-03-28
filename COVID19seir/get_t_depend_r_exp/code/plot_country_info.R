@@ -238,11 +238,11 @@ if (count_by == "daily") {
   to_plot <- r_g_final
 }
 reorg_to_plot <- reorganize_to_plot(to_plot=to_plot)
-growth_plot <- plot_cases(reorg_to_plot=reorg_to_plot, growth=T)
+daily_growth_plot <- plot_cases(reorg_to_plot=reorg_to_plot, growth=T)
 
 # Plot growth plot and basic info plot -----------------------------------------
 basic_info_plot
-growth_plot
+daily_growth_plot
 
 # Initial plot for exponential growth rate fit for country of choice -----------
 if (count_by == "daily") {
