@@ -24,7 +24,7 @@ library(dplyr)
 countries <- c("US", "Spain", "Italy", "Iran")
 dates <- c(begin="3.1.20", end="3.27.20")
 y_scale <- "log"
-count_by <- "deceased"
+count_by <- "cumulative"
 growth_country <- "Iran"
 
 # Load global data from JHU CSSEGIS --------------------------------------------
