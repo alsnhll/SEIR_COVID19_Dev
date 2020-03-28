@@ -24,8 +24,8 @@ library(dplyr)
 countries <- c("US", "Spain", "Italy", "Iran")
 dates <- c(begin="3.1.20", end="3.27.20")
 y_scale <- "log"
-count_by <- "active"
-growth_country <- "US"
+count_by <- "deceased"
+growth_country <- "Iran"
 
 # Load global data from JHU CSSEGIS --------------------------------------------
 keep_info <- c("Province.State", "Country.Region", "Lat", "Long")
@@ -213,7 +213,7 @@ plot_cases <- function(reorg_to_plot, growth=F) {
     }
   }
   if (growth) {
-    y_name <- paste0("growth ", count_by, " cases (", y_scale, ")")
+    y_name <- paste0("daily growth ", count_by, " cases (", y_scale, ")")
   } else {
     y_name <- paste0(count_by, " cases (", y_scale, ")")
   }
