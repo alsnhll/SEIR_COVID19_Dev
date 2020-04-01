@@ -8,7 +8,7 @@ We use a compartmental epidemiological model, based on the classic SEIR model, t
 ### Equations
 
 \begin{equation}
-\dot{S} = -(\beta_1 I_1 -\beta_2 I_2 - \beta_3 I_3) S
+\dot{S} = -(\beta_1 I_1 +\beta_2 I_2 + \beta_3 I_3) S
 \end{equation}
 
 \begin{equation}

@@ -61,18 +61,26 @@ fluidPage(
 
         )
       ),
-      h4(div(HTML("<em>Set simulation values...</em>"))),
-      #sliderInput("LogN", div(HTML("Total population size (log10)")), 1, 9, 3, step=0.1),
-      #htmlOutput("N"),
-      column(width=5,
-             numericInput("N", div(HTML("Population size:")), value=1000, max=10^10, min=1000, step=1000)
+      fluidRow(
+        h4(div(HTML("<em>Set simulation values...</em>"))),
+        #sliderInput("LogN", div(HTML("Total population size (log10)")), 1, 9, 3, step=0.1),
+        #htmlOutput("N"),
       ),
-      column(width=5,
-             numericInput("InitInf","Initial # infected:",value = 1, min = 1, step = 1)
+      fluidRow(
+        column(width=5,
+               numericInput("N", div(HTML("Population size:")), value=1000, max=10^10, min=1000, step=1000)
+        ),
+        column(width=5,
+               numericInput("InitInf","Initial # infected:",value = 1, min = 1, step = 1)
+        ),
+        #br(),
+      ),  
+      fluidRow(
+        column(width=12,
+               sliderInput("Tmax", div(HTML("Maximum time")),0, 1000, 300, step=10, post=" days"),
+               actionButton("reset", "Reset all") 
+        )
       ),
-      #br(),
-      sliderInput("Tmax", div(HTML("Maximum time")),0, 1000, 300, step=10, post=" days"),
-      actionButton("reset", "Reset all"),    
       width=5
     ),
     
