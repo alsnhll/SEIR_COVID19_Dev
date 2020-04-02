@@ -1,0 +1,66 @@
+GEO_ID,id,0100000US
+NAME,Geographic Area Name,United States
+DP02_0001E,Estimate!!HOUSEHOLDS BY TYPE!!Total households,121520180
+DP02_0001M,Margin of Error!!HOUSEHOLDS BY TYPE!!Total households,153217
+DP02_0001PE,Percent Estimate!!HOUSEHOLDS BY TYPE!!Total households,121520180
+DP02_0001PM,Percent Margin of Error!!HOUSEHOLDS BY TYPE!!Total households,(X)
+DP02_0002E,Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families),79241578
+DP02_0002M,Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families),137610
+DP02_0002PE,Percent Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families),65.2
+DP02_0002PM,Percent Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families),0.1
+DP02_0003E,Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!With own children of the householder under 18 years,32777050
+DP02_0003M,Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!With own children of the householder under 18 years,78353
+DP02_0003PE,Percent Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!With own children of the householder under 18 years,27
+DP02_0003PM,Percent Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!With own children of the householder under 18 years,0.1
+DP02_0004E,Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!Married-couple family,58174461
+DP02_0004M,Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!Married-couple family,165541
+DP02_0004PE,Percent Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!Married-couple family,47.9
+DP02_0004PM,Percent Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!Married-couple family,0.1
+DP02_0005E,Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!Married-couple family!!With own children of the householder under 18 years,22257765
+DP02_0005M,Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!Married-couple family!!With own children of the householder under 18 years,82986
+DP02_0005PE,Percent Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!Married-couple family!!With own children of the householder under 18 years,18.3
+DP02_0005PM,Percent Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!Married-couple family!!With own children of the householder under 18 years,0.1
+DP02_0006E,"Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!Male householder, no wife present, family",6005379
+DP02_0006M,"Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!Male householder, no wife present, family",39486
+DP02_0006PE,"Percent Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!Male householder, no wife present, family",4.9
+DP02_0006PM,"Percent Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!Male householder, no wife present, family",0.1
+DP02_0007E,"Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!Male householder, no wife present, family!!With own children of the householder under 18 years",2740506
+DP02_0007M,"Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!Male householder, no wife present, family!!With own children of the householder under 18 years",31175
+DP02_0007PE,"Percent Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!Male householder, no wife present, family!!With own children of the householder under 18 years",2.3
+DP02_0007PM,"Percent Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!Male householder, no wife present, family!!With own children of the householder under 18 years",0.1
+DP02_0008E,"Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!Female householder, no husband present, family",15061738
+DP02_0008M,"Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!Female householder, no husband present, family",67919
+DP02_0008PE,"Percent Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!Female householder, no husband present, family",12.4
+DP02_0008PM,"Percent Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!Female householder, no husband present, family",0.1
+DP02_0009E,"Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!Female householder, no husband present, family!!With own children of the householder under 18 years",7778779
+DP02_0009M,"Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!Female householder, no husband present, family!!With own children of the householder under 18 years",47532
+DP02_0009PE,"Percent Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!Female householder, no husband present, family!!With own children of the householder under 18 years",6.4
+DP02_0009PM,"Percent Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Family households (families)!!Female householder, no husband present, family!!With own children of the householder under 18 years",0.1
+DP02_0010E,Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Nonfamily households,42278602
+DP02_0010M,Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Nonfamily households,83510
+DP02_0010PE,Percent Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Nonfamily households,34.8
+DP02_0010PM,Percent Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Nonfamily households,0.1
+DP02_0011E,Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Nonfamily households!!Householder living alone,34054073
+DP02_0011M,Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Nonfamily households!!Householder living alone,89821
+DP02_0011PE,Percent Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Nonfamily households!!Householder living alone,28
+DP02_0011PM,Percent Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Nonfamily households!!Householder living alone,0.1
+DP02_0012E,Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Nonfamily households!!Householder living alone!!65 years and over,13421396
+DP02_0012M,Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Nonfamily households!!Householder living alone!!65 years and over,50260
+DP02_0012PE,Percent Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Nonfamily households!!Householder living alone!!65 years and over,11
+DP02_0012PM,Percent Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Nonfamily households!!Householder living alone!!65 years and over,0.1
+DP02_0013E,Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Households with one or more people under 18 years,36878070
+DP02_0013M,Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Households with one or more people under 18 years,84504
+DP02_0013PE,Percent Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Households with one or more people under 18 years,30.3
+DP02_0013PM,Percent Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Households with one or more people under 18 years,0.1
+DP02_0014E,Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Households with one or more people 65 years and over,36582233
+DP02_0014M,Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Households with one or more people 65 years and over,50002
+DP02_0014PE,Percent Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Households with one or more people 65 years and over,30.1
+DP02_0014PM,Percent Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Households with one or more people 65 years and over,0.1
+DP02_0015E,Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Average household size,2.63
+DP02_0015M,Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Average household size,0.01
+DP02_0015PE,Percent Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Average household size,(X)
+DP02_0015PM,Percent Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Average household size,(X)
+DP02_0016E,Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Average family size,3.24
+DP02_0016M,Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Average family size,0.01
+DP02_0016PE,Percent Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Average family size,(X)
+DP02_0016PM,Percent Margin of Error!!HOUSEHOLDS BY TYPE!!Total households!!Average family size,(X)

@@ -1,0 +1,46 @@
+GEO_ID,id,0100000US
+NAME,Geographic Area Name,United States
+B08202_001E,Estimate!!Total,120062818
+B08202_001M,Margin of Error!!Total,161148
+B08202_002E,Estimate!!Total!!No workers,31812388
+B08202_002M,Margin of Error!!Total!!No workers,72820
+B08202_003E,Estimate!!Total!!1 worker,45193157
+B08202_003M,Margin of Error!!Total!!1 worker,99996
+B08202_004E,Estimate!!Total!!2 workers,34654720
+B08202_004M,Margin of Error!!Total!!2 workers,104619
+B08202_005E,Estimate!!Total!!3 or more workers,8402553
+B08202_005M,Margin of Error!!Total!!3 or more workers,53132
+B08202_006E,Estimate!!Total!!1-person household,33513155
+B08202_006M,Margin of Error!!Total!!1-person household,97864
+B08202_007E,Estimate!!Total!!1-person household!!No workers,16508320
+B08202_007M,Margin of Error!!Total!!1-person household!!No workers,57815
+B08202_008E,Estimate!!Total!!1-person household!!1 worker,17004835
+B08202_008M,Margin of Error!!Total!!1-person household!!1 worker,72492
+B08202_009E,Estimate!!Total!!2-person household,40993693
+B08202_009M,Margin of Error!!Total!!2-person household,118919
+B08202_010E,Estimate!!Total!!2-person household!!No workers,12079932
+B08202_010M,Margin of Error!!Total!!2-person household!!No workers,45143
+B08202_011E,Estimate!!Total!!2-person household!!1 worker,13739902
+B08202_011M,Margin of Error!!Total!!2-person household!!1 worker,56522
+B08202_012E,Estimate!!Total!!2-person household!!2 workers,15173859
+B08202_012M,Margin of Error!!Total!!2-person household!!2 workers,72031
+B08202_013E,Estimate!!Total!!3-person household,18559969
+B08202_013M,Margin of Error!!Total!!3-person household,74170
+B08202_014E,Estimate!!Total!!3-person household!!No workers,1788180
+B08202_014M,Margin of Error!!Total!!3-person household!!No workers,21170
+B08202_015E,Estimate!!Total!!3-person household!!1 worker,6313145
+B08202_015M,Margin of Error!!Total!!3-person household!!1 worker,39703
+B08202_016E,Estimate!!Total!!3-person household!!2 workers,7786749
+B08202_016M,Margin of Error!!Total!!3-person household!!2 workers,48652
+B08202_017E,Estimate!!Total!!3-person household!!3 workers,2671895
+B08202_017M,Margin of Error!!Total!!3-person household!!3 workers,26141
+B08202_018E,Estimate!!Total!!4-or-more-person household,26996001
+B08202_018M,Margin of Error!!Total!!4-or-more-person household,75633
+B08202_019E,Estimate!!Total!!4-or-more-person household!!No workers,1435956
+B08202_019M,Margin of Error!!Total!!4-or-more-person household!!No workers,22119
+B08202_020E,Estimate!!Total!!4-or-more-person household!!1 worker,8135275
+B08202_020M,Margin of Error!!Total!!4-or-more-person household!!1 worker,44354
+B08202_021E,Estimate!!Total!!4-or-more-person household!!2 workers,11694112
+B08202_021M,Margin of Error!!Total!!4-or-more-person household!!2 workers,53508
+B08202_022E,Estimate!!Total!!4-or-more-person household!!3 or more workers,5730658
+B08202_022M,Margin of Error!!Total!!4-or-more-person household!!3 or more workers,42469
