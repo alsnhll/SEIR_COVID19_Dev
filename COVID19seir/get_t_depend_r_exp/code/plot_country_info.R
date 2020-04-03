@@ -21,11 +21,11 @@ library(dplyr)
 #' @param growth_country country to estimate growth rate
 
 # Select parameters ------------------------------------------------------------
-countries <- c("US", "Spain", "Italy", "Iran")
-dates <- c(begin="3.1.20", end="3.27.20")
+countries <- c("US", "Peru")
+dates <- c(begin="2.20.20", end="3.30.20")
 y_scale <- "log"
-count_by <- "cumulative"
-growth_country <- "Iran"
+count_by <- "active"
+growth_country <- "Peru"
 
 # Load global data from JHU CSSEGIS --------------------------------------------
 keep_info <- c("Province.State", "Country.Region", "Lat", "Long")
