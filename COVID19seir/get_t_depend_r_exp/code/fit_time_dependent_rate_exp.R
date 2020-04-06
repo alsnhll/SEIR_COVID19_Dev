@@ -1,25 +1,28 @@
 library(tseries)
 
-#' Script to fit time dependentt growth rate of an exponential function
+#' Script to fit time dependent growth rate of an exponential function
 #'
 #' @description script to fit the time dependent growth rate of an exponential
 #' function using local linear regression, with and without an intercept, as 
-#' well as fit the best exponential function to the data. Current data is the
+#' well as fitting the best exp. function to the data. Current data is the
 #' NYT U.S. state data of number of confirmed cases, number of deceased, and
 #' daily incidence of confirmed cases.
+#' @return plot of growth rate, exponential fit on log scale, and exponential 
+#' fit on linear scale for the following three data sources: number of confirmed
+#' cases, number of deceased, and daily incidence of confirmed cases.
 
-# Load NYT data, get confirmed and deceased data -------------------------------
+# Load NYT data -- get confirmed and deceased data -----------------------------
 nyt_full <- read.csv(text = getURL("https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv"))
 confirmed_deceased_data <- function(db, c_or_d) {
   cases_date_ls <- list()
   index <- 1
-  # For each date --------------------------------------------------------------
+  # Loop through each date -----------------------------------------------------
   for (date in as.character(unique(db$date))) {
     cases_date <- nyt_full[which(db$date == date),]
     to_add <- data.frame(matrix(rep(0, times=(length(unique(db$state)) + 1)), 
                                 ncol=(length(unique(db$state)) + 1), nrow=1))
     colnames(to_add) <- c(as.character(unique(db$state)), "total")
-    # Input state case data ---------------------------------------------------
+    # Sum all county cases of state --------------------------------------------
     for (state in as.character(unique(cases_date$state))) {
       if (c_or_d == "c") {
         to_add[1,state] <- sum(cases_date$cases[which(cases_date$state == state)])
@@ -27,13 +30,13 @@ confirmed_deceased_data <- function(db, c_or_d) {
         to_add[1,state] <-sum(cases_date$deaths[which(cases_date$state == state)])
       }
     }
-    # Add total information ----------------------------------------------------
+    # Add information to final database ----------------------------------------
     to_add$total[1] <- rowSums(to_add)
     cases_date_ls[[index]] <- to_add
     index <- index + 1
   }
   cases_date <- do.call(rbind, cases_date_ls)
-  cases_date$exp <- exp(0.4 * seq(1:nrow(cases_date)))
+  cases_date$exp <- exp(0.4 * seq(1:nrow(cases_date))) # simple exp. example ---
   cases_date$date <- as.character(unique(db$date))
   return(cases_date)
 }
@@ -47,10 +50,6 @@ get_daily_incidence <- function(db) {
   db <- rbind(rep(0, ncol(db)), db)
   for (row_num in 2:nrow(db)) {
     db[(row_num - 1),] <- db[row_num,] - db[(row_num - 1),]
-    if (sum(unlist(db[(row_num - 1),]) < 0)) {
-      print("non-monotonicity exists.")
-      print(row_num)
-    }
   }
   db <- db[1:(nrow(db) - 1),]
   db$date <- save_date[1:nrow(db)]
@@ -58,32 +57,36 @@ get_daily_incidence <- function(db) {
   return(db)
 }
 nyt_daily <- get_daily_incidence(db=nyt_confirmed)
-nyt_daily$exp <- exp(0.4 * seq(1:nrow(nyt_daily)))
+nyt_daily$exp <- exp(0.4 * seq(1:nrow(nyt_daily))) # simple exp. example -------
 
-# r(t) for cumulative, daily, deceased data fit by state -----------------------
+# Plot r(t) for cumulative, daily, deceased data (fit by state) ----------------
 plot_r_t <- function(db, type, start, window) {
-  # Hawaii and Wyoming removal for deceased (since there are none yet)
+  # Hawaii and Wyoming manual removal from "deceased" plot (since there are none yet)
   if (type == "deceased") {
     db$Hawaii <- NULL
     db$Wyoming <- NULL
   }
+  # Remove Virgin Islands and Northern Mariana Islands -------------------------
   db$`Virgin Islands` <- NULL
   db$`Northern Mariana Islands` <- NULL
   
+  # Prepare layout of pdf ------------------------------------------------------
   pdf(file=paste0("~/SEIR_COVID19_Dev/COVID19seir/get_t_depend_r_exp/plots/", 
                   type,
                   "_start_", start, 
                   "_window_", window, ".pdf"),width=8, height=16)
   par(mfrow=c(6,3))
+  
+  # Loop through each state and solve for instantaneous growth rate ------------
   states <- colnames(db)[1:(ncol(db) - 1)]
   for (state in states) {
-    # Estimating first case time -----------------------------------------------
-    first_occ_nonzero <- min(which(db[,state] != 0))
+    # Define beginning of time series ------------------------------------------
+    first_occ_nonzero <- min(which(db[,state] != 0)) # 1st occur of nonzero elem
     t <- db[(max(1, (first_occ_nonzero - 1)):nrow(db)), state]
     t <- as.numeric(t)
     t <- t[min(which(t >= start)):length(t)]
     
-    # Solve for r(t) using intercept -------------------------------------------
+    # Solve for r(t) using intercept (red line) --------------------------------
     rs <- list()
     rs_dex <- 1
     intercepts <- list()
@@ -101,43 +104,41 @@ plot_r_t <- function(db, type, start, window) {
     }
     rs <- do.call(rbind, rs)
     rs <- data.frame(rs)
-    first_last <- data.frame(matrix(c(NA), ncol=1, nrow=1))
+    first_last <- data.frame(matrix(c(NA), ncol=1, nrow=1)) # Add NA for times we did not solve for
     colnames(first_last) <- c("xs")
     rs <- rbind(first_last, rs)
     rs <- rbind(rs, first_last)
     
-    # Plot r(t) graph using intercept ------------------------------------------
+    # Plot "using-intercept" r(t) (red line) -----------------------------------
     plot(rs$xs, main=state, ylab="r(t)", xlab="t (days)", ylim=c(0, 1), col="red", type="l")
     intercepts <- do.call(rbind, intercepts)
     intercepts <- data.frame(intercepts)
-    first_last <- data.frame(matrix(c(NA), ncol=1, nrow=1))
+    first_last <- data.frame(matrix(c(NA), ncol=1, nrow=1)) # Add NA for times we did not solve for
     colnames(first_last) <- c("X.Intercept.")
     intercepts <- rbind(first_last, intercepts)
     intercepts <- rbind(intercepts, first_last)
     
-    # Solve for r(t) without using intercept, and plot -------------------------
+    # Solve for r(t) without using intercept, and plot (green line) ------------
     rs_2 <- list()
     rs_2_dex <- 1
     for (i in (1 + window):(length(t) - window)) {
-      # time free estimate of r(t), using just D(t)
-      
-      #svd_res <- svd(matrix(c(1:(1 + 2 * window)), nrow=(1 + 2 * window), ncol=1)) # should this be 0, 1, 2? Why does this make a difference?
-      svd_res <- svd(matrix(c((i - window):(i + window)), nrow=(1 + 2 * window), ncol=1)) # should this be 0, 1, 2? Why does this make a difference?
-      pseudo <- svd_res$v %*% as.matrix(1/svd_res$d) %*% t(svd_res$u)
       t_local <- log(t[(i - window):(i + window)])
       t_local <- sapply(t_local, function (x) ifelse(is.infinite(x), 0, x)) # infinity correction
-      rs_2[[rs_2_dex]] <- pseudo %*% t_local
+      local_exp_fit <- data.frame(cbind(c((i - window):(i + window)), t_local))
+      colnames(local_exp_fit) <- c("xs", "ys")
+      local_exp_fit_res <- lm(ys ~ 0 + xs, data=local_exp_fit)
+      rs_2[[rs_2_dex]] <- local_exp_fit_res$coefficients[1]
       rs_2_dex <- rs_2_dex + 1
     }
     rs_2 <- do.call(rbind, rs_2)
     rs_2 <- data.frame(rs_2)
-    first_last <- data.frame(matrix(c(NA), ncol=1, nrow=1))
-    colnames(first_last) <- c("rs_2")
+    first_last <- data.frame(matrix(c(NA), ncol=1, nrow=1)) # Add NA for times we did not solve for
+    colnames(first_last) <- c("xs")
     rs_2 <- rbind(first_last, rs_2)
     rs_2 <- rbind(rs_2, first_last)
-    lines(rs_2$rs_2, col="green")
+    lines(rs_2$xs, col="green")
     
-    # Solve for best exponential fit (no variance, r(t) is constant) -----------
+    # Solve best exp. fit entire t-series (i.e. constant r(t)) (blue line) -----
     exp_fit <- data.frame(cbind(1:length(t), log(t)))
     colnames(exp_fit) <- c("xs", "ys")
     exp_fit$ys <- ifelse(is.infinite(exp_fit$ys), 0, exp_fit$ys) # infinity correction
@@ -146,34 +147,34 @@ plot_r_t <- function(db, type, start, window) {
     best_intercept <- lm_res$coefficients[1]
     abline(h=best_r, col="blue")
     
-    # Graph the time dependent exponential function (log) ----------------------
+    # Plot the time-dependent-r exp. fit on log scale (middle panel) -----------
     ys <- vector()
     ys2 <- vector()
     ys3 <- vector()
-    for (i in 2:(length(t) - 1)) {
+    for (i in 2:(length(t) - 1)) { # Loop through all time to get data point using each of three methods
       ys <- c(ys, 1 * exp(rs[i, 1] * i))
       ys2 <- c(ys2, 1 * exp(best_r * i))
       ys3 <- c(ys3, 1 * exp(rs_2[i, 1] * i))
     }
-    ys <- c(rep(NA, window), ys, rep(NA, window))
+    ys <- c(rep(NA, window), ys, rep(NA, window)) # Add NA for times we did not solve for
     ys2 <- c(rep(NA, window), ys2, rep(NA, window))
     ys3 <- c(rep(NA, window), ys3, rep(NA, window))
     plot(log(t), main=state, ylab=paste0("log(# ", type," cases)"), 
-         xlab="t (days)", ylim=c(0, 10), pch=20, cex=0.5)
+         xlab="t (days)", ylim=c(0, 10), pch=10, cex=0.5)
     lines(intercepts + log(ys), col="red")
     lines(best_intercept + log(ys2), col="blue")
     lines(log(ys3), col="green")
     
-    # Graph the time dependent exponential function (linear) -------------------
+    # Plot the time-dependent-r exp. fit on linear scale (right panel) ---------
     ys <- vector()
     ys2 <- vector()
     ys3 <- vector()
-    for (i in 2:(length(t) - 1)) {
+    for (i in 2:(length(t) - 1)) {  # Loop through all time to get data point using each of three methods
       ys <- c(ys, rs[i, 1] * i)
       ys2 <- c(ys2, best_r * i)
       ys3 <- c(ys3, rs_2[i, 1] * i)
     }
-    ys <- c(rep(NA, window), ys, rep(NA, window))
+    ys <- c(rep(NA, window), ys, rep(NA, window)) # Add NA for times we did not solve for
     ys2 <- c(rep(NA, window), ys2, rep(NA, window))
     ys3 <- c(rep(NA, window), ys3, rep(NA, window))
     plot(t, main=state, ylab=paste("# ", type, " cases"), xlab="t (days)", pch=20, cex=0.5)
