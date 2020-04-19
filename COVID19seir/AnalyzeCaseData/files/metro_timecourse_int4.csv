@@ -1,0 +1,2358 @@
+"metro","date","time","cases","newCases","deaths","newDeaths","population","closePublicSchools","banGatherings","closeSocialRetail","stayAtHome"
+"Atlanta-Sandy Springs-Marietta, GA",2020-03-01,0,0,0,0,0,5931098,0,0,0,0
+"Atlanta-Sandy Springs-Marietta, GA",2020-03-02,1,2,2,0,0,5931098,0,0,0,0
+"Atlanta-Sandy Springs-Marietta, GA",2020-03-03,2,2,0,0,0,5931098,0,0,0,0
+"Atlanta-Sandy Springs-Marietta, GA",2020-03-04,3,2,0,0,0,5931098,0,0,0,0
+"Atlanta-Sandy Springs-Marietta, GA",2020-03-05,4,2,0,0,0,5931098,0,0,0,0
+"Atlanta-Sandy Springs-Marietta, GA",2020-03-06,5,2,0,0,0,5931098,0,0,0,0
+"Atlanta-Sandy Springs-Marietta, GA",2020-03-07,6,6,4,0,0,5931098,0,0,0,0
+"Atlanta-Sandy Springs-Marietta, GA",2020-03-08,7,10,4,0,0,5931098,0,0,0,0
+"Atlanta-Sandy Springs-Marietta, GA",2020-03-09,8,15,5,0,0,5931098,0,0,0,0
+"Atlanta-Sandy Springs-Marietta, GA",2020-03-10,9,19,4,0,0,5931098,0,0,0,0
+"Atlanta-Sandy Springs-Marietta, GA",2020-03-11,10,25,6,0,0,5931098,0,0,0,0
+"Atlanta-Sandy Springs-Marietta, GA",2020-03-12,11,25,0,1,1,5931098,0,0,0,0
+"Atlanta-Sandy Springs-Marietta, GA",2020-03-13,12,33,8,1,0,5931098,0,0,0,0
+"Atlanta-Sandy Springs-Marietta, GA",2020-03-14,13,56,23,1,0,5931098,0,0,0,0
+"Atlanta-Sandy Springs-Marietta, GA",2020-03-15,14,77,21,1,0,5931098,0,0,0,0
+"Atlanta-Sandy Springs-Marietta, GA",2020-03-16,15,94,17,1,0,5931098,0,0,0,0
+"Atlanta-Sandy Springs-Marietta, GA",2020-03-17,16,113,19,1,0,5931098,0,0,0,0
+"Atlanta-Sandy Springs-Marietta, GA",2020-03-18,17,155,42,1,0,5931098,1,1,0,0
+"Atlanta-Sandy Springs-Marietta, GA",2020-03-19,18,210,55,4,3,5931098,1,1,0,0
+"Atlanta-Sandy Springs-Marietta, GA",2020-03-20,19,342,132,6,2,5931098,1,1,0,0
+"Atlanta-Sandy Springs-Marietta, GA",2020-03-21,20,370,28,12,6,5931098,1,1,0,0
+"Atlanta-Sandy Springs-Marietta, GA",2020-03-22,21,417,47,15,3,5931098,1,1,0,0
+"Atlanta-Sandy Springs-Marietta, GA",2020-03-23,22,537,120,15,0,5931098,1,1,0,0
+"Atlanta-Sandy Springs-Marietta, GA",2020-03-24,23,683,146,20,5,5931098,1,1,0,0
+"Atlanta-Sandy Springs-Marietta, GA",2020-03-25,24,826,143,20,0,5931098,1,1,1,0
+"Atlanta-Sandy Springs-Marietta, GA",2020-03-26,25,951,125,20,0,5931098,1,1,1,0
+"Atlanta-Sandy Springs-Marietta, GA",2020-03-27,26,1340,389,34,14,5931098,1,1,1,0
+"Atlanta-Sandy Springs-Marietta, GA",2020-03-28,27,1481,141,41,7,5931098,1,1,1,1
+"Atlanta-Sandy Springs-Marietta, GA",2020-03-29,28,1661,180,41,0,5931098,1,1,1,1
+"Atlanta-Sandy Springs-Marietta, GA",2020-03-30,29,1946,285,52,11,5931098,1,1,1,1
+"Atlanta-Sandy Springs-Marietta, GA",2020-03-31,30,2405,459,63,11,5931098,1,1,1,1
+"Atlanta-Sandy Springs-Marietta, GA",2020-04-01,31,2556,151,78,15,5931098,1,1,1,1
+"Atlanta-Sandy Springs-Marietta, GA",2020-04-02,32,2925,369,91,13,5931098,1,1,1,1
+"Atlanta-Sandy Springs-Marietta, GA",2020-04-03,33,3474,549,105,14,5931098,1,1,1,1
+"Atlanta-Sandy Springs-Marietta, GA",2020-04-04,34,3796,322,112,7,5931098,1,1,1,1
+"Atlanta-Sandy Springs-Marietta, GA",2020-04-05,35,3879,83,118,6,5931098,1,1,1,1
+"Atlanta-Sandy Springs-Marietta, GA",2020-04-06,36,4289,410,141,23,5931098,1,1,1,1
+"Atlanta-Sandy Springs-Marietta, GA",2020-04-07,37,4803,514,158,17,5931098,1,1,1,1
+"Atlanta-Sandy Springs-Marietta, GA",2020-04-08,38,5092,289,166,8,5931098,1,1,1,1
+"Atlanta-Sandy Springs-Marietta, GA",2020-04-09,39,5384,292,183,17,5931098,1,1,1,1
+"Atlanta-Sandy Springs-Marietta, GA",2020-04-10,40,5740,356,190,7,5931098,1,1,1,1
+"Atlanta-Sandy Springs-Marietta, GA",2020-04-11,41,5904,164,192,2,5931098,1,1,1,1
+"Atlanta-Sandy Springs-Marietta, GA",2020-04-12,42,6143,239,197,5,5931098,1,1,1,1
+"Atlanta-Sandy Springs-Marietta, GA",2020-04-13,43,6749,606,215,18,5931098,1,1,1,1
+"Atlanta-Sandy Springs-Marietta, GA",2020-04-14,44,7387,638,237,22,5931098,1,1,1,1
+"Atlanta-Sandy Springs-Marietta, GA",2020-04-15,45,7832,445,259,22,5931098,1,1,1,1
+"Atlanta-Sandy Springs-Marietta, GA",2020-04-16,46,8146,314,274,15,5931098,1,1,1,1
+"Atlanta-Sandy Springs-Marietta, GA",2020-04-17,47,8713,567,298,24,5931098,1,1,1,1
+"Austin-Round Rock-San Marcos, TX",2020-03-01,0,0,0,0,0,2168316,0,0,0,0
+"Austin-Round Rock-San Marcos, TX",2020-03-02,1,0,0,0,0,2168316,0,0,0,0
+"Austin-Round Rock-San Marcos, TX",2020-03-03,2,0,0,0,0,2168316,0,0,0,0
+"Austin-Round Rock-San Marcos, TX",2020-03-09,8,0,0,0,0,2168316,0,0,0,0
+"Austin-Round Rock-San Marcos, TX",2020-03-13,12,4,4,0,0,2168316,0,0,0,0
+"Austin-Round Rock-San Marcos, TX",2020-03-14,13,5,1,0,0,2168316,0,0,0,0
+"Austin-Round Rock-San Marcos, TX",2020-03-15,14,7,2,0,0,2168316,0,0,0,0
+"Austin-Round Rock-San Marcos, TX",2020-03-16,15,7,0,0,0,2168316,0,0,0,0
+"Austin-Round Rock-San Marcos, TX",2020-03-17,16,7,0,0,0,2168316,0,0,0,0
+"Austin-Round Rock-San Marcos, TX",2020-03-18,17,13,6,0,0,2168316,1,0,0,0
+"Austin-Round Rock-San Marcos, TX",2020-03-19,18,20,7,0,0,2168316,1,1,0,0
+"Austin-Round Rock-San Marcos, TX",2020-03-20,19,36,16,0,0,2168316,1,1,0,0
+"Austin-Round Rock-San Marcos, TX",2020-03-21,20,77,41,0,0,2168316,1,1,1,0
+"Austin-Round Rock-San Marcos, TX",2020-03-22,21,94,17,0,0,2168316,1,1,1,0
+"Austin-Round Rock-San Marcos, TX",2020-03-23,22,99,5,0,0,2168316,1,1,1,0
+"Austin-Round Rock-San Marcos, TX",2020-03-24,23,99,0,0,0,2168316,1,1,1,0
+"Austin-Round Rock-San Marcos, TX",2020-03-25,24,148,49,0,0,2168316,1,1,1,0
+"Austin-Round Rock-San Marcos, TX",2020-03-26,25,173,25,0,0,2168316,1,1,1,0
+"Austin-Round Rock-San Marcos, TX",2020-03-27,26,207,34,1,1,2168316,1,1,1,0
+"Austin-Round Rock-San Marcos, TX",2020-03-28,27,208,1,1,0,2168316,1,1,1,0
+"Austin-Round Rock-San Marcos, TX",2020-03-29,28,230,22,2,1,2168316,1,1,1,0
+"Austin-Round Rock-San Marcos, TX",2020-03-30,29,260,30,3,1,2168316,1,1,1,0
+"Austin-Round Rock-San Marcos, TX",2020-03-31,30,273,13,3,0,2168316,1,1,1,0
+"Austin-Round Rock-San Marcos, TX",2020-04-01,31,338,65,3,0,2168316,1,1,1,0
+"Austin-Round Rock-San Marcos, TX",2020-04-02,32,403,65,4,1,2168316,1,1,1,1
+"Austin-Round Rock-San Marcos, TX",2020-04-03,33,471,68,4,0,2168316,1,1,1,1
+"Austin-Round Rock-San Marcos, TX",2020-04-04,34,551,80,7,3,2168316,1,1,1,1
+"Austin-Round Rock-San Marcos, TX",2020-04-05,35,590,39,8,1,2168316,1,1,1,1
+"Austin-Round Rock-San Marcos, TX",2020-04-06,36,645,55,9,1,2168316,1,1,1,1
+"Austin-Round Rock-San Marcos, TX",2020-04-07,37,647,2,9,0,2168316,1,1,1,1
+"Austin-Round Rock-San Marcos, TX",2020-04-08,38,765,118,11,2,2168316,1,1,1,1
+"Austin-Round Rock-San Marcos, TX",2020-04-09,39,783,18,11,0,2168316,1,1,1,1
+"Austin-Round Rock-San Marcos, TX",2020-04-10,40,837,54,11,0,2168316,1,1,1,1
+"Austin-Round Rock-San Marcos, TX",2020-04-11,41,888,51,13,2,2168316,1,1,1,1
+"Austin-Round Rock-San Marcos, TX",2020-04-12,42,986,98,13,0,2168316,1,1,1,1
+"Austin-Round Rock-San Marcos, TX",2020-04-13,43,1074,88,16,3,2168316,1,1,1,1
+"Austin-Round Rock-San Marcos, TX",2020-04-14,44,1133,59,19,3,2168316,1,1,1,1
+"Austin-Round Rock-San Marcos, TX",2020-04-15,45,1138,5,19,0,2168316,1,1,1,1
+"Austin-Round Rock-San Marcos, TX",2020-04-16,46,1240,102,22,3,2168316,1,1,1,1
+"Austin-Round Rock-San Marcos, TX",2020-04-17,47,1348,108,26,4,2168316,1,1,1,1
+"Baltimore-Towson, MD",2020-03-01,0,0,0,0,0,2802789,0,0,0,0
+"Baltimore-Towson, MD",2020-03-02,1,0,0,0,0,2802789,0,0,0,0
+"Baltimore-Towson, MD",2020-03-03,2,0,0,0,0,2802789,0,0,0,0
+"Baltimore-Towson, MD",2020-03-08,7,1,1,0,0,2802789,0,0,0,0
+"Baltimore-Towson, MD",2020-03-09,8,1,0,0,0,2802789,0,0,0,0
+"Baltimore-Towson, MD",2020-03-10,9,1,0,0,0,2802789,0,0,0,0
+"Baltimore-Towson, MD",2020-03-11,10,2,1,0,0,2802789,0,0,0,0
+"Baltimore-Towson, MD",2020-03-12,11,2,0,0,0,2802789,0,0,0,0
+"Baltimore-Towson, MD",2020-03-13,12,4,2,0,0,2802789,0,0,0,0
+"Baltimore-Towson, MD",2020-03-14,13,7,3,0,0,2802789,0,0,0,0
+"Baltimore-Towson, MD",2020-03-15,14,10,3,0,0,2802789,0,0,0,0
+"Baltimore-Towson, MD",2020-03-16,15,11,1,0,0,2802789,0,0,0,0
+"Baltimore-Towson, MD",2020-03-17,16,16,5,0,0,2802789,0,0,0,0
+"Baltimore-Towson, MD",2020-03-18,17,30,14,0,0,2802789,1,0,0,0
+"Baltimore-Towson, MD",2020-03-19,18,46,16,0,0,2802789,1,1,0,0
+"Baltimore-Towson, MD",2020-03-20,19,61,15,1,1,2802789,1,1,0,0
+"Baltimore-Towson, MD",2020-03-21,20,78,17,1,0,2802789,1,1,1,0
+"Baltimore-Towson, MD",2020-03-22,21,104,26,1,0,2802789,1,1,1,0
+"Baltimore-Towson, MD",2020-03-23,22,123,19,1,0,2802789,1,1,1,0
+"Baltimore-Towson, MD",2020-03-24,23,148,25,1,0,2802789,1,1,1,0
+"Baltimore-Towson, MD",2020-03-25,24,181,33,1,0,2802789,1,1,1,0
+"Baltimore-Towson, MD",2020-03-26,25,261,80,1,0,2802789,1,1,1,0
+"Baltimore-Towson, MD",2020-03-27,26,359,98,2,1,2802789,1,1,1,0
+"Baltimore-Towson, MD",2020-03-28,27,519,160,4,2,2802789,1,1,1,0
+"Baltimore-Towson, MD",2020-03-29,28,581,62,5,1,2802789,1,1,1,0
+"Baltimore-Towson, MD",2020-03-30,29,655,74,6,1,2802789,1,1,1,0
+"Baltimore-Towson, MD",2020-03-31,30,781,126,8,2,2802789,1,1,1,0
+"Baltimore-Towson, MD",2020-04-01,31,913,132,11,3,2802789,1,1,1,0
+"Baltimore-Towson, MD",2020-04-02,32,1126,213,11,0,2802789,1,1,1,1
+"Baltimore-Towson, MD",2020-04-03,33,1337,211,18,7,2802789,1,1,1,1
+"Baltimore-Towson, MD",2020-04-04,34,1494,157,25,7,2802789,1,1,1,1
+"Baltimore-Towson, MD",2020-04-05,35,1709,215,30,5,2802789,1,1,1,1
+"Baltimore-Towson, MD",2020-04-06,36,1860,151,40,10,2802789,1,1,1,1
+"Baltimore-Towson, MD",2020-04-07,37,1950,90,47,7,2802789,1,1,1,1
+"Baltimore-Towson, MD",2020-04-08,38,2465,515,55,8,2802789,1,1,1,1
+"Baltimore-Towson, MD",2020-04-09,39,2742,277,63,8,2802789,1,1,1,1
+"Baltimore-Towson, MD",2020-04-10,40,2975,233,78,15,2802789,1,1,1,1
+"Baltimore-Towson, MD",2020-04-11,41,3248,273,99,21,2802789,1,1,1,1
+"Baltimore-Towson, MD",2020-04-12,42,3483,235,112,13,2802789,1,1,1,1
+"Baltimore-Towson, MD",2020-04-13,43,3755,272,122,10,2802789,1,1,1,1
+"Baltimore-Towson, MD",2020-04-14,44,3950,195,123,1,2802789,1,1,1,1
+"Baltimore-Towson, MD",2020-04-15,45,4247,297,124,1,2802789,1,1,1,1
+"Baltimore-Towson, MD",2020-04-16,46,4486,239,130,6,2802789,1,1,1,1
+"Baltimore-Towson, MD",2020-04-17,47,4766,280,148,18,2802789,1,1,1,1
+"Birmingham-Hoover, AL",2020-03-01,0,0,0,0,0,1151801,0,0,0,0
+"Birmingham-Hoover, AL",2020-03-02,1,0,0,0,0,1151801,0,0,0,0
+"Birmingham-Hoover, AL",2020-03-03,2,0,0,0,0,1151801,0,0,0,0
+"Birmingham-Hoover, AL",2020-03-09,8,0,0,0,0,1151801,0,0,0,0
+"Birmingham-Hoover, AL",2020-03-13,12,2,2,0,0,1151801,0,0,0,0
+"Birmingham-Hoover, AL",2020-03-14,13,6,4,0,0,1151801,0,0,0,0
+"Birmingham-Hoover, AL",2020-03-15,14,15,9,0,0,1151801,0,0,0,0
+"Birmingham-Hoover, AL",2020-03-16,15,20,5,0,0,1151801,0,0,0,0
+"Birmingham-Hoover, AL",2020-03-17,16,26,6,0,0,1151801,0,0,1,0
+"Birmingham-Hoover, AL",2020-03-18,17,30,4,0,0,1151801,0,0,1,0
+"Birmingham-Hoover, AL",2020-03-19,18,45,15,0,0,1151801,0,0,1,0
+"Birmingham-Hoover, AL",2020-03-20,19,62,17,0,0,1151801,0,0,1,0
+"Birmingham-Hoover, AL",2020-03-21,20,79,17,0,0,1151801,1,1,1,1
+"Birmingham-Hoover, AL",2020-03-22,21,92,13,0,0,1151801,1,1,1,1
+"Birmingham-Hoover, AL",2020-03-23,22,114,22,0,0,1151801,1,1,1,1
+"Birmingham-Hoover, AL",2020-03-24,23,127,13,0,0,1151801,1,1,1,1
+"Birmingham-Hoover, AL",2020-03-25,24,188,61,0,0,1151801,1,1,1,1
+"Birmingham-Hoover, AL",2020-03-26,25,257,69,0,0,1151801,1,1,1,1
+"Birmingham-Hoover, AL",2020-03-27,26,294,37,0,0,1151801,1,1,1,1
+"Birmingham-Hoover, AL",2020-03-28,27,336,42,0,0,1151801,1,1,1,1
+"Birmingham-Hoover, AL",2020-03-29,28,381,45,0,0,1151801,1,1,1,1
+"Birmingham-Hoover, AL",2020-03-30,29,407,26,0,0,1151801,1,1,1,1
+"Birmingham-Hoover, AL",2020-03-31,30,434,27,2,2,1151801,1,1,1,1
+"Birmingham-Hoover, AL",2020-04-01,31,464,30,7,5,1151801,1,1,1,1
+"Birmingham-Hoover, AL",2020-04-02,32,510,46,8,1,1151801,1,1,1,1
+"Birmingham-Hoover, AL",2020-04-03,33,584,74,10,2,1151801,1,1,1,1
+"Birmingham-Hoover, AL",2020-04-04,34,606,22,14,4,1151801,1,1,1,1
+"Birmingham-Hoover, AL",2020-04-05,35,675,69,14,0,1151801,1,1,1,1
+"Birmingham-Hoover, AL",2020-04-06,36,710,35,16,2,1151801,1,1,1,1
+"Birmingham-Hoover, AL",2020-04-07,37,752,42,17,1,1151801,1,1,1,1
+"Birmingham-Hoover, AL",2020-04-08,38,801,49,19,2,1151801,1,1,1,1
+"Birmingham-Hoover, AL",2020-04-09,39,862,61,19,0,1151801,1,1,1,1
+"Birmingham-Hoover, AL",2020-04-10,40,899,37,19,0,1151801,1,1,1,1
+"Birmingham-Hoover, AL",2020-04-11,41,947,48,20,1,1151801,1,1,1,1
+"Birmingham-Hoover, AL",2020-04-12,42,994,47,20,0,1151801,1,1,1,1
+"Birmingham-Hoover, AL",2020-04-13,43,1039,45,20,0,1151801,1,1,1,1
+"Birmingham-Hoover, AL",2020-04-14,44,1050,11,23,3,1151801,1,1,1,1
+"Birmingham-Hoover, AL",2020-04-15,45,1076,26,24,1,1151801,1,1,1,1
+"Birmingham-Hoover, AL",2020-04-16,46,1088,12,29,5,1151801,1,1,1,1
+"Birmingham-Hoover, AL",2020-04-17,47,1108,20,32,3,1151801,1,1,1,1
+"Boston-Cambridge-Quincy, MA-NH",2020-03-01,0,1,0,0,0,4875390,0,0,0,0
+"Boston-Cambridge-Quincy, MA-NH",2020-03-02,1,2,1,0,0,4875390,0,0,0,0
+"Boston-Cambridge-Quincy, MA-NH",2020-03-03,2,2,0,0,0,4875390,0,0,0,0
+"Boston-Cambridge-Quincy, MA-NH",2020-03-04,3,2,0,0,0,4875390,0,0,0,0
+"Boston-Cambridge-Quincy, MA-NH",2020-03-05,4,3,1,0,0,4875390,0,0,0,0
+"Boston-Cambridge-Quincy, MA-NH",2020-03-06,5,8,5,0,0,4875390,0,0,0,0
+"Boston-Cambridge-Quincy, MA-NH",2020-03-07,6,13,5,0,0,4875390,0,0,0,0
+"Boston-Cambridge-Quincy, MA-NH",2020-03-08,7,27,14,0,0,4875390,0,0,0,0
+"Boston-Cambridge-Quincy, MA-NH",2020-03-09,8,36,9,0,0,4875390,0,0,0,0
+"Boston-Cambridge-Quincy, MA-NH",2020-03-10,9,86,50,0,0,4875390,0,0,0,0
+"Boston-Cambridge-Quincy, MA-NH",2020-03-11,10,86,0,0,0,4875390,0,0,0,0
+"Boston-Cambridge-Quincy, MA-NH",2020-03-12,11,100,14,0,0,4875390,0,0,0,0
+"Boston-Cambridge-Quincy, MA-NH",2020-03-13,12,116,16,0,0,4875390,0,0,0,0
+"Boston-Cambridge-Quincy, MA-NH",2020-03-14,13,129,13,0,0,4875390,0,0,0,0
+"Boston-Cambridge-Quincy, MA-NH",2020-03-15,14,155,26,0,0,4875390,0,0,0,0
+"Boston-Cambridge-Quincy, MA-NH",2020-03-16,15,183,28,0,0,4875390,0,0,0,0
+"Boston-Cambridge-Quincy, MA-NH",2020-03-17,16,201,18,0,0,4875390,0,0,1,0
+"Boston-Cambridge-Quincy, MA-NH",2020-03-18,17,232,31,0,0,4875390,0,0,1,0
+"Boston-Cambridge-Quincy, MA-NH",2020-03-19,18,285,53,0,0,4875390,0,0,1,0
+"Boston-Cambridge-Quincy, MA-NH",2020-03-20,19,355,70,1,1,4875390,0,0,1,0
+"Boston-Cambridge-Quincy, MA-NH",2020-03-21,20,441,86,2,1,4875390,1,1,1,1
+"Boston-Cambridge-Quincy, MA-NH",2020-03-22,21,516,75,3,1,4875390,1,1,1,1
+"Boston-Cambridge-Quincy, MA-NH",2020-03-23,22,615,99,3,0,4875390,1,1,1,1
+"Boston-Cambridge-Quincy, MA-NH",2020-03-24,23,896,281,4,1,4875390,1,1,1,1
+"Boston-Cambridge-Quincy, MA-NH",2020-03-25,24,1351,455,5,1,4875390,1,1,1,1
+"Boston-Cambridge-Quincy, MA-NH",2020-03-26,25,1737,386,12,7,4875390,1,1,1,1
+"Boston-Cambridge-Quincy, MA-NH",2020-03-27,26,2332,595,17,5,4875390,1,1,1,1
+"Boston-Cambridge-Quincy, MA-NH",2020-03-28,27,3017,685,21,4,4875390,1,1,1,1
+"Boston-Cambridge-Quincy, MA-NH",2020-03-29,28,3481,464,25,4,4875390,1,1,1,1
+"Boston-Cambridge-Quincy, MA-NH",2020-03-30,29,4055,574,32,7,4875390,1,1,1,1
+"Boston-Cambridge-Quincy, MA-NH",2020-03-31,30,4859,804,52,20,4875390,1,1,1,1
+"Boston-Cambridge-Quincy, MA-NH",2020-04-01,31,5665,806,73,21,4875390,1,1,1,1
+"Boston-Cambridge-Quincy, MA-NH",2020-04-02,32,6569,904,95,22,4875390,1,1,1,1
+"Boston-Cambridge-Quincy, MA-NH",2020-04-03,33,7639,1070,116,21,4875390,1,1,1,1
+"Boston-Cambridge-Quincy, MA-NH",2020-04-04,34,8650,1011,125,9,4875390,1,1,1,1
+"Boston-Cambridge-Quincy, MA-NH",2020-04-05,35,9304,654,134,9,4875390,1,1,1,1
+"Boston-Cambridge-Quincy, MA-NH",2020-04-06,36,10273,969,154,20,4875390,1,1,1,1
+"Boston-Cambridge-Quincy, MA-NH",2020-04-07,37,11360,1087,208,54,4875390,1,1,1,1
+"Boston-Cambridge-Quincy, MA-NH",2020-04-08,38,12669,1309,255,47,4875390,1,1,1,1
+"Boston-Cambridge-Quincy, MA-NH",2020-04-09,39,14262,1593,299,44,4875390,1,1,1,1
+"Boston-Cambridge-Quincy, MA-NH",2020-04-10,40,15902,1640,373,74,4875390,1,1,1,1
+"Boston-Cambridge-Quincy, MA-NH",2020-04-11,41,17270,1368,441,68,4875390,1,1,1,1
+"Boston-Cambridge-Quincy, MA-NH",2020-04-12,42,19266,1996,486,45,4875390,1,1,1,1
+"Boston-Cambridge-Quincy, MA-NH",2020-04-13,43,20375,1109,555,69,4875390,1,1,1,1
+"Boston-Cambridge-Quincy, MA-NH",2020-04-14,44,21343,968,635,80,4875390,1,1,1,1
+"Boston-Cambridge-Quincy, MA-NH",2020-04-15,45,22752,1409,721,86,4875390,1,1,1,1
+"Boston-Cambridge-Quincy, MA-NH",2020-04-16,46,24588,1836,827,106,4875390,1,1,1,1
+"Boston-Cambridge-Quincy, MA-NH",2020-04-17,47,26209,1621,919,92,4875390,1,1,1,1
+"Buffalo-Niagara Falls, NY",2020-03-01,0,0,0,0,0,1130152,0,0,0,0
+"Buffalo-Niagara Falls, NY",2020-03-02,1,0,0,0,0,1130152,0,0,0,0
+"Buffalo-Niagara Falls, NY",2020-03-03,2,0,0,0,0,1130152,0,0,0,0
+"Buffalo-Niagara Falls, NY",2020-03-09,8,0,0,0,0,1130152,0,0,0,0
+"Buffalo-Niagara Falls, NY",2020-03-14,13,0,0,0,0,1130152,0,0,0,0
+"Buffalo-Niagara Falls, NY",2020-03-15,14,3,3,0,0,1130152,0,0,0,0
+"Buffalo-Niagara Falls, NY",2020-03-16,15,6,3,0,0,1130152,0,0,0,0
+"Buffalo-Niagara Falls, NY",2020-03-17,16,7,1,0,0,1130152,0,0,1,0
+"Buffalo-Niagara Falls, NY",2020-03-18,17,7,0,0,0,1130152,0,0,1,0
+"Buffalo-Niagara Falls, NY",2020-03-19,18,28,21,0,0,1130152,0,0,1,0
+"Buffalo-Niagara Falls, NY",2020-03-20,19,34,6,0,0,1130152,0,0,1,0
+"Buffalo-Niagara Falls, NY",2020-03-21,20,42,8,0,0,1130152,1,1,1,1
+"Buffalo-Niagara Falls, NY",2020-03-22,21,60,18,0,0,1130152,1,1,1,1
+"Buffalo-Niagara Falls, NY",2020-03-23,22,97,37,0,0,1130152,1,1,1,1
+"Buffalo-Niagara Falls, NY",2020-03-24,23,118,21,0,0,1130152,1,1,1,1
+"Buffalo-Niagara Falls, NY",2020-03-25,24,134,16,0,0,1130152,1,1,1,1
+"Buffalo-Niagara Falls, NY",2020-03-26,25,148,14,2,2,1130152,1,1,1,1
+"Buffalo-Niagara Falls, NY",2020-03-27,26,242,94,6,4,1130152,1,1,1,1
+"Buffalo-Niagara Falls, NY",2020-03-28,27,387,145,6,0,1130152,1,1,1,1
+"Buffalo-Niagara Falls, NY",2020-03-29,28,418,31,6,0,1130152,1,1,1,1
+"Buffalo-Niagara Falls, NY",2020-03-30,29,449,31,8,2,1130152,1,1,1,1
+"Buffalo-Niagara Falls, NY",2020-03-31,30,480,31,8,0,1130152,1,1,1,1
+"Buffalo-Niagara Falls, NY",2020-04-01,31,599,119,12,4,1130152,1,1,1,1
+"Buffalo-Niagara Falls, NY",2020-04-02,32,825,226,19,7,1130152,1,1,1,1
+"Buffalo-Niagara Falls, NY",2020-04-03,33,893,68,22,3,1130152,1,1,1,1
+"Buffalo-Niagara Falls, NY",2020-04-04,34,1048,155,26,4,1130152,1,1,1,1
+"Buffalo-Niagara Falls, NY",2020-04-05,35,1175,127,27,1,1130152,1,1,1,1
+"Buffalo-Niagara Falls, NY",2020-04-06,36,1293,118,30,3,1130152,1,1,1,1
+"Buffalo-Niagara Falls, NY",2020-04-07,37,1306,13,36,6,1130152,1,1,1,1
+"Buffalo-Niagara Falls, NY",2020-04-08,38,1348,42,38,2,1130152,1,1,1,1
+"Buffalo-Niagara Falls, NY",2020-04-09,39,1508,160,46,8,1130152,1,1,1,1
+"Buffalo-Niagara Falls, NY",2020-04-10,40,1565,57,59,13,1130152,1,1,1,1
+"Buffalo-Niagara Falls, NY",2020-04-11,41,1639,74,64,5,1130152,1,1,1,1
+"Buffalo-Niagara Falls, NY",2020-04-12,42,1754,115,80,16,1130152,1,1,1,1
+"Buffalo-Niagara Falls, NY",2020-04-13,43,1813,59,91,11,1130152,1,1,1,1
+"Buffalo-Niagara Falls, NY",2020-04-14,44,1865,52,105,14,1130152,1,1,1,1
+"Buffalo-Niagara Falls, NY",2020-04-15,45,1955,90,116,11,1130152,1,1,1,1
+"Buffalo-Niagara Falls, NY",2020-04-16,46,2066,111,123,7,1130152,1,1,1,1
+"Buffalo-Niagara Falls, NY",2020-04-17,47,2156,90,123,0,1130152,1,1,1,1
+"Charlotte-Gastonia-Rock Hill, NC-SC",2020-03-01,0,0,0,0,0,2062992,0,0,0,0
+"Charlotte-Gastonia-Rock Hill, NC-SC",2020-03-02,1,0,0,0,0,2062992,0,0,0,0
+"Charlotte-Gastonia-Rock Hill, NC-SC",2020-03-03,2,0,0,0,0,2062992,0,0,0,0
+"Charlotte-Gastonia-Rock Hill, NC-SC",2020-03-09,8,0,0,0,0,2062992,0,0,0,0
+"Charlotte-Gastonia-Rock Hill, NC-SC",2020-03-12,11,3,3,0,0,2062992,0,0,0,0
+"Charlotte-Gastonia-Rock Hill, NC-SC",2020-03-13,12,3,0,0,0,2062992,0,0,0,0
+"Charlotte-Gastonia-Rock Hill, NC-SC",2020-03-14,13,3,0,0,0,2062992,0,0,0,0
+"Charlotte-Gastonia-Rock Hill, NC-SC",2020-03-15,14,5,2,0,0,2062992,0,0,0,0
+"Charlotte-Gastonia-Rock Hill, NC-SC",2020-03-16,15,5,0,0,0,2062992,0,0,0,0
+"Charlotte-Gastonia-Rock Hill, NC-SC",2020-03-17,16,9,4,0,0,2062992,0,0,1,0
+"Charlotte-Gastonia-Rock Hill, NC-SC",2020-03-18,17,14,5,0,0,2062992,0,0,1,0
+"Charlotte-Gastonia-Rock Hill, NC-SC",2020-03-19,18,16,2,0,0,2062992,0,0,1,0
+"Charlotte-Gastonia-Rock Hill, NC-SC",2020-03-20,19,32,16,0,0,2062992,0,0,1,0
+"Charlotte-Gastonia-Rock Hill, NC-SC",2020-03-21,20,46,14,0,0,2062992,1,1,1,1
+"Charlotte-Gastonia-Rock Hill, NC-SC",2020-03-22,21,86,40,0,0,2062992,1,1,1,1
+"Charlotte-Gastonia-Rock Hill, NC-SC",2020-03-23,22,108,22,0,0,2062992,1,1,1,1
+"Charlotte-Gastonia-Rock Hill, NC-SC",2020-03-24,23,139,31,0,0,2062992,1,1,1,1
+"Charlotte-Gastonia-Rock Hill, NC-SC",2020-03-25,24,221,82,1,1,2062992,1,1,1,1
+"Charlotte-Gastonia-Rock Hill, NC-SC",2020-03-26,25,247,26,1,0,2062992,1,1,1,1
+"Charlotte-Gastonia-Rock Hill, NC-SC",2020-03-27,26,294,47,1,0,2062992,1,1,1,1
+"Charlotte-Gastonia-Rock Hill, NC-SC",2020-03-28,27,399,105,1,0,2062992,1,1,1,1
+"Charlotte-Gastonia-Rock Hill, NC-SC",2020-03-29,28,460,61,2,1,2062992,1,1,1,1
+"Charlotte-Gastonia-Rock Hill, NC-SC",2020-03-30,29,523,63,2,0,2062992,1,1,1,1
+"Charlotte-Gastonia-Rock Hill, NC-SC",2020-03-31,30,594,71,3,1,2062992,1,1,1,1
+"Charlotte-Gastonia-Rock Hill, NC-SC",2020-04-01,31,635,41,4,1,2062992,1,1,1,1
+"Charlotte-Gastonia-Rock Hill, NC-SC",2020-04-02,32,699,64,5,1,2062992,1,1,1,1
+"Charlotte-Gastonia-Rock Hill, NC-SC",2020-04-03,33,790,91,5,0,2062992,1,1,1,1
+"Charlotte-Gastonia-Rock Hill, NC-SC",2020-04-04,34,890,100,8,3,2062992,1,1,1,1
+"Charlotte-Gastonia-Rock Hill, NC-SC",2020-04-05,35,928,38,10,2,2062992,1,1,1,1
+"Charlotte-Gastonia-Rock Hill, NC-SC",2020-04-06,36,1025,97,13,3,2062992,1,1,1,1
+"Charlotte-Gastonia-Rock Hill, NC-SC",2020-04-07,37,1140,115,14,1,2062992,1,1,1,1
+"Charlotte-Gastonia-Rock Hill, NC-SC",2020-04-08,38,1180,40,16,2,2062992,1,1,1,1
+"Charlotte-Gastonia-Rock Hill, NC-SC",2020-04-09,39,1224,44,18,2,2062992,1,1,1,1
+"Charlotte-Gastonia-Rock Hill, NC-SC",2020-04-10,40,1298,74,18,0,2062992,1,1,1,1
+"Charlotte-Gastonia-Rock Hill, NC-SC",2020-04-11,41,1350,52,19,1,2062992,1,1,1,1
+"Charlotte-Gastonia-Rock Hill, NC-SC",2020-04-12,42,1387,37,20,1,2062992,1,1,1,1
+"Charlotte-Gastonia-Rock Hill, NC-SC",2020-04-13,43,1455,68,20,0,2062992,1,1,1,1
+"Charlotte-Gastonia-Rock Hill, NC-SC",2020-04-14,44,1517,62,27,7,2062992,1,1,1,1
+"Charlotte-Gastonia-Rock Hill, NC-SC",2020-04-15,45,1548,31,31,4,2062992,1,1,1,1
+"Charlotte-Gastonia-Rock Hill, NC-SC",2020-04-16,46,1653,105,31,0,2062992,1,1,1,1
+"Charlotte-Gastonia-Rock Hill, NC-SC",2020-04-17,47,1729,76,33,2,2062992,1,1,1,1
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-03-01,0,3,0,0,0,9498716,0,0,0,0
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-03-02,1,4,1,0,0,9498716,0,0,0,0
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-03-03,2,4,0,0,0,9498716,0,0,0,0
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-03-04,3,4,0,0,0,9498716,0,0,0,0
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-03-05,4,5,1,0,0,9498716,0,0,0,0
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-03-06,5,6,1,0,0,9498716,0,0,0,0
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-03-07,6,6,0,0,0,9498716,0,0,0,0
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-03-08,7,7,1,0,0,9498716,0,0,0,0
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-03-09,8,11,4,0,0,9498716,0,0,0,0
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-03-10,9,19,8,0,0,9498716,0,0,0,0
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-03-11,10,25,6,0,0,9498716,0,0,0,0
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-03-12,11,32,7,0,0,9498716,0,0,0,0
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-03-13,12,46,14,0,0,9498716,0,0,0,0
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-03-14,13,60,14,0,0,9498716,0,0,0,0
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-03-15,14,85,25,0,0,9498716,0,0,0,0
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-03-16,15,93,8,0,0,9498716,0,0,0,0
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-03-17,16,153,60,1,1,9498716,0,0,1,0
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-03-18,17,269,116,1,0,9498716,0,0,1,0
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-03-19,18,404,135,3,2,9498716,0,0,1,0
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-03-20,19,562,158,4,1,9498716,0,0,1,0
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-03-21,20,726,164,5,1,9498716,1,1,1,1
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-03-22,21,1024,298,7,2,9498716,1,1,1,1
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-03-23,22,1200,176,10,3,9498716,1,1,1,1
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-03-24,23,1507,307,14,4,9498716,1,1,1,1
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-03-25,24,1840,333,17,3,9498716,1,1,1,1
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-03-26,25,2492,652,25,8,9498716,1,1,1,1
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-03-27,26,2989,497,35,10,9498716,1,1,1,1
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-03-28,27,3496,507,48,13,9498716,1,1,1,1
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-03-29,28,4525,1029,66,18,9498716,1,1,1,1
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-03-30,29,4957,432,76,10,9498716,1,1,1,1
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-03-31,30,5905,948,103,27,9498716,1,1,1,1
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-04-01,31,6870,965,142,39,9498716,1,1,1,1
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-04-02,32,7568,698,157,15,9498716,1,1,1,1
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-04-03,33,8758,1190,203,46,9498716,1,1,1,1
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-04-04,34,10201,1443,237,34,9498716,1,1,1,1
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-04-05,35,11050,849,268,31,9498716,1,1,1,1
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-04-06,36,11990,940,297,29,9498716,1,1,1,1
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-04-07,37,13212,1222,366,69,9498716,1,1,1,1
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-04-08,38,14644,1432,442,76,9498716,1,1,1,1
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-04-09,39,15916,1272,512,70,9498716,1,1,1,1
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-04-10,40,17311,1395,582,70,9498716,1,1,1,1
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-04-11,41,18642,1331,656,74,9498716,1,1,1,1
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-04-12,42,20296,1654,700,44,9498716,1,1,1,1
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-04-13,43,21474,1178,775,75,9498716,1,1,1,1
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-04-14,44,22663,1189,846,71,9498716,1,1,1,1
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-04-15,45,23998,1335,922,76,9498716,1,1,1,1
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-04-16,46,25139,1141,1042,120,9498716,1,1,1,1
+"Chicago-Joliet-Naperville, IL-IN-WI",2020-04-17,47,26918,1779,1098,56,9498716,1,1,1,1
+"Cincinnati-Middletown, OH-KY-IN",2020-03-01,0,0,0,0,0,2205908,0,0,0,0
+"Cincinnati-Middletown, OH-KY-IN",2020-03-02,1,0,0,0,0,2205908,0,0,0,0
+"Cincinnati-Middletown, OH-KY-IN",2020-03-03,2,0,0,0,0,2205908,0,0,0,0
+"Cincinnati-Middletown, OH-KY-IN",2020-03-09,8,0,0,0,0,2205908,0,0,0,0
+"Cincinnati-Middletown, OH-KY-IN",2020-03-14,13,4,4,0,0,2205908,0,0,0,0
+"Cincinnati-Middletown, OH-KY-IN",2020-03-15,14,6,2,0,0,2205908,0,0,0,0
+"Cincinnati-Middletown, OH-KY-IN",2020-03-16,15,6,0,0,0,2205908,0,0,0,0
+"Cincinnati-Middletown, OH-KY-IN",2020-03-17,16,8,2,0,0,2205908,0,0,1,0
+"Cincinnati-Middletown, OH-KY-IN",2020-03-18,17,11,3,0,0,2205908,0,0,1,0
+"Cincinnati-Middletown, OH-KY-IN",2020-03-19,18,13,2,0,0,2205908,0,0,1,0
+"Cincinnati-Middletown, OH-KY-IN",2020-03-20,19,24,11,0,0,2205908,0,0,1,0
+"Cincinnati-Middletown, OH-KY-IN",2020-03-21,20,33,9,0,0,2205908,1,1,1,1
+"Cincinnati-Middletown, OH-KY-IN",2020-03-22,21,55,22,0,0,2205908,1,1,1,1
+"Cincinnati-Middletown, OH-KY-IN",2020-03-23,22,64,9,0,0,2205908,1,1,1,1
+"Cincinnati-Middletown, OH-KY-IN",2020-03-24,23,86,22,0,0,2205908,1,1,1,1
+"Cincinnati-Middletown, OH-KY-IN",2020-03-25,24,101,15,0,0,2205908,1,1,1,1
+"Cincinnati-Middletown, OH-KY-IN",2020-03-26,25,121,20,1,1,2205908,1,1,1,1
+"Cincinnati-Middletown, OH-KY-IN",2020-03-27,26,150,29,2,1,2205908,1,1,1,1
+"Cincinnati-Middletown, OH-KY-IN",2020-03-28,27,179,29,4,2,2205908,1,1,1,1
+"Cincinnati-Middletown, OH-KY-IN",2020-03-29,28,206,27,5,1,2205908,1,1,1,1
+"Cincinnati-Middletown, OH-KY-IN",2020-03-30,29,232,26,7,2,2205908,1,1,1,1
+"Cincinnati-Middletown, OH-KY-IN",2020-03-31,30,277,45,8,1,2205908,1,1,1,1
+"Cincinnati-Middletown, OH-KY-IN",2020-04-01,31,327,50,9,1,2205908,1,1,1,1
+"Cincinnati-Middletown, OH-KY-IN",2020-04-02,32,380,53,14,5,2205908,1,1,1,1
+"Cincinnati-Middletown, OH-KY-IN",2020-04-03,33,439,59,16,2,2205908,1,1,1,1
+"Cincinnati-Middletown, OH-KY-IN",2020-04-04,34,535,96,17,1,2205908,1,1,1,1
+"Cincinnati-Middletown, OH-KY-IN",2020-04-05,35,650,115,20,3,2205908,1,1,1,1
+"Cincinnati-Middletown, OH-KY-IN",2020-04-06,36,746,96,26,6,2205908,1,1,1,1
+"Cincinnati-Middletown, OH-KY-IN",2020-04-07,37,834,88,37,11,2205908,1,1,1,1
+"Cincinnati-Middletown, OH-KY-IN",2020-04-08,38,884,50,39,2,2205908,1,1,1,1
+"Cincinnati-Middletown, OH-KY-IN",2020-04-09,39,970,86,40,1,2205908,1,1,1,1
+"Cincinnati-Middletown, OH-KY-IN",2020-04-10,40,1041,71,41,1,2205908,1,1,1,1
+"Cincinnati-Middletown, OH-KY-IN",2020-04-11,41,1100,59,45,4,2205908,1,1,1,1
+"Cincinnati-Middletown, OH-KY-IN",2020-04-12,42,1119,19,46,1,2205908,1,1,1,1
+"Cincinnati-Middletown, OH-KY-IN",2020-04-13,43,1154,35,50,4,2205908,1,1,1,1
+"Cincinnati-Middletown, OH-KY-IN",2020-04-14,44,1205,51,60,10,2205908,1,1,1,1
+"Cincinnati-Middletown, OH-KY-IN",2020-04-15,45,1255,50,63,3,2205908,1,1,1,1
+"Cincinnati-Middletown, OH-KY-IN",2020-04-16,46,1318,63,66,3,2205908,1,1,1,1
+"Cincinnati-Middletown, OH-KY-IN",2020-04-17,47,1409,91,71,5,2205908,1,1,1,1
+"Cleveland-Elyria-Mentor, OH",2020-03-01,0,0,0,0,0,2057009,0,0,0,0
+"Cleveland-Elyria-Mentor, OH",2020-03-02,1,0,0,0,0,2057009,0,0,0,0
+"Cleveland-Elyria-Mentor, OH",2020-03-03,2,0,0,0,0,2057009,0,0,0,0
+"Cleveland-Elyria-Mentor, OH",2020-03-09,8,3,3,0,0,2057009,0,0,0,0
+"Cleveland-Elyria-Mentor, OH",2020-03-10,9,3,0,0,0,2057009,0,0,0,0
+"Cleveland-Elyria-Mentor, OH",2020-03-11,10,3,0,0,0,2057009,0,0,0,0
+"Cleveland-Elyria-Mentor, OH",2020-03-12,11,3,0,0,0,2057009,0,0,0,0
+"Cleveland-Elyria-Mentor, OH",2020-03-13,12,11,8,0,0,2057009,0,0,0,0
+"Cleveland-Elyria-Mentor, OH",2020-03-14,13,12,1,0,0,2057009,0,0,0,0
+"Cleveland-Elyria-Mentor, OH",2020-03-15,14,17,5,0,0,2057009,0,0,0,0
+"Cleveland-Elyria-Mentor, OH",2020-03-16,15,30,13,0,0,2057009,0,0,0,0
+"Cleveland-Elyria-Mentor, OH",2020-03-17,16,40,10,0,0,2057009,0,0,0,0
+"Cleveland-Elyria-Mentor, OH",2020-03-18,17,51,11,0,0,2057009,0,0,0,0
+"Cleveland-Elyria-Mentor, OH",2020-03-19,18,67,16,0,0,2057009,0,0,0,0
+"Cleveland-Elyria-Mentor, OH",2020-03-20,19,88,21,0,0,2057009,0,1,1,0
+"Cleveland-Elyria-Mentor, OH",2020-03-21,20,120,32,1,1,2057009,0,1,1,0
+"Cleveland-Elyria-Mentor, OH",2020-03-22,21,162,42,1,0,2057009,0,1,1,0
+"Cleveland-Elyria-Mentor, OH",2020-03-23,22,198,36,1,0,2057009,0,1,1,0
+"Cleveland-Elyria-Mentor, OH",2020-03-24,23,228,30,2,1,2057009,0,1,1,0
+"Cleveland-Elyria-Mentor, OH",2020-03-25,24,283,55,2,0,2057009,1,1,1,0
+"Cleveland-Elyria-Mentor, OH",2020-03-26,25,353,70,2,0,2057009,1,1,1,1
+"Cleveland-Elyria-Mentor, OH",2020-03-27,26,455,102,3,1,2057009,1,1,1,1
+"Cleveland-Elyria-Mentor, OH",2020-03-28,27,516,61,4,1,2057009,1,1,1,1
+"Cleveland-Elyria-Mentor, OH",2020-03-29,28,620,104,7,3,2057009,1,1,1,1
+"Cleveland-Elyria-Mentor, OH",2020-03-30,29,684,64,8,1,2057009,1,1,1,1
+"Cleveland-Elyria-Mentor, OH",2020-03-31,30,732,48,11,3,2057009,1,1,1,1
+"Cleveland-Elyria-Mentor, OH",2020-04-01,31,806,74,14,3,2057009,1,1,1,1
+"Cleveland-Elyria-Mentor, OH",2020-04-02,32,916,110,18,4,2057009,1,1,1,1
+"Cleveland-Elyria-Mentor, OH",2020-04-03,33,1048,132,19,1,2057009,1,1,1,1
+"Cleveland-Elyria-Mentor, OH",2020-04-04,34,1074,26,20,1,2057009,1,1,1,1
+"Cleveland-Elyria-Mentor, OH",2020-04-05,35,1131,57,22,2,2057009,1,1,1,1
+"Cleveland-Elyria-Mentor, OH",2020-04-06,36,1198,67,24,2,2057009,1,1,1,1
+"Cleveland-Elyria-Mentor, OH",2020-04-07,37,1248,50,29,5,2057009,1,1,1,1
+"Cleveland-Elyria-Mentor, OH",2020-04-08,38,1333,85,36,7,2057009,1,1,1,1
+"Cleveland-Elyria-Mentor, OH",2020-04-09,39,1405,72,39,3,2057009,1,1,1,1
+"Cleveland-Elyria-Mentor, OH",2020-04-10,40,1462,57,39,0,2057009,1,1,1,1
+"Cleveland-Elyria-Mentor, OH",2020-04-11,41,1546,84,42,3,2057009,1,1,1,1
+"Cleveland-Elyria-Mentor, OH",2020-04-12,42,1613,67,43,1,2057009,1,1,1,1
+"Cleveland-Elyria-Mentor, OH",2020-04-13,43,1678,65,46,3,2057009,1,1,1,1
+"Cleveland-Elyria-Mentor, OH",2020-04-14,44,1736,58,58,12,2057009,1,1,1,1
+"Cleveland-Elyria-Mentor, OH",2020-04-15,45,1812,76,66,8,2057009,1,1,1,1
+"Cleveland-Elyria-Mentor, OH",2020-04-16,46,1897,85,71,5,2057009,1,1,1,1
+"Cleveland-Elyria-Mentor, OH",2020-04-17,47,1984,87,82,11,2057009,1,1,1,1
+"Columbus, OH",2020-03-01,0,0,0,0,0,2042123,0,0,0,0
+"Columbus, OH",2020-03-02,1,0,0,0,0,2042123,0,0,0,0
+"Columbus, OH",2020-03-03,2,0,0,0,0,2042123,0,0,0,0
+"Columbus, OH",2020-03-09,8,0,0,0,0,2042123,0,0,0,0
+"Columbus, OH",2020-03-14,13,1,1,0,0,2042123,0,0,0,0
+"Columbus, OH",2020-03-15,14,3,2,0,0,2042123,0,0,0,0
+"Columbus, OH",2020-03-16,15,3,0,0,0,2042123,0,0,0,0
+"Columbus, OH",2020-03-17,16,4,1,0,0,2042123,0,0,0,0
+"Columbus, OH",2020-03-18,17,8,4,0,0,2042123,0,0,1,0
+"Columbus, OH",2020-03-19,18,12,4,0,0,2042123,1,0,1,0
+"Columbus, OH",2020-03-20,19,17,5,0,0,2042123,1,0,1,0
+"Columbus, OH",2020-03-21,20,27,10,0,0,2042123,1,0,1,0
+"Columbus, OH",2020-03-22,21,42,15,0,0,2042123,1,0,1,0
+"Columbus, OH",2020-03-23,22,56,14,2,2,2042123,1,0,1,0
+"Columbus, OH",2020-03-24,23,93,37,2,0,2042123,1,0,1,0
+"Columbus, OH",2020-03-25,24,116,23,2,0,2042123,1,1,1,1
+"Columbus, OH",2020-03-26,25,143,27,2,0,2042123,1,1,1,1
+"Columbus, OH",2020-03-27,26,201,58,2,0,2042123,1,1,1,1
+"Columbus, OH",2020-03-28,27,287,86,2,0,2042123,1,1,1,1
+"Columbus, OH",2020-03-29,28,320,33,2,0,2042123,1,1,1,1
+"Columbus, OH",2020-03-30,29,367,47,3,1,2042123,1,1,1,1
+"Columbus, OH",2020-03-31,30,427,60,4,1,2042123,1,1,1,1
+"Columbus, OH",2020-04-01,31,511,84,7,3,2042123,1,1,1,1
+"Columbus, OH",2020-04-02,32,577,66,8,1,2042123,1,1,1,1
+"Columbus, OH",2020-04-03,33,668,91,9,1,2042123,1,1,1,1
+"Columbus, OH",2020-04-04,34,757,89,10,1,2042123,1,1,1,1
+"Columbus, OH",2020-04-05,35,827,70,13,3,2042123,1,1,1,1
+"Columbus, OH",2020-04-06,36,889,62,14,1,2042123,1,1,1,1
+"Columbus, OH",2020-04-07,37,963,74,18,4,2042123,1,1,1,1
+"Columbus, OH",2020-04-08,38,1038,75,18,0,2042123,1,1,1,1
+"Columbus, OH",2020-04-09,39,1107,69,21,3,2042123,1,1,1,1
+"Columbus, OH",2020-04-10,40,1175,68,21,0,2042123,1,1,1,1
+"Columbus, OH",2020-04-11,41,1233,58,22,1,2042123,1,1,1,1
+"Columbus, OH",2020-04-12,42,1300,67,22,0,2042123,1,1,1,1
+"Columbus, OH",2020-04-13,43,1405,105,24,2,2042123,1,1,1,1
+"Columbus, OH",2020-04-14,44,1470,65,27,3,2042123,1,1,1,1
+"Columbus, OH",2020-04-15,45,1610,140,29,2,2042123,1,1,1,1
+"Columbus, OH",2020-04-16,46,1764,154,35,6,2042123,1,1,1,1
+"Columbus, OH",2020-04-17,47,1936,172,38,3,2042123,1,1,1,1
+"Dallas-Fort Worth-Arlington, TX",2020-03-01,0,0,0,0,0,7475507,0,0,0,0
+"Dallas-Fort Worth-Arlington, TX",2020-03-02,1,0,0,0,0,7475507,0,0,0,0
+"Dallas-Fort Worth-Arlington, TX",2020-03-03,2,0,0,0,0,7475507,0,0,0,0
+"Dallas-Fort Worth-Arlington, TX",2020-03-09,8,1,1,0,0,7475507,0,0,0,0
+"Dallas-Fort Worth-Arlington, TX",2020-03-10,9,6,5,0,0,7475507,0,0,0,0
+"Dallas-Fort Worth-Arlington, TX",2020-03-11,10,7,1,0,0,7475507,0,0,0,0
+"Dallas-Fort Worth-Arlington, TX",2020-03-12,11,13,6,0,0,7475507,0,0,0,0
+"Dallas-Fort Worth-Arlington, TX",2020-03-13,12,16,3,0,0,7475507,0,0,0,0
+"Dallas-Fort Worth-Arlington, TX",2020-03-14,13,22,6,0,0,7475507,0,0,0,0
+"Dallas-Fort Worth-Arlington, TX",2020-03-15,14,27,5,0,0,7475507,0,0,0,0
+"Dallas-Fort Worth-Arlington, TX",2020-03-16,15,28,1,0,0,7475507,0,0,0,0
+"Dallas-Fort Worth-Arlington, TX",2020-03-17,16,40,12,0,0,7475507,0,0,0,0
+"Dallas-Fort Worth-Arlington, TX",2020-03-18,17,60,20,1,1,7475507,1,0,0,0
+"Dallas-Fort Worth-Arlington, TX",2020-03-19,18,106,46,2,1,7475507,1,1,0,0
+"Dallas-Fort Worth-Arlington, TX",2020-03-20,19,149,43,3,1,7475507,1,1,0,0
+"Dallas-Fort Worth-Arlington, TX",2020-03-21,20,202,53,3,0,7475507,1,1,0,0
+"Dallas-Fort Worth-Arlington, TX",2020-03-22,21,254,52,4,1,7475507,1,1,1,0
+"Dallas-Fort Worth-Arlington, TX",2020-03-23,22,304,50,4,0,7475507,1,1,1,0
+"Dallas-Fort Worth-Arlington, TX",2020-03-24,23,325,21,7,3,7475507,1,1,1,0
+"Dallas-Fort Worth-Arlington, TX",2020-03-25,24,389,64,8,1,7475507,1,1,1,0
+"Dallas-Fort Worth-Arlington, TX",2020-03-26,25,580,191,10,2,7475507,1,1,1,0
+"Dallas-Fort Worth-Arlington, TX",2020-03-27,26,763,183,10,0,7475507,1,1,1,1
+"Dallas-Fort Worth-Arlington, TX",2020-03-28,27,860,97,13,3,7475507,1,1,1,1
+"Dallas-Fort Worth-Arlington, TX",2020-03-29,28,915,55,13,0,7475507,1,1,1,1
+"Dallas-Fort Worth-Arlington, TX",2020-03-30,29,1077,162,17,4,7475507,1,1,1,1
+"Dallas-Fort Worth-Arlington, TX",2020-03-31,30,1212,135,20,3,7475507,1,1,1,1
+"Dallas-Fort Worth-Arlington, TX",2020-04-01,31,1487,275,24,4,7475507,1,1,1,1
+"Dallas-Fort Worth-Arlington, TX",2020-04-02,32,1683,196,30,6,7475507,1,1,1,1
+"Dallas-Fort Worth-Arlington, TX",2020-04-03,33,1881,198,33,3,7475507,1,1,1,1
+"Dallas-Fort Worth-Arlington, TX",2020-04-04,34,2041,160,38,5,7475507,1,1,1,1
+"Dallas-Fort Worth-Arlington, TX",2020-04-05,35,2178,137,42,4,7475507,1,1,1,1
+"Dallas-Fort Worth-Arlington, TX",2020-04-06,36,2356,178,45,3,7475507,1,1,1,1
+"Dallas-Fort Worth-Arlington, TX",2020-04-07,37,2532,176,51,6,7475507,1,1,1,1
+"Dallas-Fort Worth-Arlington, TX",2020-04-08,38,2805,273,53,2,7475507,1,1,1,1
+"Dallas-Fort Worth-Arlington, TX",2020-04-09,39,3030,225,59,6,7475507,1,1,1,1
+"Dallas-Fort Worth-Arlington, TX",2020-04-10,40,3234,204,64,5,7475507,1,1,1,1
+"Dallas-Fort Worth-Arlington, TX",2020-04-11,41,3429,195,68,4,7475507,1,1,1,1
+"Dallas-Fort Worth-Arlington, TX",2020-04-12,42,3635,206,79,11,7475507,1,1,1,1
+"Dallas-Fort Worth-Arlington, TX",2020-04-13,43,3836,201,85,6,7475507,1,1,1,1
+"Dallas-Fort Worth-Arlington, TX",2020-04-14,44,4010,174,101,16,7475507,1,1,1,1
+"Dallas-Fort Worth-Arlington, TX",2020-04-15,45,4198,188,103,2,7475507,1,1,1,1
+"Dallas-Fort Worth-Arlington, TX",2020-04-16,46,4345,147,115,12,7475507,1,1,1,1
+"Dallas-Fort Worth-Arlington, TX",2020-04-17,47,4725,380,123,8,7475507,1,1,1,1
+"Denver-Aurora-Broomfield, CO",2020-03-01,0,0,0,0,0,2932415,0,0,0,0
+"Denver-Aurora-Broomfield, CO",2020-03-02,1,0,0,0,0,2932415,0,0,0,0
+"Denver-Aurora-Broomfield, CO",2020-03-03,2,0,0,0,0,2932415,0,0,0,0
+"Denver-Aurora-Broomfield, CO",2020-03-05,4,2,2,0,0,2932415,0,0,0,0
+"Denver-Aurora-Broomfield, CO",2020-03-06,5,6,4,0,0,2932415,0,0,0,0
+"Denver-Aurora-Broomfield, CO",2020-03-07,6,6,0,0,0,2932415,0,0,0,0
+"Denver-Aurora-Broomfield, CO",2020-03-08,7,6,0,0,0,2932415,0,0,0,0
+"Denver-Aurora-Broomfield, CO",2020-03-09,8,8,2,0,0,2932415,0,0,0,0
+"Denver-Aurora-Broomfield, CO",2020-03-10,9,11,3,0,0,2932415,0,0,0,0
+"Denver-Aurora-Broomfield, CO",2020-03-11,10,16,5,0,0,2932415,0,0,0,0
+"Denver-Aurora-Broomfield, CO",2020-03-12,11,22,6,0,0,2932415,0,0,0,0
+"Denver-Aurora-Broomfield, CO",2020-03-13,12,39,17,0,0,2932415,0,0,0,0
+"Denver-Aurora-Broomfield, CO",2020-03-14,13,53,14,0,0,2932415,0,0,0,0
+"Denver-Aurora-Broomfield, CO",2020-03-15,14,70,17,0,0,2932415,0,0,0,0
+"Denver-Aurora-Broomfield, CO",2020-03-16,15,77,7,0,0,2932415,0,0,0,0
+"Denver-Aurora-Broomfield, CO",2020-03-17,16,97,20,0,0,2932415,0,0,0,0
+"Denver-Aurora-Broomfield, CO",2020-03-18,17,115,18,0,0,2932415,1,0,0,0
+"Denver-Aurora-Broomfield, CO",2020-03-19,18,145,30,0,0,2932415,1,1,0,0
+"Denver-Aurora-Broomfield, CO",2020-03-20,19,178,33,0,0,2932415,1,1,0,0
+"Denver-Aurora-Broomfield, CO",2020-03-21,20,230,52,0,0,2932415,1,1,0,0
+"Denver-Aurora-Broomfield, CO",2020-03-22,21,280,50,0,0,2932415,1,1,1,0
+"Denver-Aurora-Broomfield, CO",2020-03-23,22,343,63,0,0,2932415,1,1,1,0
+"Denver-Aurora-Broomfield, CO",2020-03-24,23,410,67,0,0,2932415,1,1,1,0
+"Denver-Aurora-Broomfield, CO",2020-03-25,24,506,96,5,5,2932415,1,1,1,0
+"Denver-Aurora-Broomfield, CO",2020-03-26,25,646,140,7,2,2932415,1,1,1,0
+"Denver-Aurora-Broomfield, CO",2020-03-27,26,795,149,9,2,2932415,1,1,1,0
+"Denver-Aurora-Broomfield, CO",2020-03-28,27,963,168,10,1,2932415,1,1,1,0
+"Denver-Aurora-Broomfield, CO",2020-03-29,28,1100,137,10,0,2932415,1,1,1,1
+"Denver-Aurora-Broomfield, CO",2020-03-30,29,1329,229,11,1,2932415,1,1,1,1
+"Denver-Aurora-Broomfield, CO",2020-03-31,30,1554,225,22,11,2932415,1,1,1,1
+"Denver-Aurora-Broomfield, CO",2020-04-01,31,1730,176,30,8,2932415,1,1,1,1
+"Denver-Aurora-Broomfield, CO",2020-04-02,32,1944,214,40,10,2932415,1,1,1,1
+"Denver-Aurora-Broomfield, CO",2020-04-03,33,2197,253,50,10,2932415,1,1,1,1
+"Denver-Aurora-Broomfield, CO",2020-04-04,34,2397,200,54,4,2932415,1,1,1,1
+"Denver-Aurora-Broomfield, CO",2020-04-05,35,2599,202,63,9,2932415,1,1,1,1
+"Denver-Aurora-Broomfield, CO",2020-04-06,36,2703,104,67,4,2932415,1,1,1,1
+"Denver-Aurora-Broomfield, CO",2020-04-07,37,2872,169,93,26,2932415,1,1,1,1
+"Denver-Aurora-Broomfield, CO",2020-04-08,38,3036,164,100,7,2932415,1,1,1,1
+"Denver-Aurora-Broomfield, CO",2020-04-09,39,3400,364,116,16,2932415,1,1,1,1
+"Denver-Aurora-Broomfield, CO",2020-04-10,40,3651,251,133,17,2932415,1,1,1,1
+"Denver-Aurora-Broomfield, CO",2020-04-11,41,3884,233,146,13,2932415,1,1,1,1
+"Denver-Aurora-Broomfield, CO",2020-04-12,42,4153,269,152,6,2932415,1,1,1,1
+"Denver-Aurora-Broomfield, CO",2020-04-13,43,4387,234,160,8,2932415,1,1,1,1
+"Denver-Aurora-Broomfield, CO",2020-04-14,44,4554,167,172,12,2932415,1,1,1,1
+"Denver-Aurora-Broomfield, CO",2020-04-15,45,4744,190,191,19,2932415,1,1,1,1
+"Denver-Aurora-Broomfield, CO",2020-04-16,46,5015,271,198,7,2932415,1,1,1,1
+"Denver-Aurora-Broomfield, CO",2020-04-17,47,5292,277,208,10,2932415,1,1,1,1
+"Detroit-Warren-Livonia, MI",2020-03-01,0,0,0,0,0,4326442,0,0,0,0
+"Detroit-Warren-Livonia, MI",2020-03-02,1,0,0,0,0,4326442,0,0,0,0
+"Detroit-Warren-Livonia, MI",2020-03-03,2,0,0,0,0,4326442,0,0,0,0
+"Detroit-Warren-Livonia, MI",2020-03-09,8,0,0,0,0,4326442,0,0,0,0
+"Detroit-Warren-Livonia, MI",2020-03-10,9,2,2,0,0,4326442,0,0,0,0
+"Detroit-Warren-Livonia, MI",2020-03-11,10,2,0,0,0,4326442,0,0,0,0
+"Detroit-Warren-Livonia, MI",2020-03-12,11,5,3,0,0,4326442,0,0,0,0
+"Detroit-Warren-Livonia, MI",2020-03-13,12,14,9,0,0,4326442,0,0,0,0
+"Detroit-Warren-Livonia, MI",2020-03-14,13,20,6,0,0,4326442,0,0,0,0
+"Detroit-Warren-Livonia, MI",2020-03-15,14,34,14,0,0,4326442,0,0,0,0
+"Detroit-Warren-Livonia, MI",2020-03-16,15,35,1,0,0,4326442,0,0,0,0
+"Detroit-Warren-Livonia, MI",2020-03-17,16,43,8,0,0,4326442,0,0,0,0
+"Detroit-Warren-Livonia, MI",2020-03-18,17,58,15,1,1,4326442,1,0,0,0
+"Detroit-Warren-Livonia, MI",2020-03-19,18,286,228,3,2,4326442,1,1,0,0
+"Detroit-Warren-Livonia, MI",2020-03-20,19,496,210,4,1,4326442,1,1,0,0
+"Detroit-Warren-Livonia, MI",2020-03-21,20,692,196,5,1,4326442,1,1,0,0
+"Detroit-Warren-Livonia, MI",2020-03-22,21,909,217,7,2,4326442,1,1,1,0
+"Detroit-Warren-Livonia, MI",2020-03-23,22,1158,249,14,7,4326442,1,1,1,0
+"Detroit-Warren-Livonia, MI",2020-03-24,23,1548,390,20,6,4326442,1,1,1,0
+"Detroit-Warren-Livonia, MI",2020-03-25,24,1973,425,39,19,4326442,1,1,1,0
+"Detroit-Warren-Livonia, MI",2020-03-26,25,2468,495,55,16,4326442,1,1,1,0
+"Detroit-Warren-Livonia, MI",2020-03-27,26,3088,620,78,23,4326442,1,1,1,1
+"Detroit-Warren-Livonia, MI",2020-03-28,27,3929,841,96,18,4326442,1,1,1,1
+"Detroit-Warren-Livonia, MI",2020-03-29,28,4577,648,112,16,4326442,1,1,1,1
+"Detroit-Warren-Livonia, MI",2020-03-30,29,5409,832,171,59,4326442,1,1,1,1
+"Detroit-Warren-Livonia, MI",2020-03-31,30,6328,919,235,64,4326442,1,1,1,1
+"Detroit-Warren-Livonia, MI",2020-04-01,31,7618,1290,298,63,4326442,1,1,1,1
+"Detroit-Warren-Livonia, MI",2020-04-02,32,8815,1197,374,76,4326442,1,1,1,1
+"Detroit-Warren-Livonia, MI",2020-04-03,33,10405,1590,426,52,4326442,1,1,1,1
+"Detroit-Warren-Livonia, MI",2020-04-04,34,11626,1221,476,50,4326442,1,1,1,1
+"Detroit-Warren-Livonia, MI",2020-04-05,35,12869,1243,545,69,4326442,1,1,1,1
+"Detroit-Warren-Livonia, MI",2020-04-06,36,14111,1242,636,91,4326442,1,1,1,1
+"Detroit-Warren-Livonia, MI",2020-04-07,37,15535,1424,736,100,4326442,1,1,1,1
+"Detroit-Warren-Livonia, MI",2020-04-08,38,16637,1102,831,95,4326442,1,1,1,1
+"Detroit-Warren-Livonia, MI",2020-04-09,39,17543,906,926,95,4326442,1,1,1,1
+"Detroit-Warren-Livonia, MI",2020-04-10,40,18485,942,1101,175,4326442,1,1,1,1
+"Detroit-Warren-Livonia, MI",2020-04-11,41,19408,923,1190,89,4326442,1,1,1,1
+"Detroit-Warren-Livonia, MI",2020-04-12,42,19842,434,1266,76,4326442,1,1,1,1
+"Detroit-Warren-Livonia, MI",2020-04-13,43,20676,834,1365,99,4326442,1,1,1,1
+"Detroit-Warren-Livonia, MI",2020-04-14,44,21759,1083,1499,134,4326442,1,1,1,1
+"Detroit-Warren-Livonia, MI",2020-04-15,45,22512,753,1631,132,4326442,1,1,1,1
+"Detroit-Warren-Livonia, MI",2020-04-16,46,23398,886,1785,154,4326442,1,1,1,1
+"Detroit-Warren-Livonia, MI",2020-04-17,47,23924,526,1889,104,4326442,1,1,1,1
+"Grand Rapids-Wyoming, MI",2020-03-01,0,0,0,0,0,828045,0,0,0,0
+"Grand Rapids-Wyoming, MI",2020-03-02,1,0,0,0,0,828045,0,0,0,0
+"Grand Rapids-Wyoming, MI",2020-03-03,2,0,0,0,0,828045,0,0,0,0
+"Grand Rapids-Wyoming, MI",2020-03-09,8,0,0,0,0,828045,0,0,0,0
+"Grand Rapids-Wyoming, MI",2020-03-12,11,3,3,0,0,828045,0,0,0,0
+"Grand Rapids-Wyoming, MI",2020-03-13,12,3,0,0,0,828045,0,0,0,0
+"Grand Rapids-Wyoming, MI",2020-03-14,13,3,0,0,0,828045,0,0,0,0
+"Grand Rapids-Wyoming, MI",2020-03-15,14,5,2,0,0,828045,0,0,0,0
+"Grand Rapids-Wyoming, MI",2020-03-16,15,5,0,0,0,828045,0,0,0,0
+"Grand Rapids-Wyoming, MI",2020-03-17,16,5,0,0,0,828045,0,0,0,0
+"Grand Rapids-Wyoming, MI",2020-03-18,17,5,0,0,0,828045,1,0,0,0
+"Grand Rapids-Wyoming, MI",2020-03-19,18,12,7,0,0,828045,1,1,0,0
+"Grand Rapids-Wyoming, MI",2020-03-20,19,12,0,0,0,828045,1,1,0,0
+"Grand Rapids-Wyoming, MI",2020-03-21,20,22,10,1,1,828045,1,1,0,0
+"Grand Rapids-Wyoming, MI",2020-03-22,21,22,0,1,0,828045,1,1,1,0
+"Grand Rapids-Wyoming, MI",2020-03-23,22,30,8,1,0,828045,1,1,1,0
+"Grand Rapids-Wyoming, MI",2020-03-24,23,34,4,1,0,828045,1,1,1,0
+"Grand Rapids-Wyoming, MI",2020-03-25,24,39,5,1,0,828045,1,1,1,0
+"Grand Rapids-Wyoming, MI",2020-03-26,25,45,6,1,0,828045,1,1,1,0
+"Grand Rapids-Wyoming, MI",2020-03-27,26,49,4,1,0,828045,1,1,1,0
+"Grand Rapids-Wyoming, MI",2020-03-28,27,57,8,1,0,828045,1,1,1,1
+"Grand Rapids-Wyoming, MI",2020-03-29,28,76,19,1,0,828045,1,1,1,1
+"Grand Rapids-Wyoming, MI",2020-03-30,29,102,26,1,0,828045,1,1,1,1
+"Grand Rapids-Wyoming, MI",2020-03-31,30,115,13,1,0,828045,1,1,1,1
+"Grand Rapids-Wyoming, MI",2020-04-01,31,128,13,2,1,828045,1,1,1,1
+"Grand Rapids-Wyoming, MI",2020-04-02,32,136,8,2,0,828045,1,1,1,1
+"Grand Rapids-Wyoming, MI",2020-04-03,33,149,13,2,0,828045,1,1,1,1
+"Grand Rapids-Wyoming, MI",2020-04-04,34,166,17,3,1,828045,1,1,1,1
+"Grand Rapids-Wyoming, MI",2020-04-05,35,181,15,3,0,828045,1,1,1,1
+"Grand Rapids-Wyoming, MI",2020-04-06,36,194,13,5,2,828045,1,1,1,1
+"Grand Rapids-Wyoming, MI",2020-04-07,37,206,12,8,3,828045,1,1,1,1
+"Grand Rapids-Wyoming, MI",2020-04-08,38,228,22,10,2,828045,1,1,1,1
+"Grand Rapids-Wyoming, MI",2020-04-09,39,256,28,11,1,828045,1,1,1,1
+"Grand Rapids-Wyoming, MI",2020-04-10,40,275,19,15,4,828045,1,1,1,1
+"Grand Rapids-Wyoming, MI",2020-04-11,41,298,23,15,0,828045,1,1,1,1
+"Grand Rapids-Wyoming, MI",2020-04-12,42,315,17,15,0,828045,1,1,1,1
+"Grand Rapids-Wyoming, MI",2020-04-13,43,343,28,16,1,828045,1,1,1,1
+"Grand Rapids-Wyoming, MI",2020-04-14,44,363,20,17,1,828045,1,1,1,1
+"Grand Rapids-Wyoming, MI",2020-04-15,45,397,34,19,2,828045,1,1,1,1
+"Grand Rapids-Wyoming, MI",2020-04-16,46,432,35,20,1,828045,1,1,1,1
+"Grand Rapids-Wyoming, MI",2020-04-17,47,478,46,23,3,828045,1,1,1,1
+"Hartford-West Hartford-East Hartford, CT",2020-03-01,0,0,0,0,0,1206300,0,0,0,0
+"Hartford-West Hartford-East Hartford, CT",2020-03-02,1,0,0,0,0,1206300,0,0,0,0
+"Hartford-West Hartford-East Hartford, CT",2020-03-03,2,0,0,0,0,1206300,0,0,0,0
+"Hartford-West Hartford-East Hartford, CT",2020-03-09,8,0,0,0,0,1206300,0,0,0,0
+"Hartford-West Hartford-East Hartford, CT",2020-03-14,13,1,1,0,0,1206300,0,0,0,0
+"Hartford-West Hartford-East Hartford, CT",2020-03-15,14,3,2,0,0,1206300,0,0,0,0
+"Hartford-West Hartford-East Hartford, CT",2020-03-16,15,4,1,0,0,1206300,0,0,0,0
+"Hartford-West Hartford-East Hartford, CT",2020-03-17,16,7,3,0,0,1206300,0,0,0,0
+"Hartford-West Hartford-East Hartford, CT",2020-03-18,17,12,5,0,0,1206300,0,0,0,0
+"Hartford-West Hartford-East Hartford, CT",2020-03-19,18,25,13,0,0,1206300,0,1,0,0
+"Hartford-West Hartford-East Hartford, CT",2020-03-20,19,38,13,0,0,1206300,1,1,0,0
+"Hartford-West Hartford-East Hartford, CT",2020-03-21,20,46,8,1,1,1206300,1,1,0,0
+"Hartford-West Hartford-East Hartford, CT",2020-03-22,21,74,28,3,2,1206300,1,1,1,0
+"Hartford-West Hartford-East Hartford, CT",2020-03-23,22,85,11,4,1,1206300,1,1,1,0
+"Hartford-West Hartford-East Hartford, CT",2020-03-24,23,115,30,5,1,1206300,1,1,1,0
+"Hartford-West Hartford-East Hartford, CT",2020-03-25,24,158,43,5,0,1206300,1,1,1,0
+"Hartford-West Hartford-East Hartford, CT",2020-03-26,25,189,31,6,1,1206300,1,1,1,1
+"Hartford-West Hartford-East Hartford, CT",2020-03-27,26,247,58,6,0,1206300,1,1,1,1
+"Hartford-West Hartford-East Hartford, CT",2020-03-28,27,293,46,7,1,1206300,1,1,1,1
+"Hartford-West Hartford-East Hartford, CT",2020-03-29,28,354,61,7,0,1206300,1,1,1,1
+"Hartford-West Hartford-East Hartford, CT",2020-03-30,29,430,76,8,1,1206300,1,1,1,1
+"Hartford-West Hartford-East Hartford, CT",2020-03-31,30,505,75,15,7,1206300,1,1,1,1
+"Hartford-West Hartford-East Hartford, CT",2020-04-01,31,596,91,20,5,1206300,1,1,1,1
+"Hartford-West Hartford-East Hartford, CT",2020-04-02,32,680,84,26,6,1206300,1,1,1,1
+"Hartford-West Hartford-East Hartford, CT",2020-04-03,33,849,169,30,4,1206300,1,1,1,1
+"Hartford-West Hartford-East Hartford, CT",2020-04-04,34,917,68,40,10,1206300,1,1,1,1
+"Hartford-West Hartford-East Hartford, CT",2020-04-05,35,955,38,45,5,1206300,1,1,1,1
+"Hartford-West Hartford-East Hartford, CT",2020-04-06,36,1120,165,51,6,1206300,1,1,1,1
+"Hartford-West Hartford-East Hartford, CT",2020-04-07,37,1306,186,68,17,1206300,1,1,1,1
+"Hartford-West Hartford-East Hartford, CT",2020-04-08,38,1592,286,90,22,1206300,1,1,1,1
+"Hartford-West Hartford-East Hartford, CT",2020-04-09,39,1821,229,102,12,1206300,1,1,1,1
+"Hartford-West Hartford-East Hartford, CT",2020-04-10,40,2007,186,119,17,1206300,1,1,1,1
+"Hartford-West Hartford-East Hartford, CT",2020-04-11,41,2293,286,134,15,1206300,1,1,1,1
+"Hartford-West Hartford-East Hartford, CT",2020-04-12,42,2395,102,151,17,1206300,1,1,1,1
+"Hartford-West Hartford-East Hartford, CT",2020-04-13,43,2777,382,169,18,1206300,1,1,1,1
+"Hartford-West Hartford-East Hartford, CT",2020-04-14,44,2926,149,192,23,1206300,1,1,1,1
+"Hartford-West Hartford-East Hartford, CT",2020-04-15,45,3165,239,263,71,1206300,1,1,1,1
+"Hartford-West Hartford-East Hartford, CT",2020-04-16,46,3494,329,295,32,1206300,1,1,1,1
+"Hartford-West Hartford-East Hartford, CT",2020-04-17,47,3695,201,322,27,1206300,1,1,1,1
+"Houston-Sugar Land-Baytown, TX",2020-03-01,0,0,0,0,0,7026103,0,0,0,0
+"Houston-Sugar Land-Baytown, TX",2020-03-02,1,0,0,0,0,7026103,0,0,0,0
+"Houston-Sugar Land-Baytown, TX",2020-03-03,2,0,0,0,0,7026103,0,0,0,0
+"Houston-Sugar Land-Baytown, TX",2020-03-04,3,1,1,0,0,7026103,0,0,0,0
+"Houston-Sugar Land-Baytown, TX",2020-03-05,4,5,4,0,0,7026103,0,0,0,0
+"Houston-Sugar Land-Baytown, TX",2020-03-06,5,8,3,0,0,7026103,0,0,0,0
+"Houston-Sugar Land-Baytown, TX",2020-03-07,6,8,0,0,0,7026103,0,0,0,0
+"Houston-Sugar Land-Baytown, TX",2020-03-08,7,12,4,0,0,7026103,0,0,0,0
+"Houston-Sugar Land-Baytown, TX",2020-03-09,8,12,0,0,0,7026103,0,0,0,0
+"Houston-Sugar Land-Baytown, TX",2020-03-10,9,14,2,0,0,7026103,0,0,0,0
+"Houston-Sugar Land-Baytown, TX",2020-03-11,10,14,0,0,0,7026103,0,0,0,0
+"Houston-Sugar Land-Baytown, TX",2020-03-12,11,16,2,0,0,7026103,0,0,0,0
+"Houston-Sugar Land-Baytown, TX",2020-03-13,12,21,5,0,0,7026103,0,0,0,0
+"Houston-Sugar Land-Baytown, TX",2020-03-14,13,24,3,0,0,7026103,0,0,0,0
+"Houston-Sugar Land-Baytown, TX",2020-03-15,14,26,2,0,0,7026103,0,0,0,0
+"Houston-Sugar Land-Baytown, TX",2020-03-16,15,28,2,0,0,7026103,0,0,0,0
+"Houston-Sugar Land-Baytown, TX",2020-03-17,16,32,4,0,0,7026103,0,0,0,0
+"Houston-Sugar Land-Baytown, TX",2020-03-18,17,51,19,0,0,7026103,0,0,0,0
+"Houston-Sugar Land-Baytown, TX",2020-03-19,18,65,14,1,1,7026103,1,0,0,0
+"Houston-Sugar Land-Baytown, TX",2020-03-20,19,99,34,1,0,7026103,1,1,1,0
+"Houston-Sugar Land-Baytown, TX",2020-03-21,20,123,24,1,0,7026103,1,1,1,0
+"Houston-Sugar Land-Baytown, TX",2020-03-22,21,141,18,1,0,7026103,1,1,1,0
+"Houston-Sugar Land-Baytown, TX",2020-03-23,22,168,27,1,0,7026103,1,1,1,1
+"Houston-Sugar Land-Baytown, TX",2020-03-24,23,229,61,1,0,7026103,1,1,1,1
+"Houston-Sugar Land-Baytown, TX",2020-03-25,24,306,77,1,0,7026103,1,1,1,1
+"Houston-Sugar Land-Baytown, TX",2020-03-26,25,383,77,2,1,7026103,1,1,1,1
+"Houston-Sugar Land-Baytown, TX",2020-03-27,26,468,85,3,1,7026103,1,1,1,1
+"Houston-Sugar Land-Baytown, TX",2020-03-28,27,710,242,4,1,7026103,1,1,1,1
+"Houston-Sugar Land-Baytown, TX",2020-03-29,28,849,139,5,1,7026103,1,1,1,1
+"Houston-Sugar Land-Baytown, TX",2020-03-30,29,912,63,8,3,7026103,1,1,1,1
+"Houston-Sugar Land-Baytown, TX",2020-03-31,30,1114,202,9,1,7026103,1,1,1,1
+"Houston-Sugar Land-Baytown, TX",2020-04-01,31,1349,235,11,2,7026103,1,1,1,1
+"Houston-Sugar Land-Baytown, TX",2020-04-02,32,1459,110,15,4,7026103,1,1,1,1
+"Houston-Sugar Land-Baytown, TX",2020-04-03,33,1729,270,18,3,7026103,1,1,1,1
+"Houston-Sugar Land-Baytown, TX",2020-04-04,34,2064,335,27,9,7026103,1,1,1,1
+"Houston-Sugar Land-Baytown, TX",2020-04-05,35,2216,152,30,3,7026103,1,1,1,1
+"Houston-Sugar Land-Baytown, TX",2020-04-06,36,2730,514,33,3,7026103,1,1,1,1
+"Houston-Sugar Land-Baytown, TX",2020-04-07,37,3105,375,38,5,7026103,1,1,1,1
+"Houston-Sugar Land-Baytown, TX",2020-04-08,38,3474,369,48,10,7026103,1,1,1,1
+"Houston-Sugar Land-Baytown, TX",2020-04-09,39,4247,773,54,6,7026103,1,1,1,1
+"Houston-Sugar Land-Baytown, TX",2020-04-10,40,4573,326,64,10,7026103,1,1,1,1
+"Houston-Sugar Land-Baytown, TX",2020-04-11,41,4969,396,66,2,7026103,1,1,1,1
+"Houston-Sugar Land-Baytown, TX",2020-04-12,42,5064,95,70,4,7026103,1,1,1,1
+"Houston-Sugar Land-Baytown, TX",2020-04-13,43,5254,190,75,5,7026103,1,1,1,1
+"Houston-Sugar Land-Baytown, TX",2020-04-14,44,5520,266,86,11,7026103,1,1,1,1
+"Houston-Sugar Land-Baytown, TX",2020-04-15,45,5811,291,95,9,7026103,1,1,1,1
+"Houston-Sugar Land-Baytown, TX",2020-04-16,46,6095,284,102,7,7026103,1,1,1,1
+"Houston-Sugar Land-Baytown, TX",2020-04-17,47,6358,263,108,6,7026103,1,1,1,1
+"Indianapolis-Carmel, IN",2020-03-01,0,0,0,0,0,1919062,0,0,0,0
+"Indianapolis-Carmel, IN",2020-03-02,1,0,0,0,0,1919062,0,0,0,0
+"Indianapolis-Carmel, IN",2020-03-03,2,0,0,0,0,1919062,0,0,0,0
+"Indianapolis-Carmel, IN",2020-03-06,5,1,1,0,0,1919062,0,0,0,0
+"Indianapolis-Carmel, IN",2020-03-07,6,1,0,0,0,1919062,0,0,0,0
+"Indianapolis-Carmel, IN",2020-03-08,7,2,1,0,0,1919062,0,0,0,0
+"Indianapolis-Carmel, IN",2020-03-09,8,3,1,0,0,1919062,0,0,0,0
+"Indianapolis-Carmel, IN",2020-03-10,9,4,1,0,0,1919062,0,0,0,0
+"Indianapolis-Carmel, IN",2020-03-11,10,7,3,0,0,1919062,0,0,0,0
+"Indianapolis-Carmel, IN",2020-03-12,11,8,1,0,0,1919062,0,0,0,0
+"Indianapolis-Carmel, IN",2020-03-13,12,8,0,0,0,1919062,0,0,0,0
+"Indianapolis-Carmel, IN",2020-03-14,13,9,1,0,0,1919062,0,0,0,0
+"Indianapolis-Carmel, IN",2020-03-15,14,13,4,0,0,1919062,0,0,0,0
+"Indianapolis-Carmel, IN",2020-03-16,15,15,2,1,1,1919062,0,0,0,0
+"Indianapolis-Carmel, IN",2020-03-17,16,17,2,2,1,1919062,0,0,0,0
+"Indianapolis-Carmel, IN",2020-03-18,17,21,4,2,0,1919062,0,0,0,0
+"Indianapolis-Carmel, IN",2020-03-19,18,29,8,2,0,1919062,0,0,1,0
+"Indianapolis-Carmel, IN",2020-03-20,19,40,11,3,1,1919062,0,1,1,0
+"Indianapolis-Carmel, IN",2020-03-21,20,72,32,3,0,1919062,1,1,1,0
+"Indianapolis-Carmel, IN",2020-03-22,21,126,54,4,1,1919062,1,1,1,0
+"Indianapolis-Carmel, IN",2020-03-23,22,166,40,4,0,1919062,1,1,1,0
+"Indianapolis-Carmel, IN",2020-03-24,23,228,62,9,5,1919062,1,1,1,0
+"Indianapolis-Carmel, IN",2020-03-25,24,313,85,10,1,1919062,1,1,1,0
+"Indianapolis-Carmel, IN",2020-03-26,25,414,101,10,0,1919062,1,1,1,1
+"Indianapolis-Carmel, IN",2020-03-27,26,640,226,14,4,1919062,1,1,1,1
+"Indianapolis-Carmel, IN",2020-03-28,27,779,139,16,2,1919062,1,1,1,1
+"Indianapolis-Carmel, IN",2020-03-29,28,936,157,16,0,1919062,1,1,1,1
+"Indianapolis-Carmel, IN",2020-03-30,29,1123,187,18,2,1919062,1,1,1,1
+"Indianapolis-Carmel, IN",2020-03-31,30,1345,222,24,6,1919062,1,1,1,1
+"Indianapolis-Carmel, IN",2020-04-01,31,1611,266,32,8,1919062,1,1,1,1
+"Indianapolis-Carmel, IN",2020-04-02,32,1873,262,35,3,1919062,1,1,1,1
+"Indianapolis-Carmel, IN",2020-04-03,33,2057,184,45,10,1919062,1,1,1,1
+"Indianapolis-Carmel, IN",2020-04-04,34,2322,265,51,6,1919062,1,1,1,1
+"Indianapolis-Carmel, IN",2020-04-05,35,2592,270,56,5,1919062,1,1,1,1
+"Indianapolis-Carmel, IN",2020-04-06,36,2901,309,61,5,1919062,1,1,1,1
+"Indianapolis-Carmel, IN",2020-04-07,37,3191,290,75,14,1919062,1,1,1,1
+"Indianapolis-Carmel, IN",2020-04-08,38,3421,230,93,18,1919062,1,1,1,1
+"Indianapolis-Carmel, IN",2020-04-09,39,3589,168,123,30,1919062,1,1,1,1
+"Indianapolis-Carmel, IN",2020-04-10,40,3885,296,160,37,1919062,1,1,1,1
+"Indianapolis-Carmel, IN",2020-04-11,41,4094,209,180,20,1919062,1,1,1,1
+"Indianapolis-Carmel, IN",2020-04-12,42,4337,243,188,8,1919062,1,1,1,1
+"Indianapolis-Carmel, IN",2020-04-13,43,4501,164,189,1,1919062,1,1,1,1
+"Indianapolis-Carmel, IN",2020-04-14,44,4604,103,213,24,1919062,1,1,1,1
+"Indianapolis-Carmel, IN",2020-04-15,45,4798,194,233,20,1919062,1,1,1,1
+"Indianapolis-Carmel, IN",2020-04-16,46,4961,163,253,20,1919062,1,1,1,1
+"Indianapolis-Carmel, IN",2020-04-17,47,5240,279,277,24,1919062,1,1,1,1
+"Jacksonville, FL",2020-03-01,0,0,0,0,0,1534701,0,0,0,0
+"Jacksonville, FL",2020-03-02,1,0,0,0,0,1534701,0,0,0,0
+"Jacksonville, FL",2020-03-03,2,0,0,0,0,1534701,0,0,0,0
+"Jacksonville, FL",2020-03-09,8,0,0,0,0,1534701,0,0,0,0
+"Jacksonville, FL",2020-03-10,9,1,1,0,0,1534701,0,0,0,0
+"Jacksonville, FL",2020-03-11,10,2,1,0,0,1534701,0,0,0,0
+"Jacksonville, FL",2020-03-12,11,4,2,0,0,1534701,0,0,0,0
+"Jacksonville, FL",2020-03-13,12,4,0,0,0,1534701,0,0,0,0
+"Jacksonville, FL",2020-03-14,13,4,0,0,0,1534701,0,0,0,0
+"Jacksonville, FL",2020-03-15,14,11,7,0,0,1534701,0,0,0,0
+"Jacksonville, FL",2020-03-16,15,12,1,0,0,1534701,0,0,0,0
+"Jacksonville, FL",2020-03-17,16,19,7,0,0,1534701,0,0,0,0
+"Jacksonville, FL",2020-03-18,17,24,5,1,1,1534701,1,0,0,0
+"Jacksonville, FL",2020-03-19,18,25,1,2,1,1534701,1,0,1,0
+"Jacksonville, FL",2020-03-20,19,30,5,2,0,1534701,1,0,1,0
+"Jacksonville, FL",2020-03-21,20,42,12,3,1,1534701,1,0,1,0
+"Jacksonville, FL",2020-03-22,21,65,23,3,0,1534701,1,0,1,0
+"Jacksonville, FL",2020-03-23,22,80,15,6,3,1534701,1,0,1,0
+"Jacksonville, FL",2020-03-24,23,89,9,6,0,1534701,1,0,1,0
+"Jacksonville, FL",2020-03-25,24,113,24,6,0,1534701,1,0,1,0
+"Jacksonville, FL",2020-03-26,25,148,35,8,2,1534701,1,0,1,0
+"Jacksonville, FL",2020-03-27,26,176,28,9,1,1534701,1,0,1,0
+"Jacksonville, FL",2020-03-28,27,210,34,9,0,1534701,1,1,1,1
+"Jacksonville, FL",2020-03-29,28,252,42,9,0,1534701,1,1,1,1
+"Jacksonville, FL",2020-03-30,29,273,21,11,2,1534701,1,1,1,1
+"Jacksonville, FL",2020-03-31,30,346,73,11,0,1534701,1,1,1,1
+"Jacksonville, FL",2020-04-01,31,402,56,11,0,1534701,1,1,1,1
+"Jacksonville, FL",2020-04-02,32,473,71,17,6,1534701,1,1,1,1
+"Jacksonville, FL",2020-04-03,33,541,68,17,0,1534701,1,1,1,1
+"Jacksonville, FL",2020-04-04,34,625,84,17,0,1534701,1,1,1,1
+"Jacksonville, FL",2020-04-05,35,666,41,17,0,1534701,1,1,1,1
+"Jacksonville, FL",2020-04-06,36,744,78,17,0,1534701,1,1,1,1
+"Jacksonville, FL",2020-04-07,37,805,61,20,3,1534701,1,1,1,1
+"Jacksonville, FL",2020-04-08,38,856,51,20,0,1534701,1,1,1,1
+"Jacksonville, FL",2020-04-09,39,916,60,22,2,1534701,1,1,1,1
+"Jacksonville, FL",2020-04-10,40,976,60,23,1,1534701,1,1,1,1
+"Jacksonville, FL",2020-04-11,41,1020,44,25,2,1534701,1,1,1,1
+"Jacksonville, FL",2020-04-12,42,1055,35,25,0,1534701,1,1,1,1
+"Jacksonville, FL",2020-04-13,43,1083,28,26,1,1534701,1,1,1,1
+"Jacksonville, FL",2020-04-14,44,1115,32,27,1,1534701,1,1,1,1
+"Jacksonville, FL",2020-04-15,45,1149,34,28,1,1534701,1,1,1,1
+"Jacksonville, FL",2020-04-16,46,1199,50,28,0,1534701,1,1,1,1
+"Jacksonville, FL",2020-04-17,47,1278,79,31,3,1534701,1,1,1,1
+"Kansas City, MO-KS",2020-03-01,0,0,0,0,0,2169282,0,0,0,0
+"Kansas City, MO-KS",2020-03-02,1,0,0,0,0,2169282,0,0,0,0
+"Kansas City, MO-KS",2020-03-03,2,0,0,0,0,2169282,0,0,0,0
+"Kansas City, MO-KS",2020-03-07,6,1,1,0,0,2169282,0,0,0,0
+"Kansas City, MO-KS",2020-03-08,7,1,0,0,0,2169282,0,0,0,0
+"Kansas City, MO-KS",2020-03-09,8,1,0,0,0,2169282,0,0,0,0
+"Kansas City, MO-KS",2020-03-10,9,1,0,0,0,2169282,0,0,0,0
+"Kansas City, MO-KS",2020-03-11,10,1,0,0,0,2169282,0,0,0,0
+"Kansas City, MO-KS",2020-03-12,11,5,4,1,1,2169282,0,0,0,0
+"Kansas City, MO-KS",2020-03-13,12,5,0,1,0,2169282,0,0,0,0
+"Kansas City, MO-KS",2020-03-14,13,7,2,1,0,2169282,0,0,0,0
+"Kansas City, MO-KS",2020-03-15,14,8,1,1,0,2169282,0,0,0,0
+"Kansas City, MO-KS",2020-03-16,15,11,3,1,0,2169282,0,0,0,0
+"Kansas City, MO-KS",2020-03-17,16,18,7,1,0,2169282,0,0,0,0
+"Kansas City, MO-KS",2020-03-18,17,24,6,1,0,2169282,1,0,0,0
+"Kansas City, MO-KS",2020-03-19,18,35,11,1,0,2169282,1,1,1,0
+"Kansas City, MO-KS",2020-03-20,19,50,15,2,1,2169282,1,1,1,0
+"Kansas City, MO-KS",2020-03-21,20,56,6,3,1,2169282,1,1,1,0
+"Kansas City, MO-KS",2020-03-22,21,60,4,3,0,2169282,1,1,1,0
+"Kansas City, MO-KS",2020-03-23,22,78,18,3,0,2169282,1,1,1,0
+"Kansas City, MO-KS",2020-03-24,23,94,16,4,1,2169282,1,1,1,0
+"Kansas City, MO-KS",2020-03-25,24,123,29,4,0,2169282,1,1,1,1
+"Kansas City, MO-KS",2020-03-26,25,163,40,4,0,2169282,1,1,1,1
+"Kansas City, MO-KS",2020-03-27,26,197,34,5,1,2169282,1,1,1,1
+"Kansas City, MO-KS",2020-03-28,27,233,36,6,1,2169282,1,1,1,1
+"Kansas City, MO-KS",2020-03-29,28,273,40,7,1,2169282,1,1,1,1
+"Kansas City, MO-KS",2020-03-30,29,323,50,8,1,2169282,1,1,1,1
+"Kansas City, MO-KS",2020-03-31,30,391,68,9,1,2169282,1,1,1,1
+"Kansas City, MO-KS",2020-04-01,31,439,48,11,2,2169282,1,1,1,1
+"Kansas City, MO-KS",2020-04-02,32,498,59,13,2,2169282,1,1,1,1
+"Kansas City, MO-KS",2020-04-03,33,563,65,19,6,2169282,1,1,1,1
+"Kansas City, MO-KS",2020-04-04,34,627,64,19,0,2169282,1,1,1,1
+"Kansas City, MO-KS",2020-04-05,35,660,33,21,2,2169282,1,1,1,1
+"Kansas City, MO-KS",2020-04-06,36,730,70,24,3,2169282,1,1,1,1
+"Kansas City, MO-KS",2020-04-07,37,753,23,28,4,2169282,1,1,1,1
+"Kansas City, MO-KS",2020-04-08,38,866,113,33,5,2169282,1,1,1,1
+"Kansas City, MO-KS",2020-04-09,39,919,53,37,4,2169282,1,1,1,1
+"Kansas City, MO-KS",2020-04-10,40,983,64,42,5,2169282,1,1,1,1
+"Kansas City, MO-KS",2020-04-11,41,1057,74,49,7,2169282,1,1,1,1
+"Kansas City, MO-KS",2020-04-12,42,1103,46,50,1,2169282,1,1,1,1
+"Kansas City, MO-KS",2020-04-13,43,1141,38,57,7,2169282,1,1,1,1
+"Kansas City, MO-KS",2020-04-14,44,1192,51,63,6,2169282,1,1,1,1
+"Kansas City, MO-KS",2020-04-15,45,1233,41,67,4,2169282,1,1,1,1
+"Kansas City, MO-KS",2020-04-16,46,1300,67,76,9,2169282,1,1,1,1
+"Kansas City, MO-KS",2020-04-17,47,1351,51,79,3,2169282,1,1,1,1
+"Las Vegas-Paradise, NV",2020-03-01,0,0,0,0,0,2231647,0,0,0,0
+"Las Vegas-Paradise, NV",2020-03-02,1,0,0,0,0,2231647,0,0,0,0
+"Las Vegas-Paradise, NV",2020-03-03,2,0,0,0,0,2231647,0,0,0,0
+"Las Vegas-Paradise, NV",2020-03-05,4,1,1,0,0,2231647,0,0,0,0
+"Las Vegas-Paradise, NV",2020-03-06,5,1,0,0,0,2231647,0,0,0,0
+"Las Vegas-Paradise, NV",2020-03-07,6,1,0,0,0,2231647,0,0,0,0
+"Las Vegas-Paradise, NV",2020-03-08,7,2,1,0,0,2231647,0,0,0,0
+"Las Vegas-Paradise, NV",2020-03-09,8,2,0,0,0,2231647,0,0,0,0
+"Las Vegas-Paradise, NV",2020-03-10,9,2,0,0,0,2231647,0,0,0,0
+"Las Vegas-Paradise, NV",2020-03-11,10,5,3,0,0,2231647,0,0,0,0
+"Las Vegas-Paradise, NV",2020-03-12,11,8,3,0,0,2231647,0,0,0,0
+"Las Vegas-Paradise, NV",2020-03-13,12,16,8,0,0,2231647,0,0,0,0
+"Las Vegas-Paradise, NV",2020-03-14,13,16,0,0,0,2231647,0,0,0,0
+"Las Vegas-Paradise, NV",2020-03-15,14,16,0,0,0,2231647,0,0,0,0
+"Las Vegas-Paradise, NV",2020-03-16,15,35,19,1,1,2231647,0,1,0,0
+"Las Vegas-Paradise, NV",2020-03-17,16,42,7,1,0,2231647,0,1,0,0
+"Las Vegas-Paradise, NV",2020-03-18,17,69,27,1,0,2231647,1,1,1,0
+"Las Vegas-Paradise, NV",2020-03-19,18,74,5,1,0,2231647,1,1,1,0
+"Las Vegas-Paradise, NV",2020-03-20,19,126,52,2,1,2231647,1,1,1,0
+"Las Vegas-Paradise, NV",2020-03-21,20,126,0,2,0,2231647,1,1,1,0
+"Las Vegas-Paradise, NV",2020-03-22,21,126,0,2,0,2231647,1,1,1,0
+"Las Vegas-Paradise, NV",2020-03-23,22,151,25,4,2,2231647,1,1,1,0
+"Las Vegas-Paradise, NV",2020-03-24,23,249,98,6,2,2231647,1,1,1,0
+"Las Vegas-Paradise, NV",2020-03-25,24,249,0,6,0,2231647,1,1,1,0
+"Las Vegas-Paradise, NV",2020-03-26,25,350,101,10,4,2231647,1,1,1,0
+"Las Vegas-Paradise, NV",2020-03-27,26,443,93,10,0,2231647,1,1,1,0
+"Las Vegas-Paradise, NV",2020-03-28,27,528,85,14,4,2231647,1,1,1,0
+"Las Vegas-Paradise, NV",2020-03-29,28,528,0,14,0,2231647,1,1,1,0
+"Las Vegas-Paradise, NV",2020-03-30,29,753,225,15,1,2231647,1,1,1,0
+"Las Vegas-Paradise, NV",2020-03-31,30,869,116,23,8,2231647,1,1,1,0
+"Las Vegas-Paradise, NV",2020-04-01,31,961,92,28,5,2231647,1,1,1,1
+"Las Vegas-Paradise, NV",2020-04-02,32,1125,164,34,6,2231647,1,1,1,1
+"Las Vegas-Paradise, NV",2020-04-03,33,1279,154,39,5,2231647,1,1,1,1
+"Las Vegas-Paradise, NV",2020-04-04,34,1418,139,41,2,2231647,1,1,1,1
+"Las Vegas-Paradise, NV",2020-04-05,35,1519,101,41,0,2231647,1,1,1,1
+"Las Vegas-Paradise, NV",2020-04-06,36,1608,89,41,0,2231647,1,1,1,1
+"Las Vegas-Paradise, NV",2020-04-07,37,1734,126,54,13,2231647,1,1,1,1
+"Las Vegas-Paradise, NV",2020-04-08,38,1878,144,65,11,2231647,1,1,1,1
+"Las Vegas-Paradise, NV",2020-04-09,39,2009,131,71,6,2231647,1,1,1,1
+"Las Vegas-Paradise, NV",2020-04-10,40,2144,135,75,4,2231647,1,1,1,1
+"Las Vegas-Paradise, NV",2020-04-11,41,2258,114,96,21,2231647,1,1,1,1
+"Las Vegas-Paradise, NV",2020-04-12,42,2324,66,100,4,2231647,1,1,1,1
+"Las Vegas-Paradise, NV",2020-04-13,43,2444,120,101,1,2231647,1,1,1,1
+"Las Vegas-Paradise, NV",2020-04-14,44,2509,65,106,5,2231647,1,1,1,1
+"Las Vegas-Paradise, NV",2020-04-15,45,2559,50,115,9,2231647,1,1,1,1
+"Las Vegas-Paradise, NV",2020-04-16,46,2625,66,121,6,2231647,1,1,1,1
+"Las Vegas-Paradise, NV",2020-04-17,47,2738,113,124,3,2231647,1,1,1,1
+"Los Angeles-Long Beach-Santa Ana, CA",2020-03-01,0,2,0,0,0,13291486,0,0,0,0
+"Los Angeles-Long Beach-Santa Ana, CA",2020-03-02,1,2,0,0,0,13291486,0,0,0,0
+"Los Angeles-Long Beach-Santa Ana, CA",2020-03-03,2,4,2,0,0,13291486,0,0,0,0
+"Los Angeles-Long Beach-Santa Ana, CA",2020-03-04,3,10,6,0,0,13291486,0,0,0,0
+"Los Angeles-Long Beach-Santa Ana, CA",2020-03-05,4,14,4,0,0,13291486,0,0,0,0
+"Los Angeles-Long Beach-Santa Ana, CA",2020-03-06,5,16,2,0,0,13291486,0,0,0,0
+"Los Angeles-Long Beach-Santa Ana, CA",2020-03-07,6,17,1,0,0,13291486,0,0,0,0
+"Los Angeles-Long Beach-Santa Ana, CA",2020-03-08,7,17,0,0,0,13291486,0,0,0,0
+"Los Angeles-Long Beach-Santa Ana, CA",2020-03-09,8,24,7,0,0,13291486,0,0,0,0
+"Los Angeles-Long Beach-Santa Ana, CA",2020-03-10,9,25,1,0,0,13291486,0,0,0,0
+"Los Angeles-Long Beach-Santa Ana, CA",2020-03-11,10,34,9,1,1,13291486,0,0,0,0
+"Los Angeles-Long Beach-Santa Ana, CA",2020-03-12,11,38,4,1,0,13291486,0,0,0,0
+"Los Angeles-Long Beach-Santa Ana, CA",2020-03-13,12,53,15,1,0,13291486,0,0,0,0
+"Los Angeles-Long Beach-Santa Ana, CA",2020-03-14,13,67,14,1,0,13291486,0,0,0,0
+"Los Angeles-Long Beach-Santa Ana, CA",2020-03-15,14,86,19,1,0,13291486,0,0,0,0
+"Los Angeles-Long Beach-Santa Ana, CA",2020-03-16,15,116,30,1,0,13291486,0,0,0,0
+"Los Angeles-Long Beach-Santa Ana, CA",2020-03-17,16,173,57,1,0,13291486,0,0,0,0
+"Los Angeles-Long Beach-Santa Ana, CA",2020-03-18,17,232,59,1,0,13291486,0,0,0,0
+"Los Angeles-Long Beach-Santa Ana, CA",2020-03-19,18,284,52,2,1,13291486,1,1,1,0
+"Los Angeles-Long Beach-Santa Ana, CA",2020-03-20,19,357,73,2,0,13291486,1,1,1,0
+"Los Angeles-Long Beach-Santa Ana, CA",2020-03-21,20,429,72,4,2,13291486,1,1,1,0
+"Los Angeles-Long Beach-Santa Ana, CA",2020-03-22,21,516,87,5,1,13291486,1,1,1,0
+"Los Angeles-Long Beach-Santa Ana, CA",2020-03-23,22,661,145,7,2,13291486,1,1,1,0
+"Los Angeles-Long Beach-Santa Ana, CA",2020-03-24,23,814,153,11,4,13291486,1,1,1,0
+"Los Angeles-Long Beach-Santa Ana, CA",2020-03-25,24,986,172,14,3,13291486,1,1,1,0
+"Los Angeles-Long Beach-Santa Ana, CA",2020-03-26,25,1472,486,22,8,13291486,1,1,1,1
+"Los Angeles-Long Beach-Santa Ana, CA",2020-03-27,26,1786,314,30,8,13291486,1,1,1,1
+"Los Angeles-Long Beach-Santa Ana, CA",2020-03-28,27,2125,339,36,6,13291486,1,1,1,1
+"Los Angeles-Long Beach-Santa Ana, CA",2020-03-29,28,2567,442,41,5,13291486,1,1,1,1
+"Los Angeles-Long Beach-Santa Ana, CA",2020-03-30,29,2938,371,48,7,13291486,1,1,1,1
+"Los Angeles-Long Beach-Santa Ana, CA",2020-03-31,30,3513,575,61,13,13291486,1,1,1,1
+"Los Angeles-Long Beach-Santa Ana, CA",2020-04-01,31,4124,611,75,14,13291486,1,1,1,1
+"Los Angeles-Long Beach-Santa Ana, CA",2020-04-02,32,4701,577,91,16,13291486,1,1,1,1
+"Los Angeles-Long Beach-Santa Ana, CA",2020-04-03,33,5277,576,102,11,13291486,1,1,1,1
+"Los Angeles-Long Beach-Santa Ana, CA",2020-04-04,34,6063,786,131,29,13291486,1,1,1,1
+"Los Angeles-Long Beach-Santa Ana, CA",2020-04-05,35,6774,711,146,15,13291486,1,1,1,1
+"Los Angeles-Long Beach-Santa Ana, CA",2020-04-06,36,7242,468,161,15,13291486,1,1,1,1
+"Los Angeles-Long Beach-Santa Ana, CA",2020-04-07,37,7841,599,184,23,13291486,1,1,1,1
+"Los Angeles-Long Beach-Santa Ana, CA",2020-04-08,38,8546,705,215,31,13291486,1,1,1,1
+"Los Angeles-Long Beach-Santa Ana, CA",2020-04-09,39,9034,488,240,25,13291486,1,1,1,1
+"Los Angeles-Long Beach-Santa Ana, CA",2020-04-10,40,9568,534,258,18,13291486,1,1,1,1
+"Los Angeles-Long Beach-Santa Ana, CA",2020-04-11,41,10094,526,283,25,13291486,1,1,1,1
+"Los Angeles-Long Beach-Santa Ana, CA",2020-04-12,42,10469,375,315,32,13291486,1,1,1,1
+"Los Angeles-Long Beach-Santa Ana, CA",2020-04-13,43,10703,234,339,24,13291486,1,1,1,1
+"Los Angeles-Long Beach-Santa Ana, CA",2020-04-14,44,11346,643,379,40,13291486,1,1,1,1
+"Los Angeles-Long Beach-Santa Ana, CA",2020-04-15,45,11872,526,424,45,13291486,1,1,1,1
+"Los Angeles-Long Beach-Santa Ana, CA",2020-04-16,46,12279,407,480,56,13291486,1,1,1,1
+"Los Angeles-Long Beach-Santa Ana, CA",2020-04-17,47,12892,613,523,43,13291486,1,1,1,1
+"Louisville/Jefferson County, KY-IN",2020-03-01,0,0,0,0,0,1347989,0,0,0,0
+"Louisville/Jefferson County, KY-IN",2020-03-02,1,0,0,0,0,1347989,0,0,0,0
+"Louisville/Jefferson County, KY-IN",2020-03-03,2,0,0,0,0,1347989,0,0,0,0
+"Louisville/Jefferson County, KY-IN",2020-03-08,7,1,1,0,0,1347989,0,0,0,0
+"Louisville/Jefferson County, KY-IN",2020-03-09,8,1,0,0,0,1347989,0,0,0,0
+"Louisville/Jefferson County, KY-IN",2020-03-10,9,1,0,0,0,1347989,0,0,0,0
+"Louisville/Jefferson County, KY-IN",2020-03-11,10,1,0,0,0,1347989,0,0,0,0
+"Louisville/Jefferson County, KY-IN",2020-03-12,11,2,1,0,0,1347989,0,0,0,0
+"Louisville/Jefferson County, KY-IN",2020-03-13,12,2,0,0,0,1347989,0,0,0,0
+"Louisville/Jefferson County, KY-IN",2020-03-14,13,5,3,0,0,1347989,0,0,0,0
+"Louisville/Jefferson County, KY-IN",2020-03-15,14,7,2,0,0,1347989,0,0,0,0
+"Louisville/Jefferson County, KY-IN",2020-03-16,15,9,2,0,0,1347989,0,0,0,0
+"Louisville/Jefferson County, KY-IN",2020-03-17,16,11,2,0,0,1347989,0,0,0,0
+"Louisville/Jefferson County, KY-IN",2020-03-18,17,14,3,0,0,1347989,1,0,1,0
+"Louisville/Jefferson County, KY-IN",2020-03-19,18,17,3,1,1,1347989,1,0,1,0
+"Louisville/Jefferson County, KY-IN",2020-03-20,19,27,10,1,0,1347989,1,0,1,0
+"Louisville/Jefferson County, KY-IN",2020-03-21,20,35,8,1,0,1347989,1,0,1,0
+"Louisville/Jefferson County, KY-IN",2020-03-22,21,39,4,1,0,1347989,1,0,1,0
+"Louisville/Jefferson County, KY-IN",2020-03-23,22,46,7,1,0,1347989,1,0,1,0
+"Louisville/Jefferson County, KY-IN",2020-03-24,23,57,11,1,0,1347989,1,0,1,0
+"Louisville/Jefferson County, KY-IN",2020-03-25,24,64,7,3,2,1347989,1,0,1,0
+"Louisville/Jefferson County, KY-IN",2020-03-26,25,84,20,3,0,1347989,1,1,1,1
+"Louisville/Jefferson County, KY-IN",2020-03-27,26,115,31,4,1,1347989,1,1,1,1
+"Louisville/Jefferson County, KY-IN",2020-03-28,27,150,35,4,0,1347989,1,1,1,1
+"Louisville/Jefferson County, KY-IN",2020-03-29,28,171,21,4,0,1347989,1,1,1,1
+"Louisville/Jefferson County, KY-IN",2020-03-30,29,206,35,4,0,1347989,1,1,1,1
+"Louisville/Jefferson County, KY-IN",2020-03-31,30,284,78,9,5,1347989,1,1,1,1
+"Louisville/Jefferson County, KY-IN",2020-04-01,31,326,42,10,1,1347989,1,1,1,1
+"Louisville/Jefferson County, KY-IN",2020-04-02,32,387,61,14,4,1347989,1,1,1,1
+"Louisville/Jefferson County, KY-IN",2020-04-03,33,403,16,16,2,1347989,1,1,1,1
+"Louisville/Jefferson County, KY-IN",2020-04-04,34,469,66,18,2,1347989,1,1,1,1
+"Louisville/Jefferson County, KY-IN",2020-04-05,35,506,37,19,1,1347989,1,1,1,1
+"Louisville/Jefferson County, KY-IN",2020-04-06,36,533,27,28,9,1347989,1,1,1,1
+"Louisville/Jefferson County, KY-IN",2020-04-07,37,669,136,38,10,1347989,1,1,1,1
+"Louisville/Jefferson County, KY-IN",2020-04-08,38,685,16,40,2,1347989,1,1,1,1
+"Louisville/Jefferson County, KY-IN",2020-04-09,39,755,70,47,7,1347989,1,1,1,1
+"Louisville/Jefferson County, KY-IN",2020-04-10,40,832,77,55,8,1347989,1,1,1,1
+"Louisville/Jefferson County, KY-IN",2020-04-11,41,868,36,58,3,1347989,1,1,1,1
+"Louisville/Jefferson County, KY-IN",2020-04-12,42,890,22,59,1,1347989,1,1,1,1
+"Louisville/Jefferson County, KY-IN",2020-04-13,43,936,46,64,5,1347989,1,1,1,1
+"Louisville/Jefferson County, KY-IN",2020-04-14,44,1000,64,68,4,1347989,1,1,1,1
+"Louisville/Jefferson County, KY-IN",2020-04-15,45,1022,22,73,5,1347989,1,1,1,1
+"Louisville/Jefferson County, KY-IN",2020-04-16,46,1060,38,77,4,1347989,1,1,1,1
+"Louisville/Jefferson County, KY-IN",2020-04-17,47,1079,19,83,6,1347989,1,1,1,1
+"Memphis, TN-MS-AR",2020-03-01,0,0,0,0,0,1342349,0,0,0,0
+"Memphis, TN-MS-AR",2020-03-02,1,0,0,0,0,1342349,0,0,0,0
+"Memphis, TN-MS-AR",2020-03-03,2,0,0,0,0,1342349,0,0,0,0
+"Memphis, TN-MS-AR",2020-03-08,7,1,1,0,0,1342349,0,0,0,0
+"Memphis, TN-MS-AR",2020-03-09,8,1,0,0,0,1342349,0,0,0,0
+"Memphis, TN-MS-AR",2020-03-10,9,1,0,0,0,1342349,0,0,0,0
+"Memphis, TN-MS-AR",2020-03-11,10,1,0,0,0,1342349,0,0,0,0
+"Memphis, TN-MS-AR",2020-03-12,11,2,1,0,0,1342349,0,0,0,0
+"Memphis, TN-MS-AR",2020-03-13,12,2,0,0,0,1342349,0,0,0,0
+"Memphis, TN-MS-AR",2020-03-14,13,2,0,0,0,1342349,0,0,0,0
+"Memphis, TN-MS-AR",2020-03-15,14,2,0,0,0,1342349,0,0,0,0
+"Memphis, TN-MS-AR",2020-03-16,15,2,0,0,0,1342349,0,0,0,0
+"Memphis, TN-MS-AR",2020-03-17,16,2,0,0,0,1342349,0,0,0,0
+"Memphis, TN-MS-AR",2020-03-18,17,5,3,0,0,1342349,1,0,1,0
+"Memphis, TN-MS-AR",2020-03-19,18,25,20,0,0,1342349,1,0,1,0
+"Memphis, TN-MS-AR",2020-03-20,19,48,23,0,0,1342349,1,0,1,0
+"Memphis, TN-MS-AR",2020-03-21,20,60,12,0,0,1342349,1,0,1,0
+"Memphis, TN-MS-AR",2020-03-22,21,94,34,0,0,1342349,1,0,1,0
+"Memphis, TN-MS-AR",2020-03-23,22,99,5,0,0,1342349,1,0,1,0
+"Memphis, TN-MS-AR",2020-03-24,23,177,78,0,0,1342349,1,0,1,0
+"Memphis, TN-MS-AR",2020-03-25,24,225,48,1,1,1342349,1,0,1,0
+"Memphis, TN-MS-AR",2020-03-26,25,275,50,1,0,1342349,1,1,1,1
+"Memphis, TN-MS-AR",2020-03-27,26,324,49,1,0,1342349,1,1,1,1
+"Memphis, TN-MS-AR",2020-03-28,27,384,60,2,1,1342349,1,1,1,1
+"Memphis, TN-MS-AR",2020-03-29,28,488,104,3,1,1342349,1,1,1,1
+"Memphis, TN-MS-AR",2020-03-30,29,536,48,3,0,1342349,1,1,1,1
+"Memphis, TN-MS-AR",2020-03-31,30,558,22,3,0,1342349,1,1,1,1
+"Memphis, TN-MS-AR",2020-04-01,31,674,116,5,2,1342349,1,1,1,1
+"Memphis, TN-MS-AR",2020-04-02,32,831,157,10,5,1342349,1,1,1,1
+"Memphis, TN-MS-AR",2020-04-03,33,857,26,10,0,1342349,1,1,1,1
+"Memphis, TN-MS-AR",2020-04-04,34,935,78,13,3,1342349,1,1,1,1
+"Memphis, TN-MS-AR",2020-04-05,35,1011,76,14,1,1342349,1,1,1,1
+"Memphis, TN-MS-AR",2020-04-06,36,1038,27,17,3,1342349,1,1,1,1
+"Memphis, TN-MS-AR",2020-04-07,37,1126,88,22,5,1342349,1,1,1,1
+"Memphis, TN-MS-AR",2020-04-08,38,1202,76,25,3,1342349,1,1,1,1
+"Memphis, TN-MS-AR",2020-04-09,39,1320,118,28,3,1342349,1,1,1,1
+"Memphis, TN-MS-AR",2020-04-10,40,1426,106,30,2,1342349,1,1,1,1
+"Memphis, TN-MS-AR",2020-04-11,41,1501,75,33,3,1342349,1,1,1,1
+"Memphis, TN-MS-AR",2020-04-12,42,1588,87,33,0,1342349,1,1,1,1
+"Memphis, TN-MS-AR",2020-04-13,43,1739,151,33,0,1342349,1,1,1,1
+"Memphis, TN-MS-AR",2020-04-14,44,1782,43,33,0,1342349,1,1,1,1
+"Memphis, TN-MS-AR",2020-04-15,45,1876,94,40,7,1342349,1,1,1,1
+"Memphis, TN-MS-AR",2020-04-16,46,1973,97,44,4,1342349,1,1,1,1
+"Memphis, TN-MS-AR",2020-04-17,47,2158,185,46,2,1342349,1,1,1,1
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-03-01,0,0,0,0,0,6198782,0,0,0,0
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-03-02,1,0,0,0,0,6198782,0,0,0,0
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-03-03,2,0,0,0,0,6198782,0,0,0,0
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-03-06,5,2,2,0,0,6198782,0,0,0,0
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-03-07,6,2,0,0,0,6198782,0,0,0,0
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-03-08,7,3,1,0,0,6198782,0,0,0,0
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-03-09,8,3,0,0,0,6198782,0,0,0,0
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-03-10,9,4,1,0,0,6198782,0,0,0,0
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-03-11,10,6,2,0,0,6198782,0,0,0,0
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-03-12,11,16,10,0,0,6198782,0,0,0,0
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-03-13,12,34,18,0,0,6198782,0,0,0,0
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-03-14,13,34,0,0,0,6198782,0,0,0,0
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-03-15,14,55,21,0,0,6198782,0,0,0,0
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-03-16,15,69,14,0,0,6198782,0,0,0,0
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-03-17,16,109,40,1,1,6198782,0,0,0,0
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-03-18,17,177,68,1,0,6198782,0,0,0,0
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-03-19,18,225,48,1,0,6198782,0,0,1,0
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-03-20,19,293,68,2,1,6198782,1,0,1,0
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-03-21,20,390,97,3,1,6198782,1,0,1,0
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-03-22,21,515,125,4,1,6198782,1,0,1,0
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-03-23,22,627,112,6,2,6198782,1,0,1,0
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-03-24,23,779,152,6,0,6198782,1,0,1,0
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-03-25,24,1040,261,6,0,6198782,1,0,1,0
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-03-26,25,1330,290,6,0,6198782,1,0,1,0
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-03-27,26,1741,411,17,11,6198782,1,0,1,0
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-03-28,27,2259,518,20,3,6198782,1,0,1,0
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-03-29,28,2865,606,21,1,6198782,1,1,1,1
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-03-30,29,3299,434,26,5,6198782,1,1,1,1
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-03-31,30,3893,594,33,7,6198782,1,1,1,1
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-04-01,31,4379,486,46,13,6198782,1,1,1,1
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-04-02,32,5101,722,64,18,6198782,1,1,1,1
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-04-03,33,5817,716,80,16,6198782,1,1,1,1
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-04-04,34,6606,789,98,18,6198782,1,1,1,1
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-04-05,35,7029,423,120,22,6198782,1,1,1,1
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-04-06,36,7825,796,139,19,6198782,1,1,1,1
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-04-07,37,8512,687,165,26,6198782,1,1,1,1
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-04-08,38,9047,535,179,14,6198782,1,1,1,1
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-04-09,39,9708,661,208,29,6198782,1,1,1,1
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-04-10,40,10407,699,235,27,6198782,1,1,1,1
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-04-11,41,11100,693,249,14,6198782,1,1,1,1
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-04-12,42,11646,546,254,5,6198782,1,1,1,1
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-04-13,43,12337,691,278,24,6198782,1,1,1,1
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-04-14,44,12710,373,327,49,6198782,1,1,1,1
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-04-15,45,13245,535,356,29,6198782,1,1,1,1
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-04-16,46,13656,411,396,40,6198782,1,1,1,1
+"Miami-Fort Lauderdale-Pompano Beach, FL",2020-04-17,47,14597,941,417,21,6198782,1,1,1,1
+"Milwaukee-Waukesha-West Allis, WI",2020-03-01,0,0,0,0,0,1576113,0,0,0,0
+"Milwaukee-Waukesha-West Allis, WI",2020-03-02,1,0,0,0,0,1576113,0,0,0,0
+"Milwaukee-Waukesha-West Allis, WI",2020-03-03,2,0,0,0,0,1576113,0,0,0,0
+"Milwaukee-Waukesha-West Allis, WI",2020-03-09,8,0,0,0,0,1576113,0,0,0,0
+"Milwaukee-Waukesha-West Allis, WI",2020-03-11,10,1,1,0,0,1576113,0,0,0,0
+"Milwaukee-Waukesha-West Allis, WI",2020-03-12,11,1,0,0,0,1576113,0,0,0,0
+"Milwaukee-Waukesha-West Allis, WI",2020-03-13,12,3,2,0,0,1576113,0,0,0,0
+"Milwaukee-Waukesha-West Allis, WI",2020-03-14,13,9,6,0,0,1576113,0,0,0,0
+"Milwaukee-Waukesha-West Allis, WI",2020-03-15,14,10,1,0,0,1576113,0,0,0,0
+"Milwaukee-Waukesha-West Allis, WI",2020-03-16,15,16,6,0,0,1576113,0,0,0,0
+"Milwaukee-Waukesha-West Allis, WI",2020-03-17,16,28,12,0,0,1576113,0,0,0,0
+"Milwaukee-Waukesha-West Allis, WI",2020-03-18,17,54,26,0,0,1576113,0,0,0,0
+"Milwaukee-Waukesha-West Allis, WI",2020-03-19,18,79,25,1,1,1576113,0,0,0,0
+"Milwaukee-Waukesha-West Allis, WI",2020-03-20,19,120,41,2,1,1576113,0,0,0,0
+"Milwaukee-Waukesha-West Allis, WI",2020-03-21,20,160,40,3,1,1576113,1,0,0,0
+"Milwaukee-Waukesha-West Allis, WI",2020-03-22,21,240,80,3,0,1576113,1,0,0,0
+"Milwaukee-Waukesha-West Allis, WI",2020-03-23,22,266,26,4,1,1576113,1,1,0,0
+"Milwaukee-Waukesha-West Allis, WI",2020-03-24,23,307,41,4,0,1576113,1,1,0,0
+"Milwaukee-Waukesha-West Allis, WI",2020-03-25,24,408,101,5,1,1576113,1,1,0,0
+"Milwaukee-Waukesha-West Allis, WI",2020-03-26,25,496,88,8,3,1576113,1,1,0,1
+"Milwaukee-Waukesha-West Allis, WI",2020-03-27,26,586,90,12,4,1576113,1,1,0,1
+"Milwaukee-Waukesha-West Allis, WI",2020-03-28,27,677,91,12,0,1576113,1,1,0,1
+"Milwaukee-Waukesha-West Allis, WI",2020-03-29,28,713,36,12,0,1576113,1,1,0,1
+"Milwaukee-Waukesha-West Allis, WI",2020-03-30,29,826,113,13,1,1576113,1,1,0,1
+"Milwaukee-Waukesha-West Allis, WI",2020-03-31,30,858,32,18,5,1576113,1,1,1,1
+"Milwaukee-Waukesha-West Allis, WI",2020-04-01,31,977,119,23,5,1576113,1,1,1,1
+"Milwaukee-Waukesha-West Allis, WI",2020-04-02,32,1082,105,26,3,1576113,1,1,1,1
+"Milwaukee-Waukesha-West Allis, WI",2020-04-03,33,1190,108,36,10,1576113,1,1,1,1
+"Milwaukee-Waukesha-West Allis, WI",2020-04-04,34,1324,134,41,5,1576113,1,1,1,1
+"Milwaukee-Waukesha-West Allis, WI",2020-04-05,35,1415,91,52,11,1576113,1,1,1,1
+"Milwaukee-Waukesha-West Allis, WI",2020-04-06,36,1535,120,58,6,1576113,1,1,1,1
+"Milwaukee-Waukesha-West Allis, WI",2020-04-07,37,1614,79,66,8,1576113,1,1,1,1
+"Milwaukee-Waukesha-West Allis, WI",2020-04-08,38,1723,109,78,12,1576113,1,1,1,1
+"Milwaukee-Waukesha-West Allis, WI",2020-04-09,39,1802,79,85,7,1576113,1,1,1,1
+"Milwaukee-Waukesha-West Allis, WI",2020-04-10,40,1906,104,98,13,1576113,1,1,1,1
+"Milwaukee-Waukesha-West Allis, WI",2020-04-11,41,1997,91,106,8,1576113,1,1,1,1
+"Milwaukee-Waukesha-West Allis, WI",2020-04-12,42,2062,65,107,1,1576113,1,1,1,1
+"Milwaukee-Waukesha-West Allis, WI",2020-04-13,43,2106,44,113,6,1576113,1,1,1,1
+"Milwaukee-Waukesha-West Allis, WI",2020-04-14,44,2165,59,122,9,1576113,1,1,1,1
+"Milwaukee-Waukesha-West Allis, WI",2020-04-15,45,2263,98,127,5,1576113,1,1,1,1
+"Milwaukee-Waukesha-West Allis, WI",2020-04-16,46,2348,85,137,10,1576113,1,1,1,1
+"Milwaukee-Waukesha-West Allis, WI",2020-04-17,47,2427,79,143,6,1576113,1,1,1,1
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-03-01,0,0,0,0,0,3559529,0,0,0,0
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-03-02,1,0,0,0,0,3559529,0,0,0,0
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-03-03,2,0,0,0,0,3559529,0,0,0,0
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-03-06,5,1,1,0,0,3559529,0,0,0,0
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-03-07,6,1,0,0,0,3559529,0,0,0,0
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-03-08,7,2,1,0,0,3559529,0,0,0,0
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-03-09,8,3,1,0,0,3559529,0,0,0,0
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-03-10,9,4,1,0,0,3559529,0,0,0,0
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-03-11,10,5,1,0,0,3559529,0,0,0,0
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-03-12,11,7,2,0,0,3559529,0,0,0,0
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-03-13,12,12,5,0,0,3559529,0,0,0,0
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-03-14,13,17,5,0,0,3559529,0,0,0,0
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-03-15,14,29,12,0,0,3559529,0,0,0,0
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-03-16,15,45,16,0,0,3559529,0,0,0,0
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-03-17,16,48,3,0,0,3559529,0,0,0,0
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-03-18,17,58,10,0,0,3559529,0,0,0,0
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-03-19,18,67,9,0,0,3559529,0,0,0,0
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-03-20,19,86,19,0,0,3559529,0,0,0,0
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-03-21,20,97,11,1,1,3559529,1,0,0,0
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-03-22,21,116,19,1,0,3559529,1,0,0,0
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-03-23,22,173,57,1,0,3559529,1,1,0,0
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-03-24,23,193,20,1,0,3559529,1,1,0,0
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-03-25,24,206,13,1,0,3559529,1,1,0,1
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-03-26,25,237,31,1,0,3559529,1,1,0,1
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-03-27,26,268,31,2,1,3559529,1,1,0,1
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-03-28,27,301,33,4,2,3559529,1,1,0,1
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-03-29,28,340,39,7,3,3559529,1,1,0,1
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-03-30,29,390,50,8,1,3559529,1,1,0,1
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-03-31,30,420,30,8,0,3559529,1,1,1,1
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-04-01,31,454,34,8,0,3559529,1,1,1,1
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-04-02,32,483,29,8,0,3559529,1,1,1,1
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-04-03,33,509,26,14,6,3559529,1,1,1,1
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-04-04,34,537,28,14,0,3559529,1,1,1,1
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-04-05,35,583,46,18,4,3559529,1,1,1,1
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-04-06,36,615,32,22,4,3559529,1,1,1,1
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-04-07,37,663,48,25,3,3559529,1,1,1,1
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-04-08,38,718,55,28,3,3559529,1,1,1,1
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-04-09,39,773,55,37,9,3559529,1,1,1,1
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-04-10,40,830,57,40,3,3559529,1,1,1,1
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-04-11,41,900,70,45,5,3559529,1,1,1,1
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-04-12,42,1038,138,50,5,3559529,1,1,1,1
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-04-13,43,1039,1,50,0,3559529,1,1,1,1
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-04-14,44,1090,51,58,8,3559529,1,1,1,1
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-04-15,45,1176,86,64,6,3559529,1,1,1,1
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-04-16,46,1252,76,71,7,3559529,1,1,1,1
+"Minneapolis-St. Paul-Bloomington, MN-WI",2020-04-17,47,1370,118,82,11,3559529,1,1,1,1
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-03-01,0,0,0,0,0,1836621,0,0,0,0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-03-02,1,0,0,0,0,1836621,0,0,0,0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-03-03,2,0,0,0,0,1836621,0,0,0,0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-03-05,4,1,1,0,0,1836621,0,0,0,0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-03-06,5,1,0,0,0,1836621,0,0,0,0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-03-07,6,1,0,0,0,1836621,0,0,0,0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-03-08,7,2,1,0,0,1836621,0,0,0,0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-03-09,8,3,1,0,0,1836621,0,0,0,0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-03-10,9,5,2,0,0,1836621,0,0,0,0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-03-11,10,6,1,0,0,1836621,0,0,0,0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-03-12,11,14,8,0,0,1836621,0,0,0,0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-03-13,12,20,6,0,0,1836621,0,0,0,0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-03-14,13,25,5,0,0,1836621,0,0,0,0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-03-15,14,32,7,0,0,1836621,0,0,0,0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-03-16,15,44,12,0,0,1836621,0,0,0,0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-03-17,16,64,20,0,0,1836621,0,0,0,0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-03-18,17,87,23,0,0,1836621,1,0,0,0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-03-19,18,119,32,0,0,1836621,1,0,0,0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-03-20,19,166,47,0,0,1836621,1,0,0,0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-03-21,20,213,47,2,2,1836621,1,0,0,0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-03-22,21,259,46,2,0,1836621,1,0,1,0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-03-23,22,276,17,2,0,1836621,1,0,1,0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-03-24,23,393,117,2,0,1836621,1,0,1,0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-03-25,24,415,22,2,0,1836621,1,0,1,0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-03-26,25,482,67,2,0,1836621,1,1,1,0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-03-27,26,562,80,2,0,1836621,1,1,1,0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-03-28,27,667,105,2,0,1836621,1,1,1,0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-03-29,28,714,47,2,0,1836621,1,1,1,0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-03-30,29,863,149,3,1,1836621,1,1,1,0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-03-31,30,970,107,3,0,1836621,1,1,1,0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-04-01,31,1233,263,15,12,1836621,1,1,1,0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-04-02,32,1518,285,17,2,1836621,1,1,1,0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-04-03,33,1615,97,21,4,1836621,1,1,1,1
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-04-04,34,1725,110,22,1,1836621,1,1,1,1
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-04-05,35,1866,141,22,0,1836621,1,1,1,1
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-04-06,36,2018,152,29,7,1836621,1,1,1,1
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-04-07,37,2148,130,32,3,1836621,1,1,1,1
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-04-08,38,2262,114,39,7,1836621,1,1,1,1
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-04-09,39,2300,38,39,0,1836621,1,1,1,1
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-04-10,40,2453,153,48,9,1836621,1,1,1,1
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-04-11,41,2559,106,49,1,1836621,1,1,1,1
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-04-12,42,2651,92,49,0,1836621,1,1,1,1
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-04-13,43,2751,100,56,7,1836621,1,1,1,1
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-04-14,44,2853,102,60,4,1836621,1,1,1,1
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-04-15,45,2949,96,64,4,1836621,1,1,1,1
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-04-16,46,3045,96,66,2,1836621,1,1,1,1
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2020-04-17,47,3153,108,70,4,1836621,1,1,1,1
+"New Orleans-Metairie-Kenner, LA",2020-03-01,0,0,0,0,0,1249362,0,0,0,0
+"New Orleans-Metairie-Kenner, LA",2020-03-02,1,0,0,0,0,1249362,0,0,0,0
+"New Orleans-Metairie-Kenner, LA",2020-03-03,2,0,0,0,0,1249362,0,0,0,0
+"New Orleans-Metairie-Kenner, LA",2020-03-09,8,1,1,0,0,1249362,0,0,0,0
+"New Orleans-Metairie-Kenner, LA",2020-03-10,9,6,5,0,0,1249362,0,0,0,0
+"New Orleans-Metairie-Kenner, LA",2020-03-11,10,12,6,0,0,1249362,0,0,0,0
+"New Orleans-Metairie-Kenner, LA",2020-03-12,11,13,1,0,0,1249362,0,0,0,0
+"New Orleans-Metairie-Kenner, LA",2020-03-13,12,34,21,0,0,1249362,0,0,0,0
+"New Orleans-Metairie-Kenner, LA",2020-03-14,13,71,37,1,1,1249362,0,0,0,0
+"New Orleans-Metairie-Kenner, LA",2020-03-15,14,97,26,2,1,1249362,0,0,0,0
+"New Orleans-Metairie-Kenner, LA",2020-03-16,15,128,31,3,1,1249362,0,1,0,0
+"New Orleans-Metairie-Kenner, LA",2020-03-17,16,183,55,5,2,1249362,0,1,0,0
+"New Orleans-Metairie-Kenner, LA",2020-03-18,17,259,76,7,2,1249362,0,1,1,0
+"New Orleans-Metairie-Kenner, LA",2020-03-19,18,343,84,9,2,1249362,0,1,1,0
+"New Orleans-Metairie-Kenner, LA",2020-03-20,19,464,121,9,0,1249362,1,1,1,0
+"New Orleans-Metairie-Kenner, LA",2020-03-21,20,638,174,15,6,1249362,1,1,1,0
+"New Orleans-Metairie-Kenner, LA",2020-03-22,21,696,58,18,3,1249362,1,1,1,0
+"New Orleans-Metairie-Kenner, LA",2020-03-23,22,920,224,25,7,1249362,1,1,1,0
+"New Orleans-Metairie-Kenner, LA",2020-03-24,23,1083,163,33,8,1249362,1,1,1,1
+"New Orleans-Metairie-Kenner, LA",2020-03-25,24,1329,246,49,16,1249362,1,1,1,1
+"New Orleans-Metairie-Kenner, LA",2020-03-26,25,1645,316,64,15,1249362,1,1,1,1
+"New Orleans-Metairie-Kenner, LA",2020-03-27,26,1940,295,91,27,1249362,1,1,1,1
+"New Orleans-Metairie-Kenner, LA",2020-03-28,27,2322,382,107,16,1249362,1,1,1,1
+"New Orleans-Metairie-Kenner, LA",2020-03-29,28,2402,80,115,8,1249362,1,1,1,1
+"New Orleans-Metairie-Kenner, LA",2020-03-30,29,2690,288,142,27,1249362,1,1,1,1
+"New Orleans-Metairie-Kenner, LA",2020-03-31,30,3530,840,184,42,1249362,1,1,1,1
+"New Orleans-Metairie-Kenner, LA",2020-04-01,31,4314,784,212,28,1249362,1,1,1,1
+"New Orleans-Metairie-Kenner, LA",2020-04-02,32,6428,2114,237,25,1249362,1,1,1,1
+"New Orleans-Metairie-Kenner, LA",2020-04-03,33,7177,749,282,45,1249362,1,1,1,1
+"New Orleans-Metairie-Kenner, LA",2020-04-04,34,8421,1244,309,27,1249362,1,1,1,1
+"New Orleans-Metairie-Kenner, LA",2020-04-05,35,8653,232,339,30,1249362,1,1,1,1
+"New Orleans-Metairie-Kenner, LA",2020-04-06,36,9750,1097,362,23,1249362,1,1,1,1
+"New Orleans-Metairie-Kenner, LA",2020-04-07,37,10693,943,409,47,1249362,1,1,1,1
+"New Orleans-Metairie-Kenner, LA",2020-04-08,38,11082,389,446,37,1249362,1,1,1,1
+"New Orleans-Metairie-Kenner, LA",2020-04-09,39,11792,710,476,30,1249362,1,1,1,1
+"New Orleans-Metairie-Kenner, LA",2020-04-10,40,12275,483,495,19,1249362,1,1,1,1
+"New Orleans-Metairie-Kenner, LA",2020-04-11,41,12690,415,517,22,1249362,1,1,1,1
+"New Orleans-Metairie-Kenner, LA",2020-04-12,42,12901,211,530,13,1249362,1,1,1,1
+"New Orleans-Metairie-Kenner, LA",2020-04-13,43,13095,194,560,30,1249362,1,1,1,1
+"New Orleans-Metairie-Kenner, LA",2020-04-14,44,13345,250,632,72,1249362,1,1,1,1
+"New Orleans-Metairie-Kenner, LA",2020-04-15,45,13533,188,688,56,1249362,1,1,1,1
+"New Orleans-Metairie-Kenner, LA",2020-04-16,46,13769,236,719,31,1249362,1,1,1,1
+"New Orleans-Metairie-Kenner, LA",2020-04-17,47,13993,224,750,31,1249362,1,1,1,1
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-03-01,0,0,0,0,0,19303808,0,0,0,0
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-03-02,1,0,0,0,0,19303808,0,0,0,0
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-03-03,2,0,0,0,0,19303808,0,0,0,0
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-03-04,3,10,10,0,0,19303808,0,0,0,0
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-03-05,4,20,10,0,0,19303808,0,0,0,0
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-03-06,5,42,22,0,0,19303808,0,0,0,0
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-03-07,6,78,36,0,0,19303808,0,0,0,0
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-03-08,7,94,16,0,0,19303808,0,0,0,0
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-03-09,8,129,35,0,0,19303808,0,0,0,0
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-03-10,9,145,16,1,1,19303808,0,0,0,0
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-03-11,10,180,35,1,0,19303808,0,0,0,0
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-03-12,11,242,62,1,0,19303808,0,0,0,0
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-03-13,12,291,49,1,0,19303808,0,0,0,0
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-03-14,13,379,88,3,2,19303808,0,0,0,0
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-03-15,14,446,67,3,0,19303808,0,0,0,0
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-03-16,15,571,125,6,3,19303808,0,1,0,0
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-03-17,16,866,295,10,4,19303808,0,1,0,0
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-03-18,17,1254,388,12,2,19303808,0,1,1,0
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-03-19,18,2093,839,17,5,19303808,0,1,1,0
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-03-20,19,3154,1061,25,8,19303808,1,1,1,0
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-03-21,20,4672,1518,35,10,19303808,1,1,1,0
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-03-22,21,6881,2209,42,7,19303808,1,1,1,0
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-03-23,22,9705,2824,53,11,19303808,1,1,1,0
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-03-24,23,12215,2510,75,22,19303808,1,1,1,1
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-03-25,24,14618,2403,108,33,19303808,1,1,1,1
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-03-26,25,18963,4345,132,24,19303808,1,1,1,1
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-03-27,26,23236,4273,168,36,19303808,1,1,1,1
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-03-28,27,27704,4468,223,55,19303808,1,1,1,1
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-03-29,28,32057,4353,230,7,19303808,1,1,1,1
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-03-30,29,37130,5073,309,79,19303808,1,1,1,1
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-03-31,30,42370,5240,402,93,19303808,1,1,1,1
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-04-01,31,47941,5571,537,135,19303808,1,1,1,1
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-04-02,32,54235,6294,796,259,19303808,1,1,1,1
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-04-03,33,62457,8222,955,159,19303808,1,1,1,1
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-04-04,34,72049,9592,1635,680,19303808,1,1,1,1
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-04-05,35,78049,6000,1700,65,19303808,1,1,1,1
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-04-06,36,85289,7240,2048,348,19303808,1,1,1,1
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-04-07,37,92451,7162,2482,434,19303808,1,1,1,1
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-04-08,38,99674,7223,2896,414,19303808,1,1,1,1
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-04-09,39,107634,7960,3261,365,19303808,1,1,1,1
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-04-10,40,115416,7782,3702,441,19303808,1,1,1,1
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-04-11,41,121539,6123,4154,452,19303808,1,1,1,1
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-04-12,42,127205,5666,4504,350,19303808,1,1,1,1
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-04-13,43,131987,4782,4784,280,19303808,1,1,1,1
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-04-14,44,138003,6016,5312,528,19303808,1,1,1,1
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-04-15,45,143526,5523,5814,502,19303808,1,1,1,1
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-04-16,46,150582,7056,6305,491,19303808,1,1,1,1
+"New York-Northern New Jersey-Long Island, NY-NJ-PA",2020-04-17,47,156248,5666,6593,288,19303808,1,1,1,1
+"Oklahoma City, OK",2020-03-01,0,0,0,0,0,1396445,0,0,0,0
+"Oklahoma City, OK",2020-03-02,1,0,0,0,0,1396445,0,0,0,0
+"Oklahoma City, OK",2020-03-03,2,0,0,0,0,1396445,0,0,0,0
+"Oklahoma City, OK",2020-03-09,8,0,0,0,0,1396445,0,0,0,0
+"Oklahoma City, OK",2020-03-13,12,1,1,0,0,1396445,0,0,0,0
+"Oklahoma City, OK",2020-03-14,13,1,0,0,0,1396445,0,0,0,0
+"Oklahoma City, OK",2020-03-15,14,2,1,0,0,1396445,0,0,0,0
+"Oklahoma City, OK",2020-03-16,15,4,2,0,0,1396445,0,1,0,0
+"Oklahoma City, OK",2020-03-17,16,9,5,0,0,1396445,0,1,0,0
+"Oklahoma City, OK",2020-03-18,17,20,11,0,0,1396445,0,1,1,0
+"Oklahoma City, OK",2020-03-19,18,32,12,0,0,1396445,0,1,1,0
+"Oklahoma City, OK",2020-03-20,19,35,3,0,0,1396445,1,1,1,0
+"Oklahoma City, OK",2020-03-21,20,37,2,0,0,1396445,1,1,1,0
+"Oklahoma City, OK",2020-03-22,21,44,7,0,0,1396445,1,1,1,0
+"Oklahoma City, OK",2020-03-23,22,50,6,0,0,1396445,1,1,1,0
+"Oklahoma City, OK",2020-03-24,23,70,20,1,1,1396445,1,1,1,1
+"Oklahoma City, OK",2020-03-25,24,92,22,3,2,1396445,1,1,1,1
+"Oklahoma City, OK",2020-03-26,25,126,34,5,2,1396445,1,1,1,1
+"Oklahoma City, OK",2020-03-27,26,154,28,5,0,1396445,1,1,1,1
+"Oklahoma City, OK",2020-03-28,27,174,20,8,3,1396445,1,1,1,1
+"Oklahoma City, OK",2020-03-29,28,193,19,9,1,1396445,1,1,1,1
+"Oklahoma City, OK",2020-03-30,29,222,29,10,1,1396445,1,1,1,1
+"Oklahoma City, OK",2020-03-31,30,253,31,14,4,1396445,1,1,1,1
+"Oklahoma City, OK",2020-04-01,31,324,71,17,3,1396445,1,1,1,1
+"Oklahoma City, OK",2020-04-02,32,390,66,17,0,1396445,1,1,1,1
+"Oklahoma City, OK",2020-04-03,33,424,34,18,1,1396445,1,1,1,1
+"Oklahoma City, OK",2020-04-04,34,487,63,19,1,1396445,1,1,1,1
+"Oklahoma City, OK",2020-04-05,35,501,14,22,3,1396445,1,1,1,1
+"Oklahoma City, OK",2020-04-06,36,529,28,23,1,1396445,1,1,1,1
+"Oklahoma City, OK",2020-04-07,37,587,58,24,1,1396445,1,1,1,1
+"Oklahoma City, OK",2020-04-08,38,609,22,30,6,1396445,1,1,1,1
+"Oklahoma City, OK",2020-04-09,39,707,98,30,0,1396445,1,1,1,1
+"Oklahoma City, OK",2020-04-10,40,748,41,32,2,1396445,1,1,1,1
+"Oklahoma City, OK",2020-04-11,41,775,27,37,5,1396445,1,1,1,1
+"Oklahoma City, OK",2020-04-12,42,802,27,37,0,1396445,1,1,1,1
+"Oklahoma City, OK",2020-04-13,43,826,24,39,2,1396445,1,1,1,1
+"Oklahoma City, OK",2020-04-14,44,860,34,39,0,1396445,1,1,1,1
+"Oklahoma City, OK",2020-04-15,45,890,30,44,5,1396445,1,1,1,1
+"Oklahoma City, OK",2020-04-16,46,918,28,47,3,1396445,1,1,1,1
+"Oklahoma City, OK",2020-04-17,47,955,37,47,0,1396445,1,1,1,1
+"Orlando-Kissimmee-Sanford, FL",2020-03-01,0,0,0,0,0,2572962,0,0,0,0
+"Orlando-Kissimmee-Sanford, FL",2020-03-02,1,0,0,0,0,2572962,0,0,0,0
+"Orlando-Kissimmee-Sanford, FL",2020-03-03,2,0,0,0,0,2572962,0,0,0,0
+"Orlando-Kissimmee-Sanford, FL",2020-03-09,8,0,0,0,0,2572962,0,0,0,0
+"Orlando-Kissimmee-Sanford, FL",2020-03-12,11,1,1,0,0,2572962,0,0,0,0
+"Orlando-Kissimmee-Sanford, FL",2020-03-13,12,3,2,0,0,2572962,0,0,0,0
+"Orlando-Kissimmee-Sanford, FL",2020-03-14,13,3,0,0,0,2572962,0,0,0,0
+"Orlando-Kissimmee-Sanford, FL",2020-03-15,14,4,1,0,0,2572962,0,0,0,0
+"Orlando-Kissimmee-Sanford, FL",2020-03-16,15,13,9,1,1,2572962,0,0,0,0
+"Orlando-Kissimmee-Sanford, FL",2020-03-17,16,18,5,1,0,2572962,0,0,0,0
+"Orlando-Kissimmee-Sanford, FL",2020-03-18,17,28,10,1,0,2572962,1,0,0,0
+"Orlando-Kissimmee-Sanford, FL",2020-03-19,18,48,20,1,0,2572962,1,1,0,0
+"Orlando-Kissimmee-Sanford, FL",2020-03-20,19,52,4,1,0,2572962,1,1,0,0
+"Orlando-Kissimmee-Sanford, FL",2020-03-21,20,69,17,1,0,2572962,1,1,0,0
+"Orlando-Kissimmee-Sanford, FL",2020-03-22,21,81,12,1,0,2572962,1,1,1,0
+"Orlando-Kissimmee-Sanford, FL",2020-03-23,22,103,22,1,0,2572962,1,1,1,0
+"Orlando-Kissimmee-Sanford, FL",2020-03-24,23,115,12,1,0,2572962,1,1,1,0
+"Orlando-Kissimmee-Sanford, FL",2020-03-25,24,180,65,2,1,2572962,1,1,1,0
+"Orlando-Kissimmee-Sanford, FL",2020-03-26,25,229,49,3,1,2572962,1,1,1,0
+"Orlando-Kissimmee-Sanford, FL",2020-03-27,26,316,87,4,1,2572962,1,1,1,0
+"Orlando-Kissimmee-Sanford, FL",2020-03-28,27,393,77,4,0,2572962,1,1,1,0
+"Orlando-Kissimmee-Sanford, FL",2020-03-29,28,481,88,4,0,2572962,1,1,1,0
+"Orlando-Kissimmee-Sanford, FL",2020-03-30,29,531,50,4,0,2572962,1,1,1,0
+"Orlando-Kissimmee-Sanford, FL",2020-03-31,30,652,121,4,0,2572962,1,1,1,0
+"Orlando-Kissimmee-Sanford, FL",2020-04-01,31,797,145,4,0,2572962,1,1,1,1
+"Orlando-Kissimmee-Sanford, FL",2020-04-02,32,937,140,10,6,2572962,1,1,1,1
+"Orlando-Kissimmee-Sanford, FL",2020-04-03,33,1053,116,12,2,2572962,1,1,1,1
+"Orlando-Kissimmee-Sanford, FL",2020-04-04,34,1145,92,14,2,2572962,1,1,1,1
+"Orlando-Kissimmee-Sanford, FL",2020-04-05,35,1233,88,14,0,2572962,1,1,1,1
+"Orlando-Kissimmee-Sanford, FL",2020-04-06,36,1296,63,15,1,2572962,1,1,1,1
+"Orlando-Kissimmee-Sanford, FL",2020-04-07,37,1347,51,16,1,2572962,1,1,1,1
+"Orlando-Kissimmee-Sanford, FL",2020-04-08,38,1457,110,17,1,2572962,1,1,1,1
+"Orlando-Kissimmee-Sanford, FL",2020-04-09,39,1523,66,20,3,2572962,1,1,1,1
+"Orlando-Kissimmee-Sanford, FL",2020-04-10,40,1593,70,21,1,2572962,1,1,1,1
+"Orlando-Kissimmee-Sanford, FL",2020-04-11,41,1631,38,23,2,2572962,1,1,1,1
+"Orlando-Kissimmee-Sanford, FL",2020-04-12,42,1676,45,23,0,2572962,1,1,1,1
+"Orlando-Kissimmee-Sanford, FL",2020-04-13,43,1786,110,23,0,2572962,1,1,1,1
+"Orlando-Kissimmee-Sanford, FL",2020-04-14,44,1830,44,28,5,2572962,1,1,1,1
+"Orlando-Kissimmee-Sanford, FL",2020-04-15,45,1898,68,30,2,2572962,1,1,1,1
+"Orlando-Kissimmee-Sanford, FL",2020-04-16,46,1989,91,33,3,2572962,1,1,1,1
+"Orlando-Kissimmee-Sanford, FL",2020-04-17,47,2059,70,37,4,2572962,1,1,1,1
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-03-01,0,0,0,0,0,6096372,0,0,0,0
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-03-02,1,0,0,0,0,6096372,0,0,0,0
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-03-03,2,0,0,0,0,6096372,0,0,0,0
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-03-06,5,2,2,0,0,6096372,0,0,0,0
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-03-07,6,4,2,0,0,6096372,0,0,0,0
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-03-08,7,6,2,0,0,6096372,0,0,0,0
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-03-09,8,9,3,0,0,6096372,0,0,0,0
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-03-10,9,13,4,0,0,6096372,0,0,0,0
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-03-11,10,17,4,0,0,6096372,0,0,0,0
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-03-12,11,24,7,0,0,6096372,0,0,0,0
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-03-13,12,40,16,0,0,6096372,0,0,0,0
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-03-14,13,45,5,0,0,6096372,0,0,0,0
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-03-15,14,60,15,0,0,6096372,0,0,0,0
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-03-16,15,72,12,0,0,6096372,0,0,0,0
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-03-17,16,89,17,0,0,6096372,0,0,0,0
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-03-18,17,134,45,0,0,6096372,1,0,0,0
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-03-19,18,165,31,0,0,6096372,1,1,0,0
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-03-20,19,218,53,0,0,6096372,1,1,0,0
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-03-21,20,303,85,0,0,6096372,1,1,0,0
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-03-22,21,398,95,1,1,6096372,1,1,1,0
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-03-23,22,536,138,2,1,6096372,1,1,1,0
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-03-24,23,697,161,3,1,6096372,1,1,1,0
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-03-25,24,910,213,5,2,6096372,1,1,1,0
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-03-26,25,1301,391,8,3,6096372,1,1,1,0
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-03-27,26,1661,360,15,7,6096372,1,1,1,0
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-03-28,27,2113,452,22,7,6096372,1,1,1,0
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-03-29,28,2549,436,25,3,6096372,1,1,1,0
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-03-30,29,2949,400,29,4,6096372,1,1,1,0
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-03-31,30,3468,519,50,21,6096372,1,1,1,0
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-04-01,31,3973,505,54,4,6096372,1,1,1,1
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-04-02,32,4728,755,66,12,6096372,1,1,1,1
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-04-03,33,5658,930,77,11,6096372,1,1,1,1
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-04-04,34,6661,1003,105,28,6096372,1,1,1,1
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-04-05,35,7706,1045,119,14,6096372,1,1,1,1
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-04-06,36,8815,1109,124,5,6096372,1,1,1,1
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-04-07,37,9740,925,178,54,6096372,1,1,1,1
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-04-08,38,11015,1275,238,60,6096372,1,1,1,1
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-04-09,39,12475,1460,253,15,6096372,1,1,1,1
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-04-10,40,13713,1238,325,72,6096372,1,1,1,1
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-04-11,41,14914,1201,370,45,6096372,1,1,1,1
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-04-12,42,15813,899,378,8,6096372,1,1,1,1
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-04-13,43,16863,1050,409,31,6096372,1,1,1,1
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-04-14,44,17746,883,539,130,6096372,1,1,1,1
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-04-15,45,18574,828,622,83,6096372,1,1,1,1
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-04-16,46,19795,1221,719,97,6096372,1,1,1,1
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020-04-17,47,21156,1361,790,71,6096372,1,1,1,1
+"Phoenix-Mesa-Glendale, AZ",2020-03-01,0,1,0,0,0,4857962,0,0,0,0
+"Phoenix-Mesa-Glendale, AZ",2020-03-02,1,1,0,0,0,4857962,0,0,0,0
+"Phoenix-Mesa-Glendale, AZ",2020-03-03,2,2,1,0,0,4857962,0,0,0,0
+"Phoenix-Mesa-Glendale, AZ",2020-03-04,3,2,0,0,0,4857962,0,0,0,0
+"Phoenix-Mesa-Glendale, AZ",2020-03-05,4,2,0,0,0,4857962,0,0,0,0
+"Phoenix-Mesa-Glendale, AZ",2020-03-06,5,3,1,0,0,4857962,0,0,0,0
+"Phoenix-Mesa-Glendale, AZ",2020-03-07,6,5,2,0,0,4857962,0,0,0,0
+"Phoenix-Mesa-Glendale, AZ",2020-03-08,7,5,0,0,0,4857962,0,0,0,0
+"Phoenix-Mesa-Glendale, AZ",2020-03-09,8,5,0,0,0,4857962,0,0,0,0
+"Phoenix-Mesa-Glendale, AZ",2020-03-10,9,5,0,0,0,4857962,0,0,0,0
+"Phoenix-Mesa-Glendale, AZ",2020-03-11,10,8,3,0,0,4857962,0,0,0,0
+"Phoenix-Mesa-Glendale, AZ",2020-03-12,11,8,0,0,0,4857962,0,0,0,0
+"Phoenix-Mesa-Glendale, AZ",2020-03-13,12,8,0,0,0,4857962,0,0,0,0
+"Phoenix-Mesa-Glendale, AZ",2020-03-14,13,9,1,0,0,4857962,0,0,0,0
+"Phoenix-Mesa-Glendale, AZ",2020-03-15,14,9,0,0,0,4857962,0,0,0,0
+"Phoenix-Mesa-Glendale, AZ",2020-03-16,15,13,4,0,0,4857962,0,0,0,0
+"Phoenix-Mesa-Glendale, AZ",2020-03-17,16,14,1,0,0,4857962,0,1,0,0
+"Phoenix-Mesa-Glendale, AZ",2020-03-18,17,19,5,0,0,4857962,0,1,0,0
+"Phoenix-Mesa-Glendale, AZ",2020-03-19,18,32,13,0,0,4857962,1,1,0,0
+"Phoenix-Mesa-Glendale, AZ",2020-03-20,19,44,12,1,1,4857962,1,1,1,0
+"Phoenix-Mesa-Glendale, AZ",2020-03-21,20,63,19,1,0,4857962,1,1,1,0
+"Phoenix-Mesa-Glendale, AZ",2020-03-22,21,97,34,2,1,4857962,1,1,1,0
+"Phoenix-Mesa-Glendale, AZ",2020-03-23,22,156,59,2,0,4857962,1,1,1,0
+"Phoenix-Mesa-Glendale, AZ",2020-03-24,23,221,65,2,0,4857962,1,1,1,0
+"Phoenix-Mesa-Glendale, AZ",2020-03-25,24,274,53,2,0,4857962,1,1,1,1
+"Phoenix-Mesa-Glendale, AZ",2020-03-26,25,334,60,4,2,4857962,1,1,1,1
+"Phoenix-Mesa-Glendale, AZ",2020-03-27,26,435,101,5,1,4857962,1,1,1,1
+"Phoenix-Mesa-Glendale, AZ",2020-03-28,27,495,60,5,0,4857962,1,1,1,1
+"Phoenix-Mesa-Glendale, AZ",2020-03-29,28,597,102,5,0,4857962,1,1,1,1
+"Phoenix-Mesa-Glendale, AZ",2020-03-30,29,754,157,5,0,4857962,1,1,1,1
+"Phoenix-Mesa-Glendale, AZ",2020-03-31,30,853,99,8,3,4857962,1,1,1,1
+"Phoenix-Mesa-Glendale, AZ",2020-04-01,31,936,83,8,0,4857962,1,1,1,1
+"Phoenix-Mesa-Glendale, AZ",2020-04-02,32,1030,94,12,4,4857962,1,1,1,1
+"Phoenix-Mesa-Glendale, AZ",2020-04-03,33,1126,96,17,5,4857962,1,1,1,1
+"Phoenix-Mesa-Glendale, AZ",2020-04-04,34,1260,134,28,11,4857962,1,1,1,1
+"Phoenix-Mesa-Glendale, AZ",2020-04-05,35,1429,169,31,3,4857962,1,1,1,1
+"Phoenix-Mesa-Glendale, AZ",2020-04-06,36,1540,111,31,0,4857962,1,1,1,1
+"Phoenix-Mesa-Glendale, AZ",2020-04-07,37,1615,75,35,4,4857962,1,1,1,1
+"Phoenix-Mesa-Glendale, AZ",2020-04-08,38,1683,68,37,2,4857962,1,1,1,1
+"Phoenix-Mesa-Glendale, AZ",2020-04-09,39,1826,143,42,5,4857962,1,1,1,1
+"Phoenix-Mesa-Glendale, AZ",2020-04-10,40,1879,53,44,2,4857962,1,1,1,1
+"Phoenix-Mesa-Glendale, AZ",2020-04-11,41,2037,158,50,6,4857962,1,1,1,1
+"Phoenix-Mesa-Glendale, AZ",2020-04-12,42,2123,86,52,2,4857962,1,1,1,1
+"Phoenix-Mesa-Glendale, AZ",2020-04-13,43,2188,65,56,4,4857962,1,1,1,1
+"Phoenix-Mesa-Glendale, AZ",2020-04-14,44,2231,43,59,3,4857962,1,1,1,1
+"Phoenix-Mesa-Glendale, AZ",2020-04-15,45,2328,97,65,6,4857962,1,1,1,1
+"Phoenix-Mesa-Glendale, AZ",2020-04-16,46,2461,133,69,4,4857962,1,1,1,1
+"Phoenix-Mesa-Glendale, AZ",2020-04-17,47,2616,155,74,5,4857962,1,1,1,1
+"Pittsburgh, PA",2020-03-01,0,0,0,0,0,2324743,0,0,0,0
+"Pittsburgh, PA",2020-03-02,1,0,0,0,0,2324743,0,0,0,0
+"Pittsburgh, PA",2020-03-03,2,0,0,0,0,2324743,0,0,0,0
+"Pittsburgh, PA",2020-03-09,8,0,0,0,0,2324743,0,0,0,0
+"Pittsburgh, PA",2020-03-13,12,1,1,0,0,2324743,0,0,0,0
+"Pittsburgh, PA",2020-03-14,13,2,1,0,0,2324743,0,0,0,0
+"Pittsburgh, PA",2020-03-15,14,4,2,0,0,2324743,0,0,0,0
+"Pittsburgh, PA",2020-03-16,15,6,2,0,0,2324743,0,0,0,0
+"Pittsburgh, PA",2020-03-17,16,13,7,0,0,2324743,0,1,0,0
+"Pittsburgh, PA",2020-03-18,17,16,3,0,0,2324743,0,1,0,0
+"Pittsburgh, PA",2020-03-19,18,25,9,0,0,2324743,1,1,0,0
+"Pittsburgh, PA",2020-03-20,19,38,13,0,0,2324743,1,1,1,0
+"Pittsburgh, PA",2020-03-21,20,44,6,1,1,2324743,1,1,1,0
+"Pittsburgh, PA",2020-03-22,21,57,13,1,0,2324743,1,1,1,0
+"Pittsburgh, PA",2020-03-23,22,70,13,1,0,2324743,1,1,1,0
+"Pittsburgh, PA",2020-03-24,23,90,20,2,1,2324743,1,1,1,0
+"Pittsburgh, PA",2020-03-25,24,138,48,2,0,2324743,1,1,1,1
+"Pittsburgh, PA",2020-03-26,25,210,72,3,1,2324743,1,1,1,1
+"Pittsburgh, PA",2020-03-27,26,252,42,3,0,2324743,1,1,1,1
+"Pittsburgh, PA",2020-03-28,27,358,106,4,1,2324743,1,1,1,1
+"Pittsburgh, PA",2020-03-29,28,424,66,4,0,2324743,1,1,1,1
+"Pittsburgh, PA",2020-03-30,29,478,54,4,0,2324743,1,1,1,1
+"Pittsburgh, PA",2020-03-31,30,550,72,5,1,2324743,1,1,1,1
+"Pittsburgh, PA",2020-04-01,31,600,50,7,2,2324743,1,1,1,1
+"Pittsburgh, PA",2020-04-02,32,687,87,7,0,2324743,1,1,1,1
+"Pittsburgh, PA",2020-04-03,33,797,110,7,0,2324743,1,1,1,1
+"Pittsburgh, PA",2020-04-04,34,921,124,12,5,2324743,1,1,1,1
+"Pittsburgh, PA",2020-04-05,35,1012,91,13,1,2324743,1,1,1,1
+"Pittsburgh, PA",2020-04-06,36,1081,69,13,0,2324743,1,1,1,1
+"Pittsburgh, PA",2020-04-07,37,1196,115,18,5,2324743,1,1,1,1
+"Pittsburgh, PA",2020-04-08,38,1257,61,27,9,2324743,1,1,1,1
+"Pittsburgh, PA",2020-04-09,39,1319,62,29,2,2324743,1,1,1,1
+"Pittsburgh, PA",2020-04-10,40,1389,70,40,11,2324743,1,1,1,1
+"Pittsburgh, PA",2020-04-11,41,1467,78,51,11,2324743,1,1,1,1
+"Pittsburgh, PA",2020-04-12,42,1507,40,52,1,2324743,1,1,1,1
+"Pittsburgh, PA",2020-04-13,43,1554,47,55,3,2324743,1,1,1,1
+"Pittsburgh, PA",2020-04-14,44,1579,25,64,9,2324743,1,1,1,1
+"Pittsburgh, PA",2020-04-15,45,1607,28,68,4,2324743,1,1,1,1
+"Pittsburgh, PA",2020-04-16,46,1652,45,81,13,2324743,1,1,1,1
+"Pittsburgh, PA",2020-04-17,47,1704,52,88,7,2324743,1,1,1,1
+"Portland-Vancouver-Hillsboro, OR-WA",2020-03-01,0,2,1,0,0,2478810,0,0,0,0
+"Portland-Vancouver-Hillsboro, OR-WA",2020-03-02,1,2,0,0,0,2478810,0,0,0,0
+"Portland-Vancouver-Hillsboro, OR-WA",2020-03-03,2,2,0,0,0,2478810,0,0,0,0
+"Portland-Vancouver-Hillsboro, OR-WA",2020-03-04,3,2,0,0,0,2478810,0,0,0,0
+"Portland-Vancouver-Hillsboro, OR-WA",2020-03-05,4,2,0,0,0,2478810,0,0,0,0
+"Portland-Vancouver-Hillsboro, OR-WA",2020-03-06,5,3,1,0,0,2478810,0,0,0,0
+"Portland-Vancouver-Hillsboro, OR-WA",2020-03-07,6,4,1,0,0,2478810,0,0,0,0
+"Portland-Vancouver-Hillsboro, OR-WA",2020-03-08,7,9,5,0,0,2478810,0,0,0,0
+"Portland-Vancouver-Hillsboro, OR-WA",2020-03-09,8,9,0,0,0,2478810,0,0,0,0
+"Portland-Vancouver-Hillsboro, OR-WA",2020-03-10,9,10,1,0,0,2478810,0,0,0,0
+"Portland-Vancouver-Hillsboro, OR-WA",2020-03-11,10,10,0,0,0,2478810,0,0,0,0
+"Portland-Vancouver-Hillsboro, OR-WA",2020-03-12,11,13,3,0,0,2478810,0,0,0,0
+"Portland-Vancouver-Hillsboro, OR-WA",2020-03-13,12,15,2,0,0,2478810,0,0,0,0
+"Portland-Vancouver-Hillsboro, OR-WA",2020-03-14,13,18,3,1,1,2478810,0,0,0,0
+"Portland-Vancouver-Hillsboro, OR-WA",2020-03-15,14,19,1,1,0,2478810,0,0,0,0
+"Portland-Vancouver-Hillsboro, OR-WA",2020-03-16,15,23,4,1,0,2478810,0,0,0,0
+"Portland-Vancouver-Hillsboro, OR-WA",2020-03-17,16,35,12,3,2,2478810,0,1,0,0
+"Portland-Vancouver-Hillsboro, OR-WA",2020-03-18,17,38,3,5,2,2478810,0,1,0,0
+"Portland-Vancouver-Hillsboro, OR-WA",2020-03-19,18,44,6,5,0,2478810,1,1,0,0
+"Portland-Vancouver-Hillsboro, OR-WA",2020-03-20,19,63,19,5,0,2478810,1,1,1,0
+"Portland-Vancouver-Hillsboro, OR-WA",2020-03-21,20,84,21,5,0,2478810,1,1,1,0
+"Portland-Vancouver-Hillsboro, OR-WA",2020-03-22,21,102,18,5,0,2478810,1,1,1,0
+"Portland-Vancouver-Hillsboro, OR-WA",2020-03-23,22,123,21,6,1,2478810,1,1,1,0
+"Portland-Vancouver-Hillsboro, OR-WA",2020-03-24,23,140,17,9,3,2478810,1,1,1,0
+"Portland-Vancouver-Hillsboro, OR-WA",2020-03-25,24,173,33,10,1,2478810,1,1,1,1
+"Portland-Vancouver-Hillsboro, OR-WA",2020-03-26,25,225,52,12,2,2478810,1,1,1,1
+"Portland-Vancouver-Hillsboro, OR-WA",2020-03-27,26,309,84,13,1,2478810,1,1,1,1
+"Portland-Vancouver-Hillsboro, OR-WA",2020-03-28,27,354,45,14,1,2478810,1,1,1,1
+"Portland-Vancouver-Hillsboro, OR-WA",2020-03-29,28,389,35,14,0,2478810,1,1,1,1
+"Portland-Vancouver-Hillsboro, OR-WA",2020-03-30,29,434,45,16,2,2478810,1,1,1,1
+"Portland-Vancouver-Hillsboro, OR-WA",2020-03-31,30,486,52,17,1,2478810,1,1,1,1
+"Portland-Vancouver-Hillsboro, OR-WA",2020-04-01,31,528,42,18,1,2478810,1,1,1,1
+"Portland-Vancouver-Hillsboro, OR-WA",2020-04-02,32,583,55,21,3,2478810,1,1,1,1
+"Portland-Vancouver-Hillsboro, OR-WA",2020-04-03,33,631,48,21,0,2478810,1,1,1,1
+"Portland-Vancouver-Hillsboro, OR-WA",2020-04-04,34,698,67,24,3,2478810,1,1,1,1
+"Portland-Vancouver-Hillsboro, OR-WA",2020-04-05,35,754,56,25,1,2478810,1,1,1,1
+"Portland-Vancouver-Hillsboro, OR-WA",2020-04-06,36,807,53,29,4,2478810,1,1,1,1
+"Portland-Vancouver-Hillsboro, OR-WA",2020-04-07,37,857,50,32,3,2478810,1,1,1,1
+"Portland-Vancouver-Hillsboro, OR-WA",2020-04-08,38,910,53,37,5,2478810,1,1,1,1
+"Portland-Vancouver-Hillsboro, OR-WA",2020-04-09,39,957,47,40,3,2478810,1,1,1,1
+"Portland-Vancouver-Hillsboro, OR-WA",2020-04-10,40,1013,56,45,5,2478810,1,1,1,1
+"Portland-Vancouver-Hillsboro, OR-WA",2020-04-11,41,1057,44,47,2,2478810,1,1,1,1
+"Portland-Vancouver-Hillsboro, OR-WA",2020-04-12,42,1110,53,48,1,2478810,1,1,1,1
+"Portland-Vancouver-Hillsboro, OR-WA",2020-04-13,43,1174,64,50,2,2478810,1,1,1,1
+"Portland-Vancouver-Hillsboro, OR-WA",2020-04-14,44,1216,42,51,1,2478810,1,1,1,1
+"Portland-Vancouver-Hillsboro, OR-WA",2020-04-15,45,1243,27,53,2,2478810,1,1,1,1
+"Portland-Vancouver-Hillsboro, OR-WA",2020-04-16,46,1289,46,57,4,2478810,1,1,1,1
+"Portland-Vancouver-Hillsboro, OR-WA",2020-04-17,47,1332,43,61,4,2478810,1,1,1,1
+"Providence-New Bedford-Fall River, RI-MA",2020-03-01,0,0,0,0,0,1621337,0,0,0,0
+"Providence-New Bedford-Fall River, RI-MA",2020-03-02,1,0,0,0,0,1621337,0,0,0,0
+"Providence-New Bedford-Fall River, RI-MA",2020-03-03,2,0,0,0,0,1621337,0,0,0,0
+"Providence-New Bedford-Fall River, RI-MA",2020-03-09,8,0,0,0,0,1621337,0,0,0,0
+"Providence-New Bedford-Fall River, RI-MA",2020-03-14,13,1,1,0,0,1621337,0,0,0,0
+"Providence-New Bedford-Fall River, RI-MA",2020-03-15,14,1,0,0,0,1621337,0,0,0,0
+"Providence-New Bedford-Fall River, RI-MA",2020-03-16,15,2,1,0,0,1621337,0,0,0,0
+"Providence-New Bedford-Fall River, RI-MA",2020-03-17,16,5,3,0,0,1621337,0,0,0,0
+"Providence-New Bedford-Fall River, RI-MA",2020-03-18,17,5,0,0,0,1621337,0,0,0,0
+"Providence-New Bedford-Fall River, RI-MA",2020-03-19,18,6,1,0,0,1621337,1,0,1,0
+"Providence-New Bedford-Fall River, RI-MA",2020-03-20,19,6,0,0,0,1621337,1,0,1,0
+"Providence-New Bedford-Fall River, RI-MA",2020-03-21,20,14,8,0,0,1621337,1,0,1,0
+"Providence-New Bedford-Fall River, RI-MA",2020-03-22,21,24,10,0,0,1621337,1,0,1,0
+"Providence-New Bedford-Fall River, RI-MA",2020-03-23,22,25,1,0,0,1621337,1,0,1,0
+"Providence-New Bedford-Fall River, RI-MA",2020-03-24,23,31,6,0,0,1621337,1,0,1,0
+"Providence-New Bedford-Fall River, RI-MA",2020-03-25,24,133,102,0,0,1621337,1,0,1,0
+"Providence-New Bedford-Fall River, RI-MA",2020-03-26,25,161,28,0,0,1621337,1,0,1,0
+"Providence-New Bedford-Fall River, RI-MA",2020-03-27,26,200,39,1,1,1621337,1,0,1,0
+"Providence-New Bedford-Fall River, RI-MA",2020-03-28,27,250,50,1,0,1621337,1,0,1,0
+"Providence-New Bedford-Fall River, RI-MA",2020-03-29,28,433,183,1,0,1621337,1,0,1,0
+"Providence-New Bedford-Fall River, RI-MA",2020-03-30,29,572,139,2,1,1621337,1,0,1,0
+"Providence-New Bedford-Fall River, RI-MA",2020-03-31,30,722,150,2,0,1621337,1,1,1,0
+"Providence-New Bedford-Fall River, RI-MA",2020-04-01,31,895,173,6,4,1621337,1,1,1,0
+"Providence-New Bedford-Fall River, RI-MA",2020-04-02,32,989,94,6,0,1621337,1,1,1,0
+"Providence-New Bedford-Fall River, RI-MA",2020-04-03,33,1082,93,11,5,1621337,1,1,1,0
+"Providence-New Bedford-Fall River, RI-MA",2020-04-04,34,1285,203,12,1,1621337,1,1,1,0
+"Providence-New Bedford-Fall River, RI-MA",2020-04-05,35,1409,124,15,3,1621337,1,1,1,0
+"Providence-New Bedford-Fall River, RI-MA",2020-04-06,36,1472,63,15,0,1621337,1,1,1,0
+"Providence-New Bedford-Fall River, RI-MA",2020-04-07,37,1774,302,33,18,1621337,1,1,1,0
+"Providence-New Bedford-Fall River, RI-MA",2020-04-08,38,1988,214,43,10,1621337,1,1,1,0
+"Providence-New Bedford-Fall River, RI-MA",2020-04-09,39,2297,309,48,5,1621337,1,1,1,0
+"Providence-New Bedford-Fall River, RI-MA",2020-04-10,40,2389,92,53,5,1621337,1,1,1,0
+"Providence-New Bedford-Fall River, RI-MA",2020-04-11,41,2867,478,59,6,1621337,1,1,1,0
+"Providence-New Bedford-Fall River, RI-MA",2020-04-12,42,3003,136,63,4,1621337,1,1,1,0
+"Providence-New Bedford-Fall River, RI-MA",2020-04-13,43,3070,67,66,3,1621337,1,1,1,0
+"Providence-New Bedford-Fall River, RI-MA",2020-04-14,44,3930,860,73,7,1621337,1,1,1,0
+"Providence-New Bedford-Fall River, RI-MA",2020-04-15,45,4003,73,76,3,1621337,1,1,1,0
+"Providence-New Bedford-Fall River, RI-MA",2020-04-16,46,4603,600,83,7,1621337,1,1,1,0
+"Providence-New Bedford-Fall River, RI-MA",2020-04-17,47,5004,401,95,12,1621337,1,1,1,0
+"Raleigh-Cary, NC",2020-03-01,0,0,0,0,0,1362540,0,0,0,0
+"Raleigh-Cary, NC",2020-03-02,1,0,0,0,0,1362540,0,0,0,0
+"Raleigh-Cary, NC",2020-03-03,2,1,1,0,0,1362540,0,0,0,0
+"Raleigh-Cary, NC",2020-03-04,3,1,0,0,0,1362540,0,0,0,0
+"Raleigh-Cary, NC",2020-03-05,4,1,0,0,0,1362540,0,0,0,0
+"Raleigh-Cary, NC",2020-03-06,5,1,0,0,0,1362540,0,0,0,0
+"Raleigh-Cary, NC",2020-03-07,6,1,0,0,0,1362540,0,0,0,0
+"Raleigh-Cary, NC",2020-03-08,7,1,0,0,0,1362540,0,0,0,0
+"Raleigh-Cary, NC",2020-03-09,8,6,5,0,0,1362540,0,0,0,0
+"Raleigh-Cary, NC",2020-03-10,9,6,0,0,0,1362540,0,0,0,0
+"Raleigh-Cary, NC",2020-03-11,10,7,1,0,0,1362540,0,0,0,0
+"Raleigh-Cary, NC",2020-03-12,11,9,2,0,0,1362540,0,0,0,0
+"Raleigh-Cary, NC",2020-03-13,12,10,1,0,0,1362540,0,0,0,0
+"Raleigh-Cary, NC",2020-03-14,13,13,3,0,0,1362540,0,0,0,0
+"Raleigh-Cary, NC",2020-03-15,14,16,3,0,0,1362540,0,0,0,0
+"Raleigh-Cary, NC",2020-03-16,15,17,1,0,0,1362540,0,0,0,0
+"Raleigh-Cary, NC",2020-03-17,16,19,2,0,0,1362540,0,0,0,0
+"Raleigh-Cary, NC",2020-03-18,17,19,0,0,0,1362540,1,1,0,0
+"Raleigh-Cary, NC",2020-03-19,18,27,8,0,0,1362540,1,1,1,0
+"Raleigh-Cary, NC",2020-03-20,19,31,4,0,0,1362540,1,1,1,0
+"Raleigh-Cary, NC",2020-03-21,20,55,24,0,0,1362540,1,1,1,0
+"Raleigh-Cary, NC",2020-03-22,21,56,1,0,0,1362540,1,1,1,0
+"Raleigh-Cary, NC",2020-03-23,22,59,3,0,0,1362540,1,1,1,0
+"Raleigh-Cary, NC",2020-03-24,23,63,4,0,0,1362540,1,1,1,0
+"Raleigh-Cary, NC",2020-03-25,24,86,23,0,0,1362540,1,1,1,1
+"Raleigh-Cary, NC",2020-03-26,25,97,11,0,0,1362540,1,1,1,1
+"Raleigh-Cary, NC",2020-03-27,26,135,38,1,1,1362540,1,1,1,1
+"Raleigh-Cary, NC",2020-03-28,27,138,3,1,0,1362540,1,1,1,1
+"Raleigh-Cary, NC",2020-03-29,28,161,23,1,0,1362540,1,1,1,1
+"Raleigh-Cary, NC",2020-03-30,29,183,22,1,0,1362540,1,1,1,1
+"Raleigh-Cary, NC",2020-03-31,30,218,35,1,0,1362540,1,1,1,1
+"Raleigh-Cary, NC",2020-04-01,31,223,5,1,0,1362540,1,1,1,1
+"Raleigh-Cary, NC",2020-04-02,32,266,43,1,0,1362540,1,1,1,1
+"Raleigh-Cary, NC",2020-04-03,33,295,29,1,0,1362540,1,1,1,1
+"Raleigh-Cary, NC",2020-04-04,34,323,28,2,1,1362540,1,1,1,1
+"Raleigh-Cary, NC",2020-04-05,35,350,27,3,1,1362540,1,1,1,1
+"Raleigh-Cary, NC",2020-04-06,36,366,16,3,0,1362540,1,1,1,1
+"Raleigh-Cary, NC",2020-04-07,37,400,34,4,1,1362540,1,1,1,1
+"Raleigh-Cary, NC",2020-04-08,38,437,37,4,0,1362540,1,1,1,1
+"Raleigh-Cary, NC",2020-04-09,39,451,14,4,0,1362540,1,1,1,1
+"Raleigh-Cary, NC",2020-04-10,40,497,46,4,0,1362540,1,1,1,1
+"Raleigh-Cary, NC",2020-04-11,41,543,46,4,0,1362540,1,1,1,1
+"Raleigh-Cary, NC",2020-04-12,42,631,88,4,0,1362540,1,1,1,1
+"Raleigh-Cary, NC",2020-04-13,43,640,9,4,0,1362540,1,1,1,1
+"Raleigh-Cary, NC",2020-04-14,44,671,31,10,6,1362540,1,1,1,1
+"Raleigh-Cary, NC",2020-04-15,45,682,11,13,3,1362540,1,1,1,1
+"Raleigh-Cary, NC",2020-04-16,46,727,45,15,2,1362540,1,1,1,1
+"Raleigh-Cary, NC",2020-04-17,47,751,24,17,2,1362540,1,1,1,1
+"Richmond, VA",2020-03-01,0,0,0,0,0,1359801,0,0,0,0
+"Richmond, VA",2020-03-02,1,0,0,0,0,1359801,0,0,0,0
+"Richmond, VA",2020-03-03,2,0,0,0,0,1359801,0,0,0,0
+"Richmond, VA",2020-03-09,8,0,0,0,0,1359801,0,0,0,0
+"Richmond, VA",2020-03-12,11,1,1,0,0,1359801,0,0,0,0
+"Richmond, VA",2020-03-13,12,1,0,0,0,1359801,0,0,0,0
+"Richmond, VA",2020-03-14,13,2,1,0,0,1359801,0,0,0,0
+"Richmond, VA",2020-03-15,14,2,0,0,0,1359801,0,0,0,0
+"Richmond, VA",2020-03-16,15,3,1,0,0,1359801,0,0,0,0
+"Richmond, VA",2020-03-17,16,8,5,0,0,1359801,0,0,0,0
+"Richmond, VA",2020-03-18,17,14,6,0,0,1359801,1,0,0,0
+"Richmond, VA",2020-03-19,18,15,1,0,0,1359801,1,0,1,0
+"Richmond, VA",2020-03-20,19,17,2,0,0,1359801,1,0,1,0
+"Richmond, VA",2020-03-21,20,23,6,0,0,1359801,1,0,1,0
+"Richmond, VA",2020-03-22,21,27,4,0,0,1359801,1,0,1,0
+"Richmond, VA",2020-03-23,22,35,8,0,0,1359801,1,0,1,0
+"Richmond, VA",2020-03-24,23,43,8,0,0,1359801,1,0,1,0
+"Richmond, VA",2020-03-25,24,53,10,2,2,1359801,1,1,1,1
+"Richmond, VA",2020-03-26,25,68,15,3,1,1359801,1,1,1,1
+"Richmond, VA",2020-03-27,26,71,3,3,0,1359801,1,1,1,1
+"Richmond, VA",2020-03-28,27,84,13,3,0,1359801,1,1,1,1
+"Richmond, VA",2020-03-29,28,104,20,3,0,1359801,1,1,1,1
+"Richmond, VA",2020-03-30,29,126,22,3,0,1359801,1,1,1,1
+"Richmond, VA",2020-03-31,30,176,50,3,0,1359801,1,1,1,1
+"Richmond, VA",2020-04-01,31,220,44,5,2,1359801,1,1,1,1
+"Richmond, VA",2020-04-02,32,276,56,5,0,1359801,1,1,1,1
+"Richmond, VA",2020-04-03,33,359,83,18,13,1359801,1,1,1,1
+"Richmond, VA",2020-04-04,34,476,117,18,0,1359801,1,1,1,1
+"Richmond, VA",2020-04-05,35,513,37,18,0,1359801,1,1,1,1
+"Richmond, VA",2020-04-06,36,538,25,18,0,1359801,1,1,1,1
+"Richmond, VA",2020-04-07,37,650,112,18,0,1359801,1,1,1,1
+"Richmond, VA",2020-04-08,38,712,62,35,17,1359801,1,1,1,1
+"Richmond, VA",2020-04-09,39,773,61,37,2,1359801,1,1,1,1
+"Richmond, VA",2020-04-10,40,856,83,37,0,1359801,1,1,1,1
+"Richmond, VA",2020-04-11,41,937,81,37,0,1359801,1,1,1,1
+"Richmond, VA",2020-04-12,42,967,30,37,0,1359801,1,1,1,1
+"Richmond, VA",2020-04-13,43,1017,50,54,17,1359801,1,1,1,1
+"Richmond, VA",2020-04-14,44,1114,97,58,4,1359801,1,1,1,1
+"Richmond, VA",2020-04-15,45,1161,47,58,0,1359801,1,1,1,1
+"Richmond, VA",2020-04-16,46,1242,81,58,0,1359801,1,1,1,1
+"Richmond, VA",2020-04-17,47,1349,107,58,0,1359801,1,1,1,1
+"Riverside-San Bernardino-Ontario, CA",2020-03-01,0,0,0,0,0,4622361,0,0,0,0
+"Riverside-San Bernardino-Ontario, CA",2020-03-02,1,0,0,0,0,4622361,0,0,0,0
+"Riverside-San Bernardino-Ontario, CA",2020-03-03,2,0,0,0,0,4622361,0,0,0,0
+"Riverside-San Bernardino-Ontario, CA",2020-03-07,6,1,1,0,0,4622361,0,0,0,0
+"Riverside-San Bernardino-Ontario, CA",2020-03-08,7,1,0,0,0,4622361,0,0,0,0
+"Riverside-San Bernardino-Ontario, CA",2020-03-09,8,4,3,0,0,4622361,0,0,0,0
+"Riverside-San Bernardino-Ontario, CA",2020-03-10,9,4,0,0,0,4622361,0,0,0,0
+"Riverside-San Bernardino-Ontario, CA",2020-03-11,10,4,0,0,0,4622361,0,0,0,0
+"Riverside-San Bernardino-Ontario, CA",2020-03-12,11,6,2,0,0,4622361,0,0,0,0
+"Riverside-San Bernardino-Ontario, CA",2020-03-13,12,10,4,0,0,4622361,0,0,0,0
+"Riverside-San Bernardino-Ontario, CA",2020-03-14,13,10,0,0,0,4622361,0,0,0,0
+"Riverside-San Bernardino-Ontario, CA",2020-03-15,14,13,3,0,0,4622361,0,0,0,0
+"Riverside-San Bernardino-Ontario, CA",2020-03-16,15,16,3,2,2,4622361,0,0,0,0
+"Riverside-San Bernardino-Ontario, CA",2020-03-17,16,19,3,3,1,4622361,0,0,0,0
+"Riverside-San Bernardino-Ontario, CA",2020-03-18,17,21,2,3,0,4622361,1,0,0,0
+"Riverside-San Bernardino-Ontario, CA",2020-03-19,18,27,6,3,0,4622361,1,0,1,0
+"Riverside-San Bernardino-Ontario, CA",2020-03-20,19,37,10,4,1,4622361,1,0,1,0
+"Riverside-San Bernardino-Ontario, CA",2020-03-21,20,39,2,5,1,4622361,1,0,1,0
+"Riverside-San Bernardino-Ontario, CA",2020-03-22,21,62,23,6,1,4622361,1,0,1,0
+"Riverside-San Bernardino-Ontario, CA",2020-03-23,22,65,3,6,0,4622361,1,0,1,0
+"Riverside-San Bernardino-Ontario, CA",2020-03-24,23,97,32,7,1,4622361,1,0,1,0
+"Riverside-San Bernardino-Ontario, CA",2020-03-25,24,161,64,10,3,4622361,1,1,1,1
+"Riverside-San Bernardino-Ontario, CA",2020-03-26,25,162,1,11,1,4622361,1,1,1,1
+"Riverside-San Bernardino-Ontario, CA",2020-03-27,26,249,87,11,0,4622361,1,1,1,1
+"Riverside-San Bernardino-Ontario, CA",2020-03-28,27,249,0,11,0,4622361,1,1,1,1
+"Riverside-San Bernardino-Ontario, CA",2020-03-29,28,306,57,11,0,4622361,1,1,1,1
+"Riverside-San Bernardino-Ontario, CA",2020-03-30,29,402,96,12,1,4622361,1,1,1,1
+"Riverside-San Bernardino-Ontario, CA",2020-03-31,30,554,152,19,7,4622361,1,1,1,1
+"Riverside-San Bernardino-Ontario, CA",2020-04-01,31,625,71,19,0,4622361,1,1,1,1
+"Riverside-San Bernardino-Ontario, CA",2020-04-02,32,797,172,22,3,4622361,1,1,1,1
+"Riverside-San Bernardino-Ontario, CA",2020-04-03,33,991,194,28,6,4622361,1,1,1,1
+"Riverside-San Bernardino-Ontario, CA",2020-04-04,34,1018,27,31,3,4622361,1,1,1,1
+"Riverside-San Bernardino-Ontario, CA",2020-04-05,35,1171,153,32,1,4622361,1,1,1,1
+"Riverside-San Bernardino-Ontario, CA",2020-04-06,36,1476,305,41,9,4622361,1,1,1,1
+"Riverside-San Bernardino-Ontario, CA",2020-04-07,37,1563,87,45,4,4622361,1,1,1,1
+"Riverside-San Bernardino-Ontario, CA",2020-04-08,38,1820,257,52,7,4622361,1,1,1,1
+"Riverside-San Bernardino-Ontario, CA",2020-04-09,39,2009,189,57,5,4622361,1,1,1,1
+"Riverside-San Bernardino-Ontario, CA",2020-04-10,40,2160,151,64,7,4622361,1,1,1,1
+"Riverside-San Bernardino-Ontario, CA",2020-04-11,41,2241,81,66,2,4622361,1,1,1,1
+"Riverside-San Bernardino-Ontario, CA",2020-04-12,42,2506,265,72,6,4622361,1,1,1,1
+"Riverside-San Bernardino-Ontario, CA",2020-04-13,43,2728,222,81,9,4622361,1,1,1,1
+"Riverside-San Bernardino-Ontario, CA",2020-04-14,44,2938,210,81,0,4622361,1,1,1,1
+"Riverside-San Bernardino-Ontario, CA",2020-04-15,45,3101,163,93,12,4622361,1,1,1,1
+"Riverside-San Bernardino-Ontario, CA",2020-04-16,46,3296,195,106,13,4622361,1,1,1,1
+"Riverside-San Bernardino-Ontario, CA",2020-04-17,47,3553,257,124,18,4622361,1,1,1,1
+"Rochester, NY",2020-03-01,0,0,0,0,0,1046241,0,0,0,0
+"Rochester, NY",2020-03-02,1,0,0,0,0,1046241,0,0,0,0
+"Rochester, NY",2020-03-03,2,0,0,0,0,1046241,0,0,0,0
+"Rochester, NY",2020-03-09,8,0,0,0,0,1046241,0,0,0,0
+"Rochester, NY",2020-03-11,10,1,1,0,0,1046241,0,0,0,0
+"Rochester, NY",2020-03-12,11,1,0,0,0,1046241,0,0,0,0
+"Rochester, NY",2020-03-13,12,1,0,0,0,1046241,0,0,0,0
+"Rochester, NY",2020-03-14,13,2,1,0,0,1046241,0,0,0,0
+"Rochester, NY",2020-03-15,14,2,0,0,0,1046241,0,0,0,0
+"Rochester, NY",2020-03-16,15,11,9,0,0,1046241,0,0,0,0
+"Rochester, NY",2020-03-17,16,12,1,0,0,1046241,0,0,0,0
+"Rochester, NY",2020-03-18,17,15,3,0,0,1046241,1,1,0,0
+"Rochester, NY",2020-03-19,18,30,15,0,0,1046241,1,1,0,0
+"Rochester, NY",2020-03-20,19,36,6,0,0,1046241,1,1,0,0
+"Rochester, NY",2020-03-21,20,49,13,0,0,1046241,1,1,0,0
+"Rochester, NY",2020-03-22,21,66,17,0,0,1046241,1,1,0,0
+"Rochester, NY",2020-03-23,22,88,22,0,0,1046241,1,1,0,0
+"Rochester, NY",2020-03-24,23,111,23,0,0,1046241,1,1,0,0
+"Rochester, NY",2020-03-25,24,136,25,0,0,1046241,1,1,1,0
+"Rochester, NY",2020-03-26,25,160,24,3,3,1046241,1,1,1,0
+"Rochester, NY",2020-03-27,26,188,28,4,1,1046241,1,1,1,0
+"Rochester, NY",2020-03-28,27,233,45,5,1,1046241,1,1,1,0
+"Rochester, NY",2020-03-29,28,252,19,6,1,1046241,1,1,1,0
+"Rochester, NY",2020-03-30,29,281,29,6,0,1046241,1,1,1,1
+"Rochester, NY",2020-03-31,30,347,66,9,3,1046241,1,1,1,1
+"Rochester, NY",2020-04-01,31,403,56,9,0,1046241,1,1,1,1
+"Rochester, NY",2020-04-02,32,484,81,10,1,1046241,1,1,1,1
+"Rochester, NY",2020-04-03,33,528,44,14,4,1046241,1,1,1,1
+"Rochester, NY",2020-04-04,34,587,59,17,3,1046241,1,1,1,1
+"Rochester, NY",2020-04-05,35,626,39,19,2,1046241,1,1,1,1
+"Rochester, NY",2020-04-06,36,660,34,23,4,1046241,1,1,1,1
+"Rochester, NY",2020-04-07,37,685,25,25,2,1046241,1,1,1,1
+"Rochester, NY",2020-04-08,38,745,60,27,2,1046241,1,1,1,1
+"Rochester, NY",2020-04-09,39,802,57,31,4,1046241,1,1,1,1
+"Rochester, NY",2020-04-10,40,858,56,35,4,1046241,1,1,1,1
+"Rochester, NY",2020-04-11,41,889,31,42,7,1046241,1,1,1,1
+"Rochester, NY",2020-04-12,42,922,33,43,1,1046241,1,1,1,1
+"Rochester, NY",2020-04-13,43,948,26,44,1,1046241,1,1,1,1
+"Rochester, NY",2020-04-14,44,990,42,49,5,1046241,1,1,1,1
+"Rochester, NY",2020-04-15,45,1027,37,50,1,1046241,1,1,1,1
+"Rochester, NY",2020-04-16,46,1080,53,51,1,1046241,1,1,1,1
+"Rochester, NY",2020-04-17,47,1125,45,51,0,1046241,1,1,1,1
+"Sacramento--Arden-Arcade--Roseville, CA",2020-03-01,0,3,0,0,0,2345210,0,0,0,0
+"Sacramento--Arden-Arcade--Roseville, CA",2020-03-02,1,4,1,0,0,2345210,0,0,0,0
+"Sacramento--Arden-Arcade--Roseville, CA",2020-03-03,2,5,1,0,0,2345210,0,0,0,0
+"Sacramento--Arden-Arcade--Roseville, CA",2020-03-04,3,5,0,1,1,2345210,0,0,0,0
+"Sacramento--Arden-Arcade--Roseville, CA",2020-03-05,4,5,0,1,0,2345210,0,0,0,0
+"Sacramento--Arden-Arcade--Roseville, CA",2020-03-06,5,9,4,1,0,2345210,0,0,0,0
+"Sacramento--Arden-Arcade--Roseville, CA",2020-03-07,6,9,0,1,0,2345210,0,0,0,0
+"Sacramento--Arden-Arcade--Roseville, CA",2020-03-08,7,11,2,1,0,2345210,0,0,0,0
+"Sacramento--Arden-Arcade--Roseville, CA",2020-03-09,8,17,6,1,0,2345210,0,0,0,0
+"Sacramento--Arden-Arcade--Roseville, CA",2020-03-10,9,17,0,2,1,2345210,0,0,0,0
+"Sacramento--Arden-Arcade--Roseville, CA",2020-03-11,10,17,0,2,0,2345210,0,0,0,0
+"Sacramento--Arden-Arcade--Roseville, CA",2020-03-12,11,24,7,2,0,2345210,0,0,0,0
+"Sacramento--Arden-Arcade--Roseville, CA",2020-03-13,12,25,1,2,0,2345210,0,0,0,0
+"Sacramento--Arden-Arcade--Roseville, CA",2020-03-14,13,38,13,2,0,2345210,0,0,0,0
+"Sacramento--Arden-Arcade--Roseville, CA",2020-03-15,14,42,4,2,0,2345210,0,0,0,0
+"Sacramento--Arden-Arcade--Roseville, CA",2020-03-16,15,42,0,3,1,2345210,0,0,0,0
+"Sacramento--Arden-Arcade--Roseville, CA",2020-03-17,16,51,9,3,0,2345210,0,0,0,0
+"Sacramento--Arden-Arcade--Roseville, CA",2020-03-18,17,53,2,3,0,2345210,0,0,0,0
+"Sacramento--Arden-Arcade--Roseville, CA",2020-03-19,18,58,5,4,1,2345210,0,0,0,0
+"Sacramento--Arden-Arcade--Roseville, CA",2020-03-20,19,67,9,4,0,2345210,0,0,0,0
+"Sacramento--Arden-Arcade--Roseville, CA",2020-03-21,20,72,5,4,0,2345210,0,0,0,0
+"Sacramento--Arden-Arcade--Roseville, CA",2020-03-22,21,72,0,5,1,2345210,1,0,0,0
+"Sacramento--Arden-Arcade--Roseville, CA",2020-03-23,22,117,45,6,1,2345210,1,0,0,0
+"Sacramento--Arden-Arcade--Roseville, CA",2020-03-24,23,126,9,6,0,2345210,1,0,0,0
+"Sacramento--Arden-Arcade--Roseville, CA",2020-03-25,24,156,30,7,1,2345210,1,0,1,0
+"Sacramento--Arden-Arcade--Roseville, CA",2020-03-26,25,162,6,7,0,2345210,1,0,1,0
+"Sacramento--Arden-Arcade--Roseville, CA",2020-03-27,26,233,71,8,1,2345210,1,1,1,1
+"Sacramento--Arden-Arcade--Roseville, CA",2020-03-28,27,236,3,8,0,2345210,1,1,1,1
+"Sacramento--Arden-Arcade--Roseville, CA",2020-03-29,28,245,9,9,1,2345210,1,1,1,1
+"Sacramento--Arden-Arcade--Roseville, CA",2020-03-30,29,320,75,10,1,2345210,1,1,1,1
+"Sacramento--Arden-Arcade--Roseville, CA",2020-03-31,30,334,14,10,0,2345210,1,1,1,1
+"Sacramento--Arden-Arcade--Roseville, CA",2020-04-01,31,438,104,12,2,2345210,1,1,1,1
+"Sacramento--Arden-Arcade--Roseville, CA",2020-04-02,32,477,39,12,0,2345210,1,1,1,1
+"Sacramento--Arden-Arcade--Roseville, CA",2020-04-03,33,541,64,13,1,2345210,1,1,1,1
+"Sacramento--Arden-Arcade--Roseville, CA",2020-04-04,34,563,22,15,2,2345210,1,1,1,1
+"Sacramento--Arden-Arcade--Roseville, CA",2020-04-05,35,603,40,20,5,2345210,1,1,1,1
+"Sacramento--Arden-Arcade--Roseville, CA",2020-04-06,36,642,39,22,2,2345210,1,1,1,1
+"Sacramento--Arden-Arcade--Roseville, CA",2020-04-07,37,723,81,26,4,2345210,1,1,1,1
+"Sacramento--Arden-Arcade--Roseville, CA",2020-04-08,38,792,69,29,3,2345210,1,1,1,1
+"Sacramento--Arden-Arcade--Roseville, CA",2020-04-09,39,833,41,29,0,2345210,1,1,1,1
+"Sacramento--Arden-Arcade--Roseville, CA",2020-04-10,40,882,49,31,2,2345210,1,1,1,1
+"Sacramento--Arden-Arcade--Roseville, CA",2020-04-11,41,943,61,33,2,2345210,1,1,1,1
+"Sacramento--Arden-Arcade--Roseville, CA",2020-04-12,42,956,13,33,0,2345210,1,1,1,1
+"Sacramento--Arden-Arcade--Roseville, CA",2020-04-13,43,1001,45,36,3,2345210,1,1,1,1
+"Sacramento--Arden-Arcade--Roseville, CA",2020-04-14,44,1081,80,37,1,2345210,1,1,1,1
+"Sacramento--Arden-Arcade--Roseville, CA",2020-04-15,45,1133,52,46,9,2345210,1,1,1,1
+"Sacramento--Arden-Arcade--Roseville, CA",2020-04-16,46,1169,36,47,1,2345210,1,1,1,1
+"Sacramento--Arden-Arcade--Roseville, CA",2020-04-17,47,1188,19,48,1,2345210,1,1,1,1
+"Salt Lake City, UT",2020-03-01,0,1,0,0,0,1264473,0,0,0,0
+"Salt Lake City, UT",2020-03-02,1,1,0,0,0,1264473,0,0,0,0
+"Salt Lake City, UT",2020-03-03,2,1,0,0,0,1264473,0,0,0,0
+"Salt Lake City, UT",2020-03-04,3,1,0,0,0,1264473,0,0,0,0
+"Salt Lake City, UT",2020-03-05,4,1,0,0,0,1264473,0,0,0,0
+"Salt Lake City, UT",2020-03-06,5,1,0,0,0,1264473,0,0,0,0
+"Salt Lake City, UT",2020-03-07,6,1,0,0,0,1264473,0,0,0,0
+"Salt Lake City, UT",2020-03-08,7,1,0,0,0,1264473,0,0,0,0
+"Salt Lake City, UT",2020-03-09,8,1,0,0,0,1264473,0,0,0,0
+"Salt Lake City, UT",2020-03-10,9,1,0,0,0,1264473,0,0,0,0
+"Salt Lake City, UT",2020-03-11,10,2,1,0,0,1264473,0,0,0,0
+"Salt Lake City, UT",2020-03-12,11,4,2,0,0,1264473,0,0,0,0
+"Salt Lake City, UT",2020-03-13,12,4,0,0,0,1264473,0,0,0,0
+"Salt Lake City, UT",2020-03-14,13,17,13,0,0,1264473,0,0,0,0
+"Salt Lake City, UT",2020-03-15,14,23,6,0,0,1264473,0,0,0,0
+"Salt Lake City, UT",2020-03-16,15,32,9,0,0,1264473,0,0,0,0
+"Salt Lake City, UT",2020-03-17,16,39,7,0,0,1264473,0,0,0,0
+"Salt Lake City, UT",2020-03-18,17,47,8,0,0,1264473,0,0,0,0
+"Salt Lake City, UT",2020-03-19,18,58,11,0,0,1264473,0,0,0,0
+"Salt Lake City, UT",2020-03-20,19,83,25,0,0,1264473,0,0,0,0
+"Salt Lake City, UT",2020-03-21,20,97,14,0,0,1264473,0,0,0,0
+"Salt Lake City, UT",2020-03-22,21,137,40,0,0,1264473,1,0,0,0
+"Salt Lake City, UT",2020-03-23,22,188,51,0,0,1264473,1,0,0,0
+"Salt Lake City, UT",2020-03-24,23,220,32,0,0,1264473,1,0,0,0
+"Salt Lake City, UT",2020-03-25,24,244,24,0,0,1264473,1,0,1,0
+"Salt Lake City, UT",2020-03-26,25,288,44,0,0,1264473,1,0,1,0
+"Salt Lake City, UT",2020-03-27,26,327,39,0,0,1264473,1,1,1,0
+"Salt Lake City, UT",2020-03-28,27,411,84,0,0,1264473,1,1,1,0
+"Salt Lake City, UT",2020-03-29,28,492,81,0,0,1264473,1,1,1,0
+"Salt Lake City, UT",2020-03-30,29,548,56,0,0,1264473,1,1,1,0
+"Salt Lake City, UT",2020-03-31,30,580,32,0,0,1264473,1,1,1,0
+"Salt Lake City, UT",2020-04-01,31,652,72,1,1,1264473,1,1,1,0
+"Salt Lake City, UT",2020-04-02,32,684,32,1,0,1264473,1,1,1,1
+"Salt Lake City, UT",2020-04-03,33,779,95,1,0,1264473,1,1,1,1
+"Salt Lake City, UT",2020-04-04,34,897,118,1,0,1264473,1,1,1,1
+"Salt Lake City, UT",2020-04-05,35,1016,119,1,0,1264473,1,1,1,1
+"Salt Lake City, UT",2020-04-06,36,1023,7,1,0,1264473,1,1,1,1
+"Salt Lake City, UT",2020-04-07,37,1095,72,1,0,1264473,1,1,1,1
+"Salt Lake City, UT",2020-04-08,38,1164,69,7,6,1264473,1,1,1,1
+"Salt Lake City, UT",2020-04-09,39,1248,84,7,0,1264473,1,1,1,1
+"Salt Lake City, UT",2020-04-10,40,1335,87,7,0,1264473,1,1,1,1
+"Salt Lake City, UT",2020-04-11,41,1402,67,7,0,1264473,1,1,1,1
+"Salt Lake City, UT",2020-04-12,42,1463,61,7,0,1264473,1,1,1,1
+"Salt Lake City, UT",2020-04-13,43,1497,34,7,0,1264473,1,1,1,1
+"Salt Lake City, UT",2020-04-14,44,1527,30,7,0,1264473,1,1,1,1
+"Salt Lake City, UT",2020-04-15,45,1628,101,7,0,1264473,1,1,1,1
+"Salt Lake City, UT",2020-04-16,46,1723,95,12,5,1264473,1,1,1,1
+"Salt Lake City, UT",2020-04-17,47,1805,82,12,0,1264473,1,1,1,1
+"San Antonio-New Braunfels, TX",2020-03-01,0,11,0,0,0,2518036,0,0,0,0
+"San Antonio-New Braunfels, TX",2020-03-02,1,11,0,0,0,2518036,0,0,0,0
+"San Antonio-New Braunfels, TX",2020-03-03,2,11,0,0,0,2518036,0,0,0,0
+"San Antonio-New Braunfels, TX",2020-03-04,3,11,0,0,0,2518036,0,0,0,0
+"San Antonio-New Braunfels, TX",2020-03-05,4,11,0,0,0,2518036,0,0,0,0
+"San Antonio-New Braunfels, TX",2020-03-06,5,11,0,0,0,2518036,0,0,0,0
+"San Antonio-New Braunfels, TX",2020-03-07,6,11,0,0,0,2518036,0,0,0,0
+"San Antonio-New Braunfels, TX",2020-03-08,7,11,0,0,0,2518036,0,0,0,0
+"San Antonio-New Braunfels, TX",2020-03-09,8,11,0,0,0,2518036,0,0,0,0
+"San Antonio-New Braunfels, TX",2020-03-10,9,11,0,0,0,2518036,0,0,0,0
+"San Antonio-New Braunfels, TX",2020-03-11,10,11,0,0,0,2518036,0,0,0,0
+"San Antonio-New Braunfels, TX",2020-03-12,11,11,0,0,0,2518036,0,0,0,0
+"San Antonio-New Braunfels, TX",2020-03-13,12,11,0,0,0,2518036,0,0,0,0
+"San Antonio-New Braunfels, TX",2020-03-14,13,12,1,0,0,2518036,0,0,0,0
+"San Antonio-New Braunfels, TX",2020-03-15,14,12,0,0,0,2518036,0,0,0,0
+"San Antonio-New Braunfels, TX",2020-03-16,15,13,1,0,0,2518036,0,0,0,0
+"San Antonio-New Braunfels, TX",2020-03-17,16,13,0,0,0,2518036,0,0,0,0
+"San Antonio-New Braunfels, TX",2020-03-18,17,14,1,0,0,2518036,0,0,0,0
+"San Antonio-New Braunfels, TX",2020-03-19,18,18,4,0,0,2518036,0,1,0,0
+"San Antonio-New Braunfels, TX",2020-03-20,19,41,23,0,0,2518036,0,1,0,0
+"San Antonio-New Braunfels, TX",2020-03-21,20,51,10,0,0,2518036,0,1,1,0
+"San Antonio-New Braunfels, TX",2020-03-22,21,51,0,1,1,2518036,0,1,1,0
+"San Antonio-New Braunfels, TX",2020-03-23,22,51,0,1,0,2518036,0,1,1,0
+"San Antonio-New Braunfels, TX",2020-03-24,23,72,21,1,0,2518036,0,1,1,0
+"San Antonio-New Braunfels, TX",2020-03-25,24,85,13,1,0,2518036,1,1,1,0
+"San Antonio-New Braunfels, TX",2020-03-26,25,107,22,4,3,2518036,1,1,1,1
+"San Antonio-New Braunfels, TX",2020-03-27,26,140,33,6,2,2518036,1,1,1,1
+"San Antonio-New Braunfels, TX",2020-03-28,27,155,15,6,0,2518036,1,1,1,1
+"San Antonio-New Braunfels, TX",2020-03-29,28,173,18,6,0,2518036,1,1,1,1
+"San Antonio-New Braunfels, TX",2020-03-30,29,193,20,7,1,2518036,1,1,1,1
+"San Antonio-New Braunfels, TX",2020-03-31,30,248,55,11,4,2518036,1,1,1,1
+"San Antonio-New Braunfels, TX",2020-04-01,31,275,27,11,0,2518036,1,1,1,1
+"San Antonio-New Braunfels, TX",2020-04-02,32,304,29,11,0,2518036,1,1,1,1
+"San Antonio-New Braunfels, TX",2020-04-03,33,402,98,12,1,2518036,1,1,1,1
+"San Antonio-New Braunfels, TX",2020-04-04,34,459,57,13,1,2518036,1,1,1,1
+"San Antonio-New Braunfels, TX",2020-04-05,35,492,33,13,0,2518036,1,1,1,1
+"San Antonio-New Braunfels, TX",2020-04-06,36,543,51,14,1,2518036,1,1,1,1
+"San Antonio-New Braunfels, TX",2020-04-07,37,602,59,20,6,2518036,1,1,1,1
+"San Antonio-New Braunfels, TX",2020-04-08,38,616,14,21,1,2518036,1,1,1,1
+"San Antonio-New Braunfels, TX",2020-04-09,39,733,117,27,6,2518036,1,1,1,1
+"San Antonio-New Braunfels, TX",2020-04-10,40,799,66,29,2,2518036,1,1,1,1
+"San Antonio-New Braunfels, TX",2020-04-11,41,849,50,29,0,2518036,1,1,1,1
+"San Antonio-New Braunfels, TX",2020-04-12,42,866,17,32,3,2518036,1,1,1,1
+"San Antonio-New Braunfels, TX",2020-04-13,43,916,50,34,2,2518036,1,1,1,1
+"San Antonio-New Braunfels, TX",2020-04-14,44,941,25,41,7,2518036,1,1,1,1
+"San Antonio-New Braunfels, TX",2020-04-15,45,1044,103,45,4,2518036,1,1,1,1
+"San Antonio-New Braunfels, TX",2020-04-16,46,1051,7,46,1,2518036,1,1,1,1
+"San Antonio-New Braunfels, TX",2020-04-17,47,1127,76,46,0,2518036,1,1,1,1
+"San Diego-Carlsbad-San Marcos, CA",2020-03-01,0,1,0,0,0,3343364,0,0,0,0
+"San Diego-Carlsbad-San Marcos, CA",2020-03-02,1,1,0,0,0,3343364,0,0,0,0
+"San Diego-Carlsbad-San Marcos, CA",2020-03-03,2,1,0,0,0,3343364,0,0,0,0
+"San Diego-Carlsbad-San Marcos, CA",2020-03-04,3,1,0,0,0,3343364,0,0,0,0
+"San Diego-Carlsbad-San Marcos, CA",2020-03-05,4,1,0,0,0,3343364,0,0,0,0
+"San Diego-Carlsbad-San Marcos, CA",2020-03-06,5,1,0,0,0,3343364,0,0,0,0
+"San Diego-Carlsbad-San Marcos, CA",2020-03-07,6,1,0,0,0,3343364,0,0,0,0
+"San Diego-Carlsbad-San Marcos, CA",2020-03-08,7,1,0,0,0,3343364,0,0,0,0
+"San Diego-Carlsbad-San Marcos, CA",2020-03-09,8,2,1,0,0,3343364,0,0,0,0
+"San Diego-Carlsbad-San Marcos, CA",2020-03-10,9,2,0,0,0,3343364,0,0,0,0
+"San Diego-Carlsbad-San Marcos, CA",2020-03-11,10,2,0,0,0,3343364,0,0,0,0
+"San Diego-Carlsbad-San Marcos, CA",2020-03-12,11,5,3,0,0,3343364,0,0,0,0
+"San Diego-Carlsbad-San Marcos, CA",2020-03-13,12,9,4,0,0,3343364,0,0,0,0
+"San Diego-Carlsbad-San Marcos, CA",2020-03-14,13,10,1,0,0,3343364,0,0,0,0
+"San Diego-Carlsbad-San Marcos, CA",2020-03-15,14,40,30,0,0,3343364,0,0,0,0
+"San Diego-Carlsbad-San Marcos, CA",2020-03-16,15,56,16,0,0,3343364,0,0,0,0
+"San Diego-Carlsbad-San Marcos, CA",2020-03-17,16,61,5,0,0,3343364,0,0,0,0
+"San Diego-Carlsbad-San Marcos, CA",2020-03-18,17,81,20,0,0,3343364,0,0,0,0
+"San Diego-Carlsbad-San Marcos, CA",2020-03-19,18,105,24,0,0,3343364,0,1,0,0
+"San Diego-Carlsbad-San Marcos, CA",2020-03-20,19,131,26,0,0,3343364,0,1,0,0
+"San Diego-Carlsbad-San Marcos, CA",2020-03-21,20,159,28,0,0,3343364,0,1,1,0
+"San Diego-Carlsbad-San Marcos, CA",2020-03-22,21,205,46,0,0,3343364,0,1,1,0
+"San Diego-Carlsbad-San Marcos, CA",2020-03-23,22,230,25,0,0,3343364,0,1,1,0
+"San Diego-Carlsbad-San Marcos, CA",2020-03-24,23,242,12,1,1,3343364,0,1,1,0
+"San Diego-Carlsbad-San Marcos, CA",2020-03-25,24,297,55,2,1,3343364,1,1,1,1
+"San Diego-Carlsbad-San Marcos, CA",2020-03-26,25,341,44,3,1,3343364,1,1,1,1
+"San Diego-Carlsbad-San Marcos, CA",2020-03-27,26,417,76,5,2,3343364,1,1,1,1
+"San Diego-Carlsbad-San Marcos, CA",2020-03-28,27,488,71,7,2,3343364,1,1,1,1
+"San Diego-Carlsbad-San Marcos, CA",2020-03-29,28,519,31,7,0,3343364,1,1,1,1
+"San Diego-Carlsbad-San Marcos, CA",2020-03-30,29,603,84,7,0,3343364,1,1,1,1
+"San Diego-Carlsbad-San Marcos, CA",2020-03-31,30,734,131,9,2,3343364,1,1,1,1
+"San Diego-Carlsbad-San Marcos, CA",2020-04-01,31,849,115,15,6,3343364,1,1,1,1
+"San Diego-Carlsbad-San Marcos, CA",2020-04-02,32,966,117,16,1,3343364,1,1,1,1
+"San Diego-Carlsbad-San Marcos, CA",2020-04-03,33,1112,146,17,1,3343364,1,1,1,1
+"San Diego-Carlsbad-San Marcos, CA",2020-04-04,34,1209,97,18,1,3343364,1,1,1,1
+"San Diego-Carlsbad-San Marcos, CA",2020-04-05,35,1326,117,19,1,3343364,1,1,1,1
+"San Diego-Carlsbad-San Marcos, CA",2020-04-06,36,1404,78,19,0,3343364,1,1,1,1
+"San Diego-Carlsbad-San Marcos, CA",2020-04-07,37,1454,50,31,12,3343364,1,1,1,1
+"San Diego-Carlsbad-San Marcos, CA",2020-04-08,38,1530,76,36,5,3343364,1,1,1,1
+"San Diego-Carlsbad-San Marcos, CA",2020-04-09,39,1628,98,40,4,3343364,1,1,1,1
+"San Diego-Carlsbad-San Marcos, CA",2020-04-10,40,1696,68,44,4,3343364,1,1,1,1
+"San Diego-Carlsbad-San Marcos, CA",2020-04-11,41,1761,65,45,1,3343364,1,1,1,1
+"San Diego-Carlsbad-San Marcos, CA",2020-04-12,42,1804,43,45,0,3343364,1,1,1,1
+"San Diego-Carlsbad-San Marcos, CA",2020-04-13,43,1847,43,47,2,3343364,1,1,1,1
+"San Diego-Carlsbad-San Marcos, CA",2020-04-14,44,1930,83,53,6,3343364,1,1,1,1
+"San Diego-Carlsbad-San Marcos, CA",2020-04-15,45,2012,82,60,7,3343364,1,1,1,1
+"San Diego-Carlsbad-San Marcos, CA",2020-04-16,46,2087,75,63,3,3343364,1,1,1,1
+"San Diego-Carlsbad-San Marcos, CA",2020-04-17,47,2158,71,70,7,3343364,1,1,1,1
+"San Francisco-Oakland-Fremont, CA",2020-03-01,0,5,1,0,0,4729484,0,0,0,0
+"San Francisco-Oakland-Fremont, CA",2020-03-02,1,6,1,0,0,4729484,0,0,0,0
+"San Francisco-Oakland-Fremont, CA",2020-03-03,2,8,2,0,0,4729484,0,0,0,0
+"San Francisco-Oakland-Fremont, CA",2020-03-04,3,8,0,0,0,4729484,0,0,0,0
+"San Francisco-Oakland-Fremont, CA",2020-03-05,4,10,2,0,0,4729484,0,0,0,0
+"San Francisco-Oakland-Fremont, CA",2020-03-06,5,14,4,0,0,4729484,0,0,0,0
+"San Francisco-Oakland-Fremont, CA",2020-03-07,6,20,6,0,0,4729484,0,0,0,0
+"San Francisco-Oakland-Fremont, CA",2020-03-08,7,25,5,0,0,4729484,0,0,0,0
+"San Francisco-Oakland-Fremont, CA",2020-03-09,8,60,35,0,0,4729484,0,0,0,0
+"San Francisco-Oakland-Fremont, CA",2020-03-10,9,62,2,0,0,4729484,0,0,0,0
+"San Francisco-Oakland-Fremont, CA",2020-03-11,10,70,8,0,0,4729484,0,0,0,0
+"San Francisco-Oakland-Fremont, CA",2020-03-12,11,83,13,0,0,4729484,0,0,0,0
+"San Francisco-Oakland-Fremont, CA",2020-03-13,12,104,21,0,0,4729484,0,0,0,0
+"San Francisco-Oakland-Fremont, CA",2020-03-14,13,121,17,0,0,4729484,0,0,0,0
+"San Francisco-Oakland-Fremont, CA",2020-03-15,14,135,14,1,1,4729484,0,0,0,0
+"San Francisco-Oakland-Fremont, CA",2020-03-16,15,163,28,1,0,4729484,0,0,0,0
+"San Francisco-Oakland-Fremont, CA",2020-03-17,16,197,34,1,0,4729484,0,0,0,0
+"San Francisco-Oakland-Fremont, CA",2020-03-18,17,241,44,1,0,4729484,0,0,0,0
+"San Francisco-Oakland-Fremont, CA",2020-03-19,18,286,45,1,0,4729484,0,1,0,0
+"San Francisco-Oakland-Fremont, CA",2020-03-20,19,330,44,2,1,4729484,0,1,0,0
+"San Francisco-Oakland-Fremont, CA",2020-03-21,20,370,40,2,0,4729484,0,1,1,0
+"San Francisco-Oakland-Fremont, CA",2020-03-22,21,454,84,2,0,4729484,0,1,1,0
+"San Francisco-Oakland-Fremont, CA",2020-03-23,22,533,79,3,1,4729484,0,1,1,0
+"San Francisco-Oakland-Fremont, CA",2020-03-24,23,603,70,4,1,4729484,0,1,1,0
+"San Francisco-Oakland-Fremont, CA",2020-03-25,24,663,60,9,5,4729484,1,1,1,0
+"San Francisco-Oakland-Fremont, CA",2020-03-26,25,816,153,12,3,4729484,1,1,1,1
+"San Francisco-Oakland-Fremont, CA",2020-03-27,26,982,166,16,4,4729484,1,1,1,1
+"San Francisco-Oakland-Fremont, CA",2020-03-28,27,1101,119,20,4,4729484,1,1,1,1
+"San Francisco-Oakland-Fremont, CA",2020-03-29,28,1179,78,21,1,4729484,1,1,1,1
+"San Francisco-Oakland-Fremont, CA",2020-03-30,29,1273,94,23,2,4729484,1,1,1,1
+"San Francisco-Oakland-Fremont, CA",2020-03-31,30,1367,94,30,7,4729484,1,1,1,1
+"San Francisco-Oakland-Fremont, CA",2020-04-01,31,1563,196,32,2,4729484,1,1,1,1
+"San Francisco-Oakland-Fremont, CA",2020-04-02,32,1714,151,35,3,4729484,1,1,1,1
+"San Francisco-Oakland-Fremont, CA",2020-04-03,33,1888,174,43,8,4729484,1,1,1,1
+"San Francisco-Oakland-Fremont, CA",2020-04-04,34,2021,133,45,2,4729484,1,1,1,1
+"San Francisco-Oakland-Fremont, CA",2020-04-05,35,2240,219,46,1,4729484,1,1,1,1
+"San Francisco-Oakland-Fremont, CA",2020-04-06,36,2334,94,51,5,4729484,1,1,1,1
+"San Francisco-Oakland-Fremont, CA",2020-04-07,37,2456,122,62,11,4729484,1,1,1,1
+"San Francisco-Oakland-Fremont, CA",2020-04-08,38,2602,146,64,2,4729484,1,1,1,1
+"San Francisco-Oakland-Fremont, CA",2020-04-09,39,2732,130,66,2,4729484,1,1,1,1
+"San Francisco-Oakland-Fremont, CA",2020-04-10,40,2869,137,73,7,4729484,1,1,1,1
+"San Francisco-Oakland-Fremont, CA",2020-04-11,41,3022,153,76,3,4729484,1,1,1,1
+"San Francisco-Oakland-Fremont, CA",2020-04-12,42,3094,72,79,3,4729484,1,1,1,1
+"San Francisco-Oakland-Fremont, CA",2020-04-13,43,3290,196,80,1,4729484,1,1,1,1
+"San Francisco-Oakland-Fremont, CA",2020-04-14,44,3416,126,81,1,4729484,1,1,1,1
+"San Francisco-Oakland-Fremont, CA",2020-04-15,45,3565,149,105,24,4729484,1,1,1,1
+"San Francisco-Oakland-Fremont, CA",2020-04-16,46,3676,111,111,6,4729484,1,1,1,1
+"San Francisco-Oakland-Fremont, CA",2020-04-17,47,3777,101,117,6,4729484,1,1,1,1
+"San Jose-Sunnyvale-Santa Clara, CA",2020-03-01,0,7,3,0,0,1999107,0,0,0,0
+"San Jose-Sunnyvale-Santa Clara, CA",2020-03-02,1,9,2,0,0,1999107,0,0,0,0
+"San Jose-Sunnyvale-Santa Clara, CA",2020-03-03,2,11,2,0,0,1999107,0,0,0,0
+"San Jose-Sunnyvale-Santa Clara, CA",2020-03-04,3,14,3,0,0,1999107,0,0,0,0
+"San Jose-Sunnyvale-Santa Clara, CA",2020-03-05,4,20,6,0,0,1999107,0,0,0,0
+"San Jose-Sunnyvale-Santa Clara, CA",2020-03-06,5,24,4,0,0,1999107,0,0,0,0
+"San Jose-Sunnyvale-Santa Clara, CA",2020-03-07,6,32,8,0,0,1999107,0,0,0,0
+"San Jose-Sunnyvale-Santa Clara, CA",2020-03-08,7,37,5,0,0,1999107,0,0,0,0
+"San Jose-Sunnyvale-Santa Clara, CA",2020-03-09,8,43,6,1,1,1999107,0,0,0,0
+"San Jose-Sunnyvale-Santa Clara, CA",2020-03-10,9,45,2,1,0,1999107,0,0,0,0
+"San Jose-Sunnyvale-Santa Clara, CA",2020-03-11,10,48,3,1,0,1999107,0,0,0,0
+"San Jose-Sunnyvale-Santa Clara, CA",2020-03-12,11,66,18,1,0,1999107,0,0,0,0
+"San Jose-Sunnyvale-Santa Clara, CA",2020-03-13,12,80,14,2,1,1999107,0,0,0,0
+"San Jose-Sunnyvale-Santa Clara, CA",2020-03-14,13,92,12,2,0,1999107,0,0,0,0
+"San Jose-Sunnyvale-Santa Clara, CA",2020-03-15,14,115,23,2,0,1999107,0,0,0,0
+"San Jose-Sunnyvale-Santa Clara, CA",2020-03-16,15,139,24,4,2,1999107,0,0,0,0
+"San Jose-Sunnyvale-Santa Clara, CA",2020-03-17,16,157,18,6,2,1999107,0,0,0,0
+"San Jose-Sunnyvale-Santa Clara, CA",2020-03-18,17,180,23,7,1,1999107,0,0,0,0
+"San Jose-Sunnyvale-Santa Clara, CA",2020-03-19,18,194,14,7,0,1999107,0,1,0,0
+"San Jose-Sunnyvale-Santa Clara, CA",2020-03-20,19,201,7,9,2,1999107,0,1,0,0
+"San Jose-Sunnyvale-Santa Clara, CA",2020-03-21,20,268,67,9,0,1999107,0,1,1,0
+"San Jose-Sunnyvale-Santa Clara, CA",2020-03-22,21,308,40,12,3,1999107,0,1,1,0
+"San Jose-Sunnyvale-Santa Clara, CA",2020-03-23,22,327,19,12,0,1999107,0,1,1,0
+"San Jose-Sunnyvale-Santa Clara, CA",2020-03-24,23,382,55,18,6,1999107,0,1,1,0
+"San Jose-Sunnyvale-Santa Clara, CA",2020-03-25,24,468,86,19,1,1999107,1,1,1,0
+"San Jose-Sunnyvale-Santa Clara, CA",2020-03-26,25,551,83,21,2,1999107,1,1,1,0
+"San Jose-Sunnyvale-Santa Clara, CA",2020-03-27,26,585,34,22,1,1999107,1,1,1,0
+"San Jose-Sunnyvale-Santa Clara, CA",2020-03-28,27,602,17,27,5,1999107,1,1,1,0
+"San Jose-Sunnyvale-Santa Clara, CA",2020-03-29,28,660,58,27,0,1999107,1,1,1,0
+"San Jose-Sunnyvale-Santa Clara, CA",2020-03-30,29,865,205,30,3,1999107,1,1,1,0
+"San Jose-Sunnyvale-Santa Clara, CA",2020-03-31,30,911,46,32,2,1999107,1,1,1,0
+"San Jose-Sunnyvale-Santa Clara, CA",2020-04-01,31,979,68,34,2,1999107,1,1,1,0
+"San Jose-Sunnyvale-Santa Clara, CA",2020-04-02,32,1042,63,38,4,1999107,1,1,1,0
+"San Jose-Sunnyvale-Santa Clara, CA",2020-04-03,33,1117,75,41,3,1999107,1,1,1,0
+"San Jose-Sunnyvale-Santa Clara, CA",2020-04-04,34,1171,54,42,1,1999107,1,1,1,1
+"San Jose-Sunnyvale-Santa Clara, CA",2020-04-05,35,1230,59,42,0,1999107,1,1,1,1
+"San Jose-Sunnyvale-Santa Clara, CA",2020-04-06,36,1254,24,42,0,1999107,1,1,1,1
+"San Jose-Sunnyvale-Santa Clara, CA",2020-04-07,37,1316,62,46,4,1999107,1,1,1,1
+"San Jose-Sunnyvale-Santa Clara, CA",2020-04-08,38,1413,97,49,3,1999107,1,1,1,1
+"San Jose-Sunnyvale-Santa Clara, CA",2020-04-09,39,1476,63,50,1,1999107,1,1,1,1
+"San Jose-Sunnyvale-Santa Clara, CA",2020-04-10,40,1519,43,52,2,1999107,1,1,1,1
+"San Jose-Sunnyvale-Santa Clara, CA",2020-04-11,41,1601,82,54,2,1999107,1,1,1,1
+"San Jose-Sunnyvale-Santa Clara, CA",2020-04-12,42,1656,55,56,2,1999107,1,1,1,1
+"San Jose-Sunnyvale-Santa Clara, CA",2020-04-13,43,1704,48,63,7,1999107,1,1,1,1
+"San Jose-Sunnyvale-Santa Clara, CA",2020-04-14,44,1705,1,63,0,1999107,1,1,1,1
+"San Jose-Sunnyvale-Santa Clara, CA",2020-04-15,45,1834,129,68,5,1999107,1,1,1,1
+"San Jose-Sunnyvale-Santa Clara, CA",2020-04-16,46,1875,41,72,4,1999107,1,1,1,1
+"San Jose-Sunnyvale-Santa Clara, CA",2020-04-17,47,1914,39,76,4,1999107,1,1,1,1
+"Seattle-Tacoma-Bellevue, WA",2020-03-01,0,13,7,3,2,3939363,0,0,0,0
+"Seattle-Tacoma-Bellevue, WA",2020-03-02,1,18,5,6,3,3939363,0,0,0,0
+"Seattle-Tacoma-Bellevue, WA",2020-03-03,2,27,9,10,4,3939363,0,0,0,0
+"Seattle-Tacoma-Bellevue, WA",2020-03-04,3,41,14,11,1,3939363,0,0,0,0
+"Seattle-Tacoma-Bellevue, WA",2020-03-05,4,69,28,11,0,3939363,0,0,0,0
+"Seattle-Tacoma-Bellevue, WA",2020-03-06,5,78,9,12,1,3939363,0,0,0,0
+"Seattle-Tacoma-Bellevue, WA",2020-03-07,6,101,23,16,4,3939363,0,0,0,0
+"Seattle-Tacoma-Bellevue, WA",2020-03-08,7,131,30,18,2,3939363,0,0,0,0
+"Seattle-Tacoma-Bellevue, WA",2020-03-09,8,169,38,21,3,3939363,0,0,0,0
+"Seattle-Tacoma-Bellevue, WA",2020-03-10,9,266,97,23,2,3939363,0,0,0,0
+"Seattle-Tacoma-Bellevue, WA",2020-03-11,10,321,55,28,5,3939363,0,0,0,0
+"Seattle-Tacoma-Bellevue, WA",2020-03-12,11,395,74,31,3,3939363,0,0,0,0
+"Seattle-Tacoma-Bellevue, WA",2020-03-13,12,480,85,36,5,3939363,0,0,0,0
+"Seattle-Tacoma-Bellevue, WA",2020-03-14,13,569,89,39,3,3939363,0,0,0,0
+"Seattle-Tacoma-Bellevue, WA",2020-03-15,14,625,56,41,2,3939363,0,0,0,0
+"Seattle-Tacoma-Bellevue, WA",2020-03-16,15,732,107,47,6,3939363,0,0,0,0
+"Seattle-Tacoma-Bellevue, WA",2020-03-17,16,827,95,51,4,3939363,0,1,0,0
+"Seattle-Tacoma-Bellevue, WA",2020-03-18,17,928,101,63,12,3939363,1,1,0,0
+"Seattle-Tacoma-Bellevue, WA",2020-03-19,18,1115,187,68,5,3939363,1,1,0,0
+"Seattle-Tacoma-Bellevue, WA",2020-03-20,19,1261,146,76,8,3939363,1,1,1,0
+"Seattle-Tacoma-Bellevue, WA",2020-03-21,20,1476,215,86,10,3939363,1,1,1,0
+"Seattle-Tacoma-Bellevue, WA",2020-03-22,21,1623,147,88,2,3939363,1,1,1,0
+"Seattle-Tacoma-Bellevue, WA",2020-03-23,22,1810,187,99,11,3939363,1,1,1,0
+"Seattle-Tacoma-Bellevue, WA",2020-03-24,23,2029,219,111,12,3939363,1,1,1,0
+"Seattle-Tacoma-Bellevue, WA",2020-03-25,24,2148,119,118,7,3939363,1,1,1,0
+"Seattle-Tacoma-Bellevue, WA",2020-03-26,25,2543,395,133,15,3939363,1,1,1,0
+"Seattle-Tacoma-Bellevue, WA",2020-03-27,26,2974,431,155,22,3939363,1,1,1,0
+"Seattle-Tacoma-Bellevue, WA",2020-03-28,27,3273,299,166,11,3939363,1,1,1,0
+"Seattle-Tacoma-Bellevue, WA",2020-03-29,28,3547,274,175,9,3939363,1,1,1,0
+"Seattle-Tacoma-Bellevue, WA",2020-03-30,29,3810,263,188,13,3939363,1,1,1,0
+"Seattle-Tacoma-Bellevue, WA",2020-03-31,30,3912,102,190,2,3939363,1,1,1,0
+"Seattle-Tacoma-Bellevue, WA",2020-04-01,31,4225,313,212,22,3939363,1,1,1,1
+"Seattle-Tacoma-Bellevue, WA",2020-04-02,32,4531,306,223,11,3939363,1,1,1,1
+"Seattle-Tacoma-Bellevue, WA",2020-04-03,33,4815,284,236,13,3939363,1,1,1,1
+"Seattle-Tacoma-Bellevue, WA",2020-04-04,34,5028,213,256,20,3939363,1,1,1,1
+"Seattle-Tacoma-Bellevue, WA",2020-04-05,35,5421,393,268,12,3939363,1,1,1,1
+"Seattle-Tacoma-Bellevue, WA",2020-04-06,36,5658,237,293,25,3939363,1,1,1,1
+"Seattle-Tacoma-Bellevue, WA",2020-04-07,37,5912,254,306,13,3939363,1,1,1,1
+"Seattle-Tacoma-Bellevue, WA",2020-04-08,38,6185,273,323,17,3939363,1,1,1,1
+"Seattle-Tacoma-Bellevue, WA",2020-04-09,39,6433,248,340,17,3939363,1,1,1,1
+"Seattle-Tacoma-Bellevue, WA",2020-04-10,40,6801,368,364,24,3939363,1,1,1,1
+"Seattle-Tacoma-Bellevue, WA",2020-04-11,41,7026,225,372,8,3939363,1,1,1,1
+"Seattle-Tacoma-Bellevue, WA",2020-04-12,42,7231,205,383,11,3939363,1,1,1,1
+"Seattle-Tacoma-Bellevue, WA",2020-04-13,43,7433,202,391,8,3939363,1,1,1,1
+"Seattle-Tacoma-Bellevue, WA",2020-04-14,44,7577,144,405,14,3939363,1,1,1,1
+"Seattle-Tacoma-Bellevue, WA",2020-04-15,45,7714,137,422,17,3939363,1,1,1,1
+"Seattle-Tacoma-Bellevue, WA",2020-04-16,46,7906,192,437,15,3939363,1,1,1,1
+"Seattle-Tacoma-Bellevue, WA",2020-04-17,47,8051,145,450,13,3939363,1,1,1,1
+"St. Louis, MO-IL",2020-03-01,0,0,0,0,0,2830408,0,0,0,0
+"St. Louis, MO-IL",2020-03-02,1,0,0,0,0,2830408,0,0,0,0
+"St. Louis, MO-IL",2020-03-03,2,0,0,0,0,2830408,0,0,0,0
+"St. Louis, MO-IL",2020-03-07,6,1,1,0,0,2830408,0,0,0,0
+"St. Louis, MO-IL",2020-03-08,7,1,0,0,0,2830408,0,0,0,0
+"St. Louis, MO-IL",2020-03-09,8,1,0,0,0,2830408,0,0,0,0
+"St. Louis, MO-IL",2020-03-10,9,1,0,0,0,2830408,0,0,0,0
+"St. Louis, MO-IL",2020-03-11,10,1,0,0,0,2830408,0,0,0,0
+"St. Louis, MO-IL",2020-03-12,11,1,0,0,0,2830408,0,0,0,0
+"St. Louis, MO-IL",2020-03-13,12,2,1,0,0,2830408,0,0,0,0
+"St. Louis, MO-IL",2020-03-14,13,4,2,0,0,2830408,0,0,0,0
+"St. Louis, MO-IL",2020-03-15,14,5,1,0,0,2830408,0,0,0,0
+"St. Louis, MO-IL",2020-03-16,15,7,2,0,0,2830408,0,0,0,0
+"St. Louis, MO-IL",2020-03-17,16,9,2,0,0,2830408,0,0,0,0
+"St. Louis, MO-IL",2020-03-18,17,15,6,0,0,2830408,1,0,0,0
+"St. Louis, MO-IL",2020-03-19,18,23,8,0,0,2830408,1,0,0,0
+"St. Louis, MO-IL",2020-03-20,19,29,6,1,1,2830408,1,0,0,0
+"St. Louis, MO-IL",2020-03-21,20,43,14,1,0,2830408,1,0,1,0
+"St. Louis, MO-IL",2020-03-22,21,80,37,1,0,2830408,1,0,1,0
+"St. Louis, MO-IL",2020-03-23,22,98,18,2,1,2830408,1,0,1,0
+"St. Louis, MO-IL",2020-03-24,23,106,8,2,0,2830408,1,0,1,0
+"St. Louis, MO-IL",2020-03-25,24,224,118,3,1,2830408,1,0,1,0
+"St. Louis, MO-IL",2020-03-26,25,305,81,3,0,2830408,1,1,1,0
+"St. Louis, MO-IL",2020-03-27,26,403,98,5,2,2830408,1,1,1,0
+"St. Louis, MO-IL",2020-03-28,27,505,102,6,1,2830408,1,1,1,0
+"St. Louis, MO-IL",2020-03-29,28,557,52,8,2,2830408,1,1,1,0
+"St. Louis, MO-IL",2020-03-30,29,616,59,8,0,2830408,1,1,1,0
+"St. Louis, MO-IL",2020-03-31,30,849,233,9,1,2830408,1,1,1,0
+"St. Louis, MO-IL",2020-04-01,31,884,35,9,0,2830408,1,1,1,1
+"St. Louis, MO-IL",2020-04-02,32,1218,334,16,7,2830408,1,1,1,1
+"St. Louis, MO-IL",2020-04-03,33,1418,200,21,5,2830408,1,1,1,1
+"St. Louis, MO-IL",2020-04-04,34,1564,146,28,7,2830408,1,1,1,1
+"St. Louis, MO-IL",2020-04-05,35,1625,61,35,7,2830408,1,1,1,1
+"St. Louis, MO-IL",2020-04-06,36,1899,274,36,1,2830408,1,1,1,1
+"St. Louis, MO-IL",2020-04-07,37,2193,294,55,19,2830408,1,1,1,1
+"St. Louis, MO-IL",2020-04-08,38,2451,258,60,5,2830408,1,1,1,1
+"St. Louis, MO-IL",2020-04-09,39,2684,233,65,5,2830408,1,1,1,1
+"St. Louis, MO-IL",2020-04-10,40,2903,219,76,11,2830408,1,1,1,1
+"St. Louis, MO-IL",2020-04-11,41,3082,179,87,11,2830408,1,1,1,1
+"St. Louis, MO-IL",2020-04-12,42,3219,137,88,1,2830408,1,1,1,1
+"St. Louis, MO-IL",2020-04-13,43,3389,170,106,18,2830408,1,1,1,1
+"St. Louis, MO-IL",2020-04-14,44,3640,251,115,9,2830408,1,1,1,1
+"St. Louis, MO-IL",2020-04-15,45,3784,144,130,15,2830408,1,1,1,1
+"St. Louis, MO-IL",2020-04-16,46,3939,155,140,10,2830408,1,1,1,1
+"St. Louis, MO-IL",2020-04-17,47,4072,133,158,18,2830408,1,1,1,1
+"Tampa-St. Petersburg-Clearwater, FL",2020-03-01,0,1,1,0,0,3142663,0,0,0,0
+"Tampa-St. Petersburg-Clearwater, FL",2020-03-02,1,1,0,0,0,3142663,0,0,0,0
+"Tampa-St. Petersburg-Clearwater, FL",2020-03-03,2,2,1,0,0,3142663,0,0,0,0
+"Tampa-St. Petersburg-Clearwater, FL",2020-03-04,3,2,0,0,0,3142663,0,0,0,0
+"Tampa-St. Petersburg-Clearwater, FL",2020-03-05,4,2,0,0,0,3142663,0,0,0,0
+"Tampa-St. Petersburg-Clearwater, FL",2020-03-06,5,2,0,0,0,3142663,0,0,0,0
+"Tampa-St. Petersburg-Clearwater, FL",2020-03-07,6,2,0,0,0,3142663,0,0,0,0
+"Tampa-St. Petersburg-Clearwater, FL",2020-03-08,7,2,0,0,0,3142663,0,0,0,0
+"Tampa-St. Petersburg-Clearwater, FL",2020-03-09,8,2,0,0,0,3142663,0,0,0,0
+"Tampa-St. Petersburg-Clearwater, FL",2020-03-10,9,5,3,0,0,3142663,0,0,0,0
+"Tampa-St. Petersburg-Clearwater, FL",2020-03-11,10,5,0,0,0,3142663,0,0,0,0
+"Tampa-St. Petersburg-Clearwater, FL",2020-03-12,11,6,1,0,0,3142663,0,0,0,0
+"Tampa-St. Petersburg-Clearwater, FL",2020-03-13,12,6,0,0,0,3142663,0,0,0,0
+"Tampa-St. Petersburg-Clearwater, FL",2020-03-14,13,6,0,0,0,3142663,0,0,0,0
+"Tampa-St. Petersburg-Clearwater, FL",2020-03-15,14,10,4,0,0,3142663,0,0,0,0
+"Tampa-St. Petersburg-Clearwater, FL",2020-03-16,15,12,2,0,0,3142663,0,0,0,0
+"Tampa-St. Petersburg-Clearwater, FL",2020-03-17,16,15,3,0,0,3142663,0,0,0,0
+"Tampa-St. Petersburg-Clearwater, FL",2020-03-18,17,29,14,0,0,3142663,1,0,0,0
+"Tampa-St. Petersburg-Clearwater, FL",2020-03-19,18,45,16,0,0,3142663,1,0,0,0
+"Tampa-St. Petersburg-Clearwater, FL",2020-03-20,19,64,19,0,0,3142663,1,0,0,0
+"Tampa-St. Petersburg-Clearwater, FL",2020-03-21,20,89,25,0,0,3142663,1,0,1,0
+"Tampa-St. Petersburg-Clearwater, FL",2020-03-22,21,112,23,1,1,3142663,1,0,1,0
+"Tampa-St. Petersburg-Clearwater, FL",2020-03-23,22,135,23,1,0,3142663,1,0,1,0
+"Tampa-St. Petersburg-Clearwater, FL",2020-03-24,23,163,28,2,1,3142663,1,0,1,0
+"Tampa-St. Petersburg-Clearwater, FL",2020-03-25,24,203,40,2,0,3142663,1,0,1,0
+"Tampa-St. Petersburg-Clearwater, FL",2020-03-26,25,246,43,3,1,3142663,1,1,1,0
+"Tampa-St. Petersburg-Clearwater, FL",2020-03-27,26,293,47,4,1,3142663,1,1,1,0
+"Tampa-St. Petersburg-Clearwater, FL",2020-03-28,27,365,72,8,4,3142663,1,1,1,0
+"Tampa-St. Petersburg-Clearwater, FL",2020-03-29,28,396,31,9,1,3142663,1,1,1,0
+"Tampa-St. Petersburg-Clearwater, FL",2020-03-30,29,460,64,9,0,3142663,1,1,1,0
+"Tampa-St. Petersburg-Clearwater, FL",2020-03-31,30,536,76,10,1,3142663,1,1,1,0
+"Tampa-St. Petersburg-Clearwater, FL",2020-04-01,31,674,138,10,0,3142663,1,1,1,1
+"Tampa-St. Petersburg-Clearwater, FL",2020-04-02,32,777,103,13,3,3142663,1,1,1,1
+"Tampa-St. Petersburg-Clearwater, FL",2020-04-03,33,896,119,14,1,3142663,1,1,1,1
+"Tampa-St. Petersburg-Clearwater, FL",2020-04-04,34,969,73,14,0,3142663,1,1,1,1
+"Tampa-St. Petersburg-Clearwater, FL",2020-04-05,35,1040,71,15,1,3142663,1,1,1,1
+"Tampa-St. Petersburg-Clearwater, FL",2020-04-06,36,1109,69,15,0,3142663,1,1,1,1
+"Tampa-St. Petersburg-Clearwater, FL",2020-04-07,37,1168,59,19,4,3142663,1,1,1,1
+"Tampa-St. Petersburg-Clearwater, FL",2020-04-08,38,1210,42,20,1,3142663,1,1,1,1
+"Tampa-St. Petersburg-Clearwater, FL",2020-04-09,39,1280,70,22,2,3142663,1,1,1,1
+"Tampa-St. Petersburg-Clearwater, FL",2020-04-10,40,1314,34,28,6,3142663,1,1,1,1
+"Tampa-St. Petersburg-Clearwater, FL",2020-04-11,41,1363,49,31,3,3142663,1,1,1,1
+"Tampa-St. Petersburg-Clearwater, FL",2020-04-12,42,1445,82,34,3,3142663,1,1,1,1
+"Tampa-St. Petersburg-Clearwater, FL",2020-04-13,43,1532,87,34,0,3142663,1,1,1,1
+"Tampa-St. Petersburg-Clearwater, FL",2020-04-14,44,1561,29,37,3,3142663,1,1,1,1
+"Tampa-St. Petersburg-Clearwater, FL",2020-04-15,45,1645,84,37,0,3142663,1,1,1,1
+"Tampa-St. Petersburg-Clearwater, FL",2020-04-16,46,1674,29,37,0,3142663,1,1,1,1
+"Tampa-St. Petersburg-Clearwater, FL",2020-04-17,47,1764,90,40,3,3142663,1,1,1,1
+"Tucson, AZ",2020-03-01,0,0,0,0,0,1039073,0,0,0,0
+"Tucson, AZ",2020-03-02,1,0,0,0,0,1039073,0,0,0,0
+"Tucson, AZ",2020-03-03,2,0,0,0,0,1039073,0,0,0,0
+"Tucson, AZ",2020-03-09,8,1,1,0,0,1039073,0,0,0,0
+"Tucson, AZ",2020-03-10,9,1,0,0,0,1039073,0,0,0,0
+"Tucson, AZ",2020-03-11,10,1,0,0,0,1039073,0,0,0,0
+"Tucson, AZ",2020-03-12,11,1,0,0,0,1039073,0,0,0,0
+"Tucson, AZ",2020-03-13,12,1,0,0,0,1039073,0,0,0,0
+"Tucson, AZ",2020-03-14,13,2,1,0,0,1039073,0,0,0,0
+"Tucson, AZ",2020-03-15,14,3,1,0,0,1039073,0,0,0,0
+"Tucson, AZ",2020-03-16,15,4,1,0,0,1039073,0,0,0,0
+"Tucson, AZ",2020-03-17,16,4,0,0,0,1039073,0,0,0,0
+"Tucson, AZ",2020-03-18,17,5,1,0,0,1039073,1,0,0,0
+"Tucson, AZ",2020-03-19,18,7,2,0,0,1039073,1,0,0,0
+"Tucson, AZ",2020-03-20,19,8,1,0,0,1039073,1,0,0,0
+"Tucson, AZ",2020-03-21,20,12,4,0,0,1039073,1,0,1,0
+"Tucson, AZ",2020-03-22,21,17,5,0,0,1039073,1,0,1,0
+"Tucson, AZ",2020-03-23,22,24,7,0,0,1039073,1,0,1,0
+"Tucson, AZ",2020-03-24,23,42,18,0,0,1039073,1,0,1,0
+"Tucson, AZ",2020-03-25,24,49,7,0,0,1039073,1,0,1,0
+"Tucson, AZ",2020-03-26,25,75,26,0,0,1039073,1,1,1,0
+"Tucson, AZ",2020-03-27,26,102,27,4,4,1039073,1,1,1,0
+"Tucson, AZ",2020-03-28,27,120,18,5,1,1039073,1,1,1,0
+"Tucson, AZ",2020-03-29,28,153,33,6,1,1039073,1,1,1,0
+"Tucson, AZ",2020-03-30,29,187,34,6,0,1039073,1,1,1,0
+"Tucson, AZ",2020-03-31,30,202,15,6,0,1039073,1,1,1,0
+"Tucson, AZ",2020-04-01,31,217,15,10,4,1039073,1,1,1,1
+"Tucson, AZ",2020-04-02,32,237,20,11,1,1039073,1,1,1,1
+"Tucson, AZ",2020-04-03,33,280,43,11,0,1039073,1,1,1,1
+"Tucson, AZ",2020-04-04,34,326,46,12,1,1039073,1,1,1,1
+"Tucson, AZ",2020-04-05,35,372,46,12,0,1039073,1,1,1,1
+"Tucson, AZ",2020-04-06,36,415,43,13,1,1039073,1,1,1,1
+"Tucson, AZ",2020-04-07,37,415,0,13,0,1039073,1,1,1,1
+"Tucson, AZ",2020-04-08,38,464,49,16,3,1039073,1,1,1,1
+"Tucson, AZ",2020-04-09,39,512,48,20,4,1039073,1,1,1,1
+"Tucson, AZ",2020-04-10,40,543,31,20,0,1039073,1,1,1,1
+"Tucson, AZ",2020-04-11,41,591,48,29,9,1039073,1,1,1,1
+"Tucson, AZ",2020-04-12,42,622,31,29,0,1039073,1,1,1,1
+"Tucson, AZ",2020-04-13,43,668,46,29,0,1039073,1,1,1,1
+"Tucson, AZ",2020-04-14,44,685,17,32,3,1039073,1,1,1,1
+"Tucson, AZ",2020-04-15,45,700,15,34,2,1039073,1,1,1,1
+"Tucson, AZ",2020-04-16,46,760,60,37,3,1039073,1,1,1,1
+"Tucson, AZ",2020-04-17,47,819,59,51,14,1039073,1,1,1,1
+"Virginia Beach-Norfolk-Newport News, VA-NC",2020-03-01,0,0,0,0,0,1723634,0,0,0,0
+"Virginia Beach-Norfolk-Newport News, VA-NC",2020-03-02,1,0,0,0,0,1723634,0,0,0,0
+"Virginia Beach-Norfolk-Newport News, VA-NC",2020-03-09,8,1,1,0,0,1723634,0,0,0,0
+"Virginia Beach-Norfolk-Newport News, VA-NC",2020-03-10,9,2,1,0,0,1723634,0,0,0,0
+"Virginia Beach-Norfolk-Newport News, VA-NC",2020-03-11,10,2,0,0,0,1723634,0,0,0,0
+"Virginia Beach-Norfolk-Newport News, VA-NC",2020-03-12,11,5,3,0,0,1723634,0,0,0,0
+"Virginia Beach-Norfolk-Newport News, VA-NC",2020-03-13,12,10,5,0,0,1723634,0,0,0,0
+"Virginia Beach-Norfolk-Newport News, VA-NC",2020-03-14,13,12,2,1,1,1723634,0,0,0,0
+"Virginia Beach-Norfolk-Newport News, VA-NC",2020-03-15,14,13,1,1,0,1723634,0,0,0,0
+"Virginia Beach-Norfolk-Newport News, VA-NC",2020-03-16,15,15,2,1,0,1723634,0,0,0,0
+"Virginia Beach-Norfolk-Newport News, VA-NC",2020-03-17,16,18,3,2,1,1723634,0,0,0,0
+"Virginia Beach-Norfolk-Newport News, VA-NC",2020-03-18,17,19,1,2,0,1723634,0,0,0,0
+"Virginia Beach-Norfolk-Newport News, VA-NC",2020-03-19,18,20,1,2,0,1723634,1,1,1,0
+"Virginia Beach-Norfolk-Newport News, VA-NC",2020-03-20,19,34,14,2,0,1723634,1,1,1,0
+"Virginia Beach-Norfolk-Newport News, VA-NC",2020-03-21,20,41,7,2,0,1723634,1,1,1,0
+"Virginia Beach-Norfolk-Newport News, VA-NC",2020-03-22,21,69,28,5,3,1723634,1,1,1,0
+"Virginia Beach-Norfolk-Newport News, VA-NC",2020-03-23,22,72,3,5,0,1723634,1,1,1,0
+"Virginia Beach-Norfolk-Newport News, VA-NC",2020-03-24,23,82,10,5,0,1723634,1,1,1,0
+"Virginia Beach-Norfolk-Newport News, VA-NC",2020-03-25,24,98,16,5,0,1723634,1,1,1,1
+"Virginia Beach-Norfolk-Newport News, VA-NC",2020-03-26,25,119,21,5,0,1723634,1,1,1,1
+"Virginia Beach-Norfolk-Newport News, VA-NC",2020-03-27,26,139,20,5,0,1723634,1,1,1,1
+"Virginia Beach-Norfolk-Newport News, VA-NC",2020-03-28,27,170,31,5,0,1723634,1,1,1,1
+"Virginia Beach-Norfolk-Newport News, VA-NC",2020-03-29,28,207,37,5,0,1723634,1,1,1,1
+"Virginia Beach-Norfolk-Newport News, VA-NC",2020-03-30,29,227,20,5,0,1723634,1,1,1,1
+"Virginia Beach-Norfolk-Newport News, VA-NC",2020-03-31,30,295,68,5,0,1723634,1,1,1,1
+"Virginia Beach-Norfolk-Newport News, VA-NC",2020-04-01,31,354,59,5,0,1723634,1,1,1,1
+"Virginia Beach-Norfolk-Newport News, VA-NC",2020-04-02,32,405,51,5,0,1723634,1,1,1,1
+"Virginia Beach-Norfolk-Newport News, VA-NC",2020-04-03,33,473,68,9,4,1723634,1,1,1,1
+"Virginia Beach-Norfolk-Newport News, VA-NC",2020-04-04,34,590,117,9,0,1723634,1,1,1,1
+"Virginia Beach-Norfolk-Newport News, VA-NC",2020-04-05,35,627,37,9,0,1723634,1,1,1,1
+"Virginia Beach-Norfolk-Newport News, VA-NC",2020-04-06,36,661,34,9,0,1723634,1,1,1,1
+"Virginia Beach-Norfolk-Newport News, VA-NC",2020-04-07,37,726,65,11,2,1723634,1,1,1,1
+"Virginia Beach-Norfolk-Newport News, VA-NC",2020-04-08,38,782,56,11,0,1723634,1,1,1,1
+"Virginia Beach-Norfolk-Newport News, VA-NC",2020-04-09,39,813,31,11,0,1723634,1,1,1,1
+"Virginia Beach-Norfolk-Newport News, VA-NC",2020-04-10,40,857,44,11,0,1723634,1,1,1,1
+"Virginia Beach-Norfolk-Newport News, VA-NC",2020-04-11,41,901,44,11,0,1723634,1,1,1,1
+"Virginia Beach-Norfolk-Newport News, VA-NC",2020-04-12,42,933,32,11,0,1723634,1,1,1,1
+"Virginia Beach-Norfolk-Newport News, VA-NC",2020-04-13,43,988,55,11,0,1723634,1,1,1,1
+"Virginia Beach-Norfolk-Newport News, VA-NC",2020-04-14,44,1045,57,20,9,1723634,1,1,1,1
+"Virginia Beach-Norfolk-Newport News, VA-NC",2020-04-15,45,1063,18,20,0,1723634,1,1,1,1
+"Virginia Beach-Norfolk-Newport News, VA-NC",2020-04-16,46,1095,32,20,0,1723634,1,1,1,1
+"Virginia Beach-Norfolk-Newport News, VA-NC",2020-04-17,47,1129,34,20,0,1723634,1,1,1,1
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-03-01,0,0,0,0,0,6190839,0,0,0,0
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-03-02,1,0,0,0,0,6190839,0,0,0,0
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-03-05,4,3,3,0,0,6190839,0,0,0,0
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-03-06,5,3,0,0,0,6190839,0,0,0,0
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-03-07,6,5,2,0,0,6190839,0,0,0,0
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-03-08,7,7,2,0,0,6190839,0,0,0,0
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-03-09,8,13,6,0,0,6190839,0,0,0,0
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-03-10,9,18,5,0,0,6190839,0,0,0,0
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-03-11,10,29,11,0,0,6190839,0,0,0,0
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-03-12,11,31,2,0,0,6190839,0,0,0,0
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-03-13,12,41,10,0,0,6190839,0,0,0,0
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-03-14,13,62,21,0,0,6190839,0,0,0,0
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-03-15,14,67,5,0,0,6190839,0,0,0,0
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-03-16,15,80,13,0,0,6190839,0,0,0,0
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-03-17,16,110,30,0,0,6190839,0,0,0,0
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-03-18,17,133,23,1,1,6190839,0,0,0,0
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-03-19,18,185,52,1,0,6190839,0,1,1,0
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-03-20,19,225,40,2,1,6190839,1,1,1,0
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-03-21,20,290,65,4,2,6190839,1,1,1,0
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-03-22,21,352,62,5,1,6190839,1,1,1,0
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-03-23,22,416,64,5,0,6190839,1,1,1,0
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-03-24,23,507,91,6,1,6190839,1,1,1,0
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-03-25,24,651,144,7,1,6190839,1,1,1,0
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-03-26,25,880,229,7,0,6190839,1,1,1,0
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-03-27,26,1022,142,8,1,6190839,1,1,1,1
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-03-28,27,1238,216,10,2,6190839,1,1,1,1
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-03-29,28,1424,186,12,2,6190839,1,1,1,1
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-03-30,29,1728,304,21,9,6190839,1,1,1,1
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-03-31,30,1932,204,22,1,6190839,1,1,1,1
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-04-01,31,2263,331,30,8,6190839,1,1,1,1
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-04-02,32,2563,300,36,6,6190839,1,1,1,1
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-04-03,33,2970,407,45,9,6190839,1,1,1,1
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-04-04,34,3422,452,55,10,6190839,1,1,1,1
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-04-05,35,3886,464,65,10,6190839,1,1,1,1
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-04-06,36,4415,529,82,17,6190839,1,1,1,1
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-04-07,37,4937,522,89,7,6190839,1,1,1,1
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-04-08,38,5905,968,106,17,6190839,1,1,1,1
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-04-09,39,6575,670,125,19,6190839,1,1,1,1
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-04-10,40,7453,878,149,24,6190839,1,1,1,1
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-04-11,41,8326,873,170,21,6190839,1,1,1,1
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-04-12,42,8793,467,190,20,6190839,1,1,1,1
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-04-13,43,9552,759,217,27,6190839,1,1,1,1
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-04-14,44,10172,620,260,43,6190839,1,1,1,1
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-04-15,45,10739,567,271,11,6190839,1,1,1,1
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-04-16,46,11589,850,298,27,6190839,1,1,1,1
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020-04-17,47,12436,847,328,30,6190839,1,1,1,1
